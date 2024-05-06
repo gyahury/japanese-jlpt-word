@@ -1,0 +1,1 @@
+japanese word json file for jlpt
