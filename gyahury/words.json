@@ -8,6 +8,34 @@
             "meaning": "사무라이",
             "jlpt":"n5",
             "etc":""
+        },
+        {
+            "type": "1",
+            "language": "Japanese",
+            "word": "規則",
+            "furigana": "きそく",
+            "meaning": "규칙",
+            "jlpt":"n2",
+            "etc":""
+        },
+        {
+            "type": "2",
+            "language": "Japanese",
+            "word": "意味",
+            "furigana": "いみ",
+            "meaning": "의미",
+            "jlpt":"n2",
+            "etc":""
+        },
+        {
+            "type": "3",
+            "language": "Japanese",
+            "word": "場合",
+            "furigana": "ばあい",
+            "meaning": "경우",
+            "jlpt":"n2",
+            "etc":""
         }
+        
     ]
 }
