@@ -1,41 +1,679 @@
 {
     "words": [
         {
-            "type": "1",
+            "type": "2023 한자읽기",
             "language": "Japanese",
-            "word": "侍",
-            "furigana": "さむらい",
-            "meaning": "사무라이",
-            "jlpt":"n5",
-            "etc":""
+            "word": "握手",
+            "furigana": "あくしゅ",
+            "meaning": "악수",
+            "jlpt": "n2",
+            "etc": ""
+        },
+            {
+            "type": "2023 한자읽기",
+            "language": "Japanese",
+            "word": "腕",
+            "furigana": "うで",
+            "meaning": "팔",
+            "jlpt": "n2",
+            "etc": ""
         },
         {
-            "type": "1",
+            "type": "2023 한자읽기",
             "language": "Japanese",
-            "word": "規則",
-            "furigana": "きそく",
-            "meaning": "규칙",
-            "jlpt":"n2",
-            "etc":""
+            "word": "幼い",
+            "furigana": "おさない",
+            "meaning": "어리다, 유치하다",
+            "jlpt": "n2",
+            "etc": ""
         },
         {
-            "type": "2",
+            "type": "2023 한자읽기",
             "language": "Japanese",
-            "word": "意味",
-            "furigana": "いみ",
-            "meaning": "의미",
-            "jlpt":"n2",
-            "etc":""
+            "word": "善良だ",
+            "furigana": "ぜんりょうだ",
+            "meaning": "선량하다, 어질다",
+            "jlpt": "n2",
+            "etc": ""
         },
         {
-            "type": "3",
+            "type": "2023 한자읽기",
             "language": "Japanese",
-            "word": "場合",
-            "furigana": "ばあい",
-            "meaning": "경우",
-            "jlpt":"n2",
-            "etc":""
+            "word": "模範",
+            "furigana": "もはん",
+            "meaning": "모범",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2023 한자읽기",
+            "language": "Japanese",
+            "word": "運賃",
+            "furigana": "うんちん",
+            "meaning": "운임",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2023 한자읽기",
+            "language": "Japanese",
+            "word": "険しい",
+            "furigana": "けわしい",
+            "meaning": "험악하다, 험상궂다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2023 한자읽기",
+            "language": "Japanese",
+            "word": "平等",
+            "furigana": "びょうどう",
+            "meaning": "평등",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2023 한자읽기",
+            "language": "Japanese",
+            "word": "削除",
+            "furigana": "さくじょ",
+            "meaning": "삭제",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2023 한자읽기",
+            "language": "Japanese",
+            "word": "乱れる",
+            "furigana": "みだれる",
+            "meaning": "흐트러지다, 혼란하다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2022 한자읽기",
+            "language": "Japanese",
+            "word": "勇ましい",
+            "furigana": "いさましい",
+            "meaning": "용감하다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2022 한자읽기",
+            "language": "Japanese",
+            "word": "偉い",
+            "furigana": "えらい",
+            "meaning": "대단하다, 위대하다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2022 한자읽기",
+            "language": "Japanese",
+            "word": "警備",
+            "furigana": "けいび",
+            "meaning": "경비",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2022 한자읽기",
+            "language": "Japanese",
+            "word": "刺激",
+            "furigana": "しげき",
+            "meaning": "자극",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2022 한자읽기",
+            "language": "Japanese",
+            "word": "素材",
+            "furigana": "そざい",
+            "meaning": "소재",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2022 한자읽기",
+            "language": "Japanese",
+            "word": "務める",
+            "furigana": "つとめる",
+            "meaning": "역할을 맡다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2022 한자읽기",
+            "language": "Japanese",
+            "word": "記憶",
+            "furigana": "きおく",
+            "meaning": "기억",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2022 한자읽기",
+            "language": "Japanese",
+            "word": "世間",
+            "furigana": "せけん",
+            "meaning": "세간, 세상",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2022 한자읽기",
+            "language": "Japanese",
+            "word": "途端に",
+            "furigana": "とたんに",
+            "meaning": "바로 그 순간",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2022 한자읽기",
+            "language": "Japanese",
+            "word": "外れる",
+            "furigana": "はずれる",
+            "meaning": "제외되다, 벗어나다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2021 한자읽기",
+            "language": "Japanese",
+            "word": "焦る",
+            "furigana": "あせる",
+            "meaning": "초조해하다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2021 한자읽기",
+            "language": "Japanese",
+            "word": "著しい",
+            "furigana": "いちじるしい",
+            "meaning": "현저하다, 두드러지다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2021 한자읽기",
+            "language": "Japanese",
+            "word": "拡充",
+            "furigana": "かくじゅう",
+            "meaning": "확충",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2021 한자읽기",
+            "language": "Japanese",
+            "word": "懐く",
+            "furigana": "なつく",
+            "meaning": "기울다, 치우치다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2021 한자읽기",
+            "language": "Japanese",
+            "word": "声援",
+            "furigana": "せいえん",
+            "meaning": "성원",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2021 한자읽기",
+            "language": "Japanese",
+            "word": "情景",
+            "furigana": "じょうけい",
+            "meaning": "정경, 광경",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2021 한자읽기",
+            "language": "Japanese",
+            "word": "破片",
+            "furigana": "はへん",
+            "meaning": "파편",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2021 한자읽기",
+            "language": "Japanese",
+            "word": "介護",
+            "furigana": "かいご",
+            "meaning": "간호",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2021 한자읽기",
+            "language": "Japanese",
+            "word": "賛否",
+            "furigana": "さんぴ",
+            "meaning": "찬반",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2021 한자읽기",
+            "language": "Japanese",
+            "word": "乏しい",
+            "furigana": "とぼしい",
+            "meaning": "모자라다, 부족하다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+         {
+            "type": "2020 한자읽기",
+            "language": "Japanese",
+            "word": "下降",
+            "furigana": "かこう",
+            "meaning": "하강, 추락",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2020 한자읽기",
+            "language": "Japanese",
+            "word": "険しい",
+            "furigana": "けわしい",
+            "meaning": "험악하다, 험상궂다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2020 한자읽기",
+            "language": "Japanese",
+            "word": "倒す",
+            "furigana": "たおす",
+            "meaning": "쓰러뜨리다, 무너뜨리다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2020 한자읽기",
+            "language": "Japanese",
+            "word": "比喩的",
+            "furigana": "ひゆてき",
+            "meaning": "비교적",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2020 한자읽기",
+            "language": "Japanese",
+            "word": "損害",
+            "furigana": "そんがい",
+            "meaning": "손해",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2019 한자읽기",
+            "language": "Japanese",
+            "word": "圧倒的",
+            "furigana": "あっとうてき",
+            "meaning": "압도적",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2019 한자읽기",
+            "language": "Japanese",
+            "word": "軽傷",
+            "furigana": "けいしょう",
+            "meaning": "경상",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2019 한자읽기",
+            "language": "Japanese",
+            "word": "憎む",
+            "furigana": "にくむ",
+            "meaning": "미워하다, 증오하다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2019 한자읽기",
+            "language": "Japanese",
+            "word": "負担",
+            "furigana": "ふたん",
+            "meaning": "부담",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2019 한자읽기",
+            "language": "Japanese",
+            "word": "映る",
+            "furigana": "うつる",
+            "meaning": "비치다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2019 한자읽기",
+            "language": "Japanese",
+            "word": "下旬",
+            "furigana": "げじゅん",
+            "meaning": "하순",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2019 한자읽기",
+            "language": "Japanese",
+            "word": "恥",
+            "furigana": "はじ",
+            "meaning": "부끄러움, 수치",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2019 한자읽기",
+            "language": "Japanese",
+            "word": "偶然",
+            "furigana": "ぐうぜん",
+            "meaning": "우연히",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2019 한자읽기",
+            "language": "Japanese",
+            "word": "刺激",
+            "furigana": "しげき",
+            "meaning": "자극",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2019 한자읽기",
+            "language": "Japanese",
+            "word": "等しい",
+            "furigana": "ひとしい",
+            "meaning": "동등하다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2018 한자읽기",
+            "language": "Japanese",
+            "word": "企画",
+            "furigana": "きかく",
+            "meaning": "기획",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2018 한자읽기",
+            "language": "Japanese",
+            "word": "湿る",
+            "furigana": "しめる",
+            "meaning": "촉촉해지다, 습기 차다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2018 한자읽기",
+            "language": "Japanese",
+            "word": "抽選",
+            "furigana": "ちゅうせん",
+            "meaning": "추첨",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2018 한자읽기",
+            "language": "Japanese",
+            "word": "冷蔵庫",
+            "furigana": "れいぞうこ",
+            "meaning": "냉장고",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2018 한자읽기",
+            "language": "Japanese",
+            "word": "怖い",
+            "furigana": "こわい",
+            "meaning": "무섭다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2018 한자읽기",
+            "language": "Japanese",
+            "word": "処理",
+            "furigana": "しょり",
+            "meaning": "처리",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2018 한자읽기",
+            "language": "Japanese",
+            "word": "和やか",
+            "furigana": "なごやか",
+            "meaning": "온화함",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2018 한자읽기",
+            "language": "Japanese",
+            "word": "再度",
+            "furigana": "さいど",
+            "meaning": "재차, 다시",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2018 한자읽기",
+            "language": "Japanese",
+            "word": "総額",
+            "furigana": "そうがく",
+            "meaning": "총액",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2018 한자읽기",
+            "language": "Japanese",
+            "word": "離れる",
+            "furigana": "はなれる",
+            "meaning": "멀어지다, 떨어지다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2017 한자읽기",
+            "language": "Japanese",
+            "word": "幼い",
+            "furigana": "おさない",
+            "meaning": "어리다, 유치하다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2017 한자읽기",
+            "language": "Japanese",
+            "word": "綻る",
+            "furigana": "ほころびる",
+            "meaning": "조이다, (쥐어)짜다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2017 한자읽기",
+            "language": "Japanese",
+            "word": "強火",
+            "furigana": "つよび",
+            "meaning": "센 불",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2017 한자읽기",
+            "language": "Japanese",
+            "word": "密閉",
+            "furigana": "みっぺい",
+            "meaning": "밀폐",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2017 한자읽기",
+            "language": "Japanese",
+            "word": "抱える",
+            "furigana": "かかえる",
+            "meaning": "떠안다, 책임지다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2017 한자읽기",
+            "language": "Japanese",
+            "word": "柔軟に",
+            "furigana": "じゅうなんに",
+            "meaning": "유연하게",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2017 한자읽기",
+            "language": "Japanese",
+            "word": "握る",
+            "furigana": "にぎる",
+            "meaning": "쥐다, 잡다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2017 한자읽기",
+            "language": "Japanese",
+            "word": "求人",
+            "furigana": "きゅうじん",
+            "meaning": "구인",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2017 한자읽기",
+            "language": "Japanese",
+            "word": "垂直",
+            "furigana": "すいちょく",
+            "meaning": "수직",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {                                        
+            "type": "2017 한자읽기",
+            "language": "Japanese",
+            "word": "乱れる",
+            "furigana": "みだれる",
+            "meaning": "흐트러지다, 혼란하다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2016 한자읽기",
+            "language": "Japanese",
+            "word": "怪しい",
+            "furigana": "あやしい",
+            "meaning": "수상하다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2016 한자읽기",
+            "language": "Japanese",
+            "word": "願望",
+            "furigana": "がんぼう",
+            "meaning": "바람, 소원",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2016 한자읽기",
+            "language": "Japanese",
+            "word": "治療",
+            "furigana": "ちりょう",
+            "meaning": "치료",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2016 한자읽기",
+            "language": "Japanese",
+            "word": "容姿",
+            "furigana": "ようし",
+            "meaning": "용모, 외모",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2016 한자읽기",
+            "language": "Japanese",
+            "word": "納める",
+            "furigana": "おさめる",
+            "meaning": "넣다, 납입하다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2016 한자읽기",
+            "language": "Japanese",
+            "word": "競う",
+            "furigana": "きそう",
+            "meaning": "겨루다, 경쟁하다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2016 한자읽기",
+            "language": "Japanese",
+            "word": "伴う",
+            "furigana": "ともなう",
+            "meaning": "동반하다, 따르다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2016 한자읽기",
+            "language": "Japanese",
+            "word": "劣る",
+            "furigana": "おとる",
+            "meaning": "뒤떨어지다",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2016 한자읽기",
+            "language": "Japanese",
+            "word": "貴重",
+            "furigana": "きちょう",
+            "meaning": "귀중함",
+            "jlpt": "n2",
+            "etc": ""
+        },
+        {
+            "type": "2016 한자읽기",
+            "language": "Japanese",
+            "word": "批評",
+            "furigana": "ひひょう",
+            "meaning": "비평",
+            "jlpt": "n2",
+            "etc": ""
         }
-        
     ]
 }
