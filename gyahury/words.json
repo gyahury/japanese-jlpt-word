@@ -674,6 +674,96 @@
             "meaning": "비평",
             "jlpt": "n2",
             "etc": ""
-        }
+        },
+	{
+        "type": "2023 한자표기",
+        "language": "Japanese",
+        "word": "抱える",
+        "furigana": "かかえる",
+        "meaning": "안다, 떠안다",
+        "jlpt": "n2",
+        "etc": ""
+    },
+    {
+        "type": "2023 한자표기",
+        "language": "Japanese",
+        "word": "研修",
+        "furigana": "けんしゅう",
+        "meaning": "연수",
+        "jlpt": "n2",
+        "etc": ""
+    },
+    {
+        "type": "2023 한자표기",
+        "language": "Japanese",
+        "word": "絶えず",
+        "furigana": "たえず",
+        "meaning": "끊임없이",
+        "jlpt": "n2",
+        "etc": ""
+    },
+    {
+        "type": "2023 한자표기",
+        "language": "Japanese",
+        "word": "福祉",
+        "furigana": "ふくし",
+        "meaning": "복지",
+        "jlpt": "n2",
+        "etc": ""
+    },
+    {
+        "type": "2023 한자표기",
+        "language": "Japanese",
+        "word": "管理",
+        "furigana": "かんり",
+        "meaning": "관리",
+        "jlpt": "n2",
+        "etc": ""
+    },
+    {
+        "type": "2023 한자표기",
+        "language": "Japanese",
+        "word": "捨てる",
+        "furigana": "すてる",
+        "meaning": "버리다",
+        "jlpt": "n2",
+        "etc": ""
+    },
+    {
+        "type": "2023 한자표기",
+        "language": "Japanese",
+        "word": "投票",
+        "furigana": "とうひょう",
+        "meaning": "투표",
+        "jlpt": "n2",
+        "etc": ""
+    },
+    {
+        "type": "2023 한자표기",
+        "language": "Japanese",
+        "word": "機嫌",
+        "furigana": "きげん",
+        "meaning": "기분, 심기",
+        "jlpt": "n2",
+        "etc": ""
+    },
+    {
+        "type": "2023 한자표기",
+        "language": "Japanese",
+        "word": "損失",
+        "furigana": "そんしつ",
+        "meaning": "손실",
+        "jlpt": "n2",
+        "etc": ""
+    },
+    {
+        "type": "2023 한자표기",
+        "language": "Japanese",
+        "word": "布",
+        "furigana": "ぬの",
+        "meaning": "천",
+        "jlpt": "n2",
+        "etc": ""
+	}
     ]
 }
