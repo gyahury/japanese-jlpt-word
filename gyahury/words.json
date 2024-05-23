@@ -1241,6 +1241,312 @@
 	        "meaning": "~에 의해",
 	        "pos": "particle",
 	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "のように",
+	        "furigana": "のように",
+	        "meaning": "~처럼",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "のほかに",
+	        "furigana": "のほかに",
+	        "meaning": "~외에",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "といっても",
+	        "furigana": "といっても",
+	        "meaning": "~라고 해도",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "であっても",
+	        "furigana": "であっても",
+	        "meaning": "~일지라도",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "しておきます",
+	        "furigana": "しておきます",
+	        "meaning": "~해 놓습니다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "されています",
+	        "furigana": "されています",
+	        "meaning": "~되고 있습니다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "しておく点です",
+	        "furigana": "しておくてんです",
+	        "meaning": "~해 둘 점입니다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "されている点です",
+	        "furigana": "されているてんです",
+	        "meaning": "~되고 있는 점입니다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+		{
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "一方",
+	        "furigana": "いっぽう",
+	        "meaning": "한편, 다른 한편으로",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "ちなみに",
+	        "furigana": "ちなみ",
+	        "meaning": "덧붙여 말하자면, 참고로",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "ところが",
+	        "furigana": "ところが",
+	        "meaning": "그러나, 그런데",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "そのため",
+	        "furigana": "そのため",
+	        "meaning": "그러므로, 그래서",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+		{
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "歴史",
+	        "furigana": "れきし",
+	        "meaning": "역사",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "知られる",
+	        "furigana": "しられる",
+	        "meaning": "알려지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "知られていません",
+	        "furigana": "しられていません",
+	        "meaning": "알려져 있지 않다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "数",
+	        "furigana": "かず",
+	        "meaning": "수",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "限り",
+	        "furigana": "かぎり",
+	        "meaning": "한계",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "広まる",
+	        "furigana": "ひろまる",
+	        "meaning": "퍼지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "需要",
+	        "furigana": "じゅよう",
+	        "meaning": "수요",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "増える",
+	        "furigana": "ふえる",
+	        "meaning": "늘다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "増えすぎれば",
+	        "furigana": "ふえすぎれば",
+	        "meaning": "너무 많아지면",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "なくなる",
+	        "furigana": "なくなる",
+	        "meaning": "없어지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "おそれ",
+	        "furigana": "おそれ",
+	        "meaning": "우려",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "多くの",
+	        "furigana": "おおくの",
+	        "meaning": "많은",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "弟子",
+	        "furigana": "でし",
+	        "meaning": "제자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "受け入れる",
+	        "furigana": "うけいれる",
+	        "meaning": "받아들이다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "受け入れませんでした",
+	        "furigana": "うけいれませんでした",
+	        "meaning": "받아들이지 않았다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "よく",
+	        "furigana": "よく",
+	        "meaning": "잘",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "知られていない",
+	        "furigana": "しられていない",
+	        "meaning": "알려지지 않다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "そういう",
+	        "furigana": "そういう",
+	        "meaning": "그러한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "そういった",
+	        "furigana": "そういった",
+	        "meaning": "그러한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "事情",
+	        "furigana": "じじょう",
+	        "meaning": "사정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "そうだ",
+	        "furigana": "そうだ",
+	        "meaning": "~라고 한다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "そうです",
+	        "furigana": "そうです",
+	        "meaning": "~라고 합니다",
+	        "pos": "expression",
+	        "etc": ""
 	    }
     ]
 }
