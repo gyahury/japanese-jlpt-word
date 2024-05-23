@@ -675,95 +675,356 @@
             "jlpt": "n2",
             "etc": ""
         },
-	{
-        "type": "2023 한자표기",
+		{
+	        "type": "2023 한자표기",
+	        "language": "Japanese",
+	        "word": "抱える",
+	        "furigana": "かかえる",
+	        "meaning": "안다, 떠안다",
+	        "jlpt": "n2",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 한자표기",
+	        "language": "Japanese",
+	        "word": "研修",
+	        "furigana": "けんしゅう",
+	        "meaning": "연수",
+	        "jlpt": "n2",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 한자표기",
+	        "language": "Japanese",
+	        "word": "絶えず",
+	        "furigana": "たえず",
+	        "meaning": "끊임없이",
+	        "jlpt": "n2",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 한자표기",
+	        "language": "Japanese",
+	        "word": "福祉",
+	        "furigana": "ふくし",
+	        "meaning": "복지",
+	        "jlpt": "n2",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 한자표기",
+	        "language": "Japanese",
+	        "word": "管理",
+	        "furigana": "かんり",
+	        "meaning": "관리",
+	        "jlpt": "n2",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 한자표기",
+	        "language": "Japanese",
+	        "word": "捨てる",
+	        "furigana": "すてる",
+	        "meaning": "버리다",
+	        "jlpt": "n2",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 한자표기",
+	        "language": "Japanese",
+	        "word": "投票",
+	        "furigana": "とうひょう",
+	        "meaning": "투표",
+	        "jlpt": "n2",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 한자표기",
+	        "language": "Japanese",
+	        "word": "機嫌",
+	        "furigana": "きげん",
+	        "meaning": "기분, 심기",
+	        "jlpt": "n2",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 한자표기",
+	        "language": "Japanese",
+	        "word": "損失",
+	        "furigana": "そんしつ",
+	        "meaning": "손실",
+	        "jlpt": "n2",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 한자표기",
+	        "language": "Japanese",
+	        "word": "布",
+	        "furigana": "ぬの",
+	        "meaning": "천",
+	        "jlpt": "n2",
+	        "etc": ""
+		},
+		{
+        "type": "2307독해1",
         "language": "Japanese",
-        "word": "抱える",
-        "furigana": "かかえる",
-        "meaning": "안다, 떠안다",
-        "jlpt": "n2",
+        "word": "次",
+        "furigana": "つぎ",
+        "meaning": "다음",
+        "pos": "noun",
         "etc": ""
-    },
-    {
-        "type": "2023 한자표기",
-        "language": "Japanese",
-        "word": "研修",
-        "furigana": "けんしゅう",
-        "meaning": "연수",
-        "jlpt": "n2",
-        "etc": ""
-    },
-    {
-        "type": "2023 한자표기",
-        "language": "Japanese",
-        "word": "絶えず",
-        "furigana": "たえず",
-        "meaning": "끊임없이",
-        "jlpt": "n2",
-        "etc": ""
-    },
-    {
-        "type": "2023 한자표기",
-        "language": "Japanese",
-        "word": "福祉",
-        "furigana": "ふくし",
-        "meaning": "복지",
-        "jlpt": "n2",
-        "etc": ""
-    },
-    {
-        "type": "2023 한자표기",
-        "language": "Japanese",
-        "word": "管理",
-        "furigana": "かんり",
-        "meaning": "관리",
-        "jlpt": "n2",
-        "etc": ""
-    },
-    {
-        "type": "2023 한자표기",
-        "language": "Japanese",
-        "word": "捨てる",
-        "furigana": "すてる",
-        "meaning": "버리다",
-        "jlpt": "n2",
-        "etc": ""
-    },
-    {
-        "type": "2023 한자표기",
-        "language": "Japanese",
-        "word": "投票",
-        "furigana": "とうひょう",
-        "meaning": "투표",
-        "jlpt": "n2",
-        "etc": ""
-    },
-    {
-        "type": "2023 한자표기",
-        "language": "Japanese",
-        "word": "機嫌",
-        "furigana": "きげん",
-        "meaning": "기분, 심기",
-        "jlpt": "n2",
-        "etc": ""
-    },
-    {
-        "type": "2023 한자표기",
-        "language": "Japanese",
-        "word": "損失",
-        "furigana": "そんしつ",
-        "meaning": "손실",
-        "jlpt": "n2",
-        "etc": ""
-    },
-    {
-        "type": "2023 한자표기",
-        "language": "Japanese",
-        "word": "布",
-        "furigana": "ぬの",
-        "meaning": "천",
-        "jlpt": "n2",
-        "etc": ""
-	}
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "文章",
+	        "furigana": "ぶんしょう",
+	        "meaning": "문장",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "全体",
+	        "furigana": "ぜんたい",
+	        "meaning": "전체",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "考えて",
+	        "furigana": "かんがえて",
+	        "meaning": "생각하고",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "内容",
+	        "furigana": "ないよう",
+	        "meaning": "내용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "入る",
+	        "furigana": "はいる",
+	        "meaning": "들어가다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "最も",
+	        "furigana": "もっとも",
+	        "meaning": "가장",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "選ぶ",
+	        "furigana": "えらぶ",
+	        "meaning": "선택하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "選びなさい",
+	        "furigana": "えらびなさい",
+	        "meaning": "선택하세요",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "以下",
+	        "furigana": "いか",
+	        "meaning": "아래, 이하",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "主に",
+	        "furigana": "おもに",
+	        "meaning": "주로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "である",
+	        "furigana": "である",
+	        "meaning": "~이다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "体験",
+	        "furigana": "たいけん",
+	        "meaning": "체험",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "できる",
+	        "furigana": "できる",
+	        "meaning": "가능하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "誘う",
+	        "furigana": "さそう",
+	        "meaning": "권유하다, 초대하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "誘う",
+	        "furigana": "さそう",
+	        "meaning": "초대하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "くれる",
+	        "furigana": "くれる",
+	        "meaning": "주다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "誘ってくれた",
+	        "furigana": "さそってくれた",
+	        "meaning": "권해주었다, 초대해주었다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "きっかけに",
+	        "furigana": "きっかけに",
+	        "meaning": "~를 계기로",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "初めて",
+	        "furigana": "はじめて",
+	        "meaning": "처음으로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "知る",
+	        "furigana": "しる",
+	        "meaning": "알다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "とは",
+	        "furigana": "とは",
+	        "meaning": "~란",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "香り",
+	        "furigana": "かおり",
+	        "meaning": "향기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "普段",
+	        "furigana": "ふだん",
+	        "meaning": "평소",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "など",
+	        "furigana": "など",
+	        "meaning": "~등",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "ので",
+	        "furigana": "ので",
+	        "meaning": "~때문에",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "伝統文化",
+	        "furigana": "でんとうぶんか",
+	        "meaning": "전통문화",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "楽しむ",
+	        "furigana": "たのしむ",
+	        "meaning": "즐기다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "楽しんでいる",
+	        "furigana": "たのしんでいる",
+	        "meaning": "즐기고 있다",
+	        "pos": "verb",
+	        "etc": ""
+	    }
     ]
 }
