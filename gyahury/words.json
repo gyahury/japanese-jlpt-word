@@ -766,13 +766,13 @@
 	        "etc": ""
 		},
 		{
-        "type": "2307독해1",
-        "language": "Japanese",
-        "word": "次",
-        "furigana": "つぎ",
-        "meaning": "다음",
-        "pos": "noun",
-        "etc": ""
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "次",
+	        "furigana": "つぎ",
+	        "meaning": "다음",
+	        "pos": "noun",
+	        "etc": ""
 	    },
 	    {
 	        "type": "2307독해1",
@@ -1232,6 +1232,15 @@
 	        "meaning": "~때문에",
 	        "pos": "particle",
 	        "etc": ""
-	    }
+	    },
+		{
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "よって",
+	        "furigana": "よって",
+	        "meaning": "~에 의해",
+	        "pos": "particle",
+	        "etc": ""
+	    },
     ]
 }
