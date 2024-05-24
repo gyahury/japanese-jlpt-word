@@ -1709,6 +1709,69 @@
 	        "meaning": "이러한",
 	        "pos": "phrase",
 	        "etc": ""
+	    },
+		{
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "一方",
+	        "furigana": "いっぽう",
+	        "meaning": "한편",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "ちなみに",
+	        "furigana": "ちなみに",
+	        "meaning": "덧붙여 말하자면",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "ところが",
+	        "furigana": "ところが",
+	        "meaning": "그러나, 그런데",
+	        "pos": "conjunction",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "そのため",
+	        "furigana": "そのため",
+	        "meaning": "그러므로, 그래서",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "と思った",
+	        "furigana": "とおもった",
+	        "meaning": "~라고 생각했다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "はずです",
+	        "furigana": "はずです",
+	        "meaning": "~일 것입니다 (확신)",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "でしょう",
+	        "furigana": "でしょう",
+	        "meaning": "~겠지요 (추측)",
+	        "pos": "expression",
+	        "etc": ""
 	    }
     ]
 }
