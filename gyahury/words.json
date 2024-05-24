@@ -1547,6 +1547,168 @@
 	        "meaning": "~라고 합니다",
 	        "pos": "expression",
 	        "etc": ""
+	    },
+		{
+        "type": "2307독해1",
+        "language": "Japanese",
+        "word": "心",
+        "furigana": "こころ",
+        "meaning": "마음",
+        "pos": "noun",
+        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "傾ける",
+	        "furigana": "かたむける",
+	        "meaning": "기울이다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "基本",
+	        "furigana": "きほん",
+	        "meaning": "기본",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "ながら",
+	        "furigana": "ながら",
+	        "meaning": "~하면서",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "鑑賞する",
+	        "furigana": "かんしょうする",
+	        "meaning": "감상하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "たり",
+	        "furigana": "たり",
+	        "meaning": "~하거나",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "当てる",
+	        "furigana": "あてる",
+	        "meaning": "맞추다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "嗅いで",
+	        "furigana": "かいで",
+	        "meaning": "맡다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "じっくりと",
+	        "furigana": "じっくりと",
+	        "meaning": "차분히, 꼼꼼히",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "味わう",
+	        "furigana": "あじわう",
+	        "meaning": "맛보다, 음미하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+		{
+        "type": "2307독해1",
+        "language": "Japanese",
+        "word": "繊細な",
+        "furigana": "せんさいな",
+        "meaning": "섬세한",
+        "pos": "adjective",
+        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "通して",
+	        "furigana": "とおして",
+	        "meaning": "통해서",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "意味",
+	        "furigana": "いみ",
+	        "meaning": "의미",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "ような",
+	        "furigana": "ような",
+	        "meaning": "~같은, ~처럼 (뒤에 명사)",
+	        "pos": "phrase",
+	        "etc": ""
+	    },
+		{
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "ように",
+	        "furigana": "ように",
+	        "meaning": "~처럼 (뒤에 동사/형용사)",
+	        "pos": "phrase",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "気",
+	        "furigana": "き",
+	        "meaning": "기분, 느낌",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "手軽",
+	        "furigana": "てがる",
+	        "meaning": "간편",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "このような",
+	        "furigana": "このような",
+	        "meaning": "이러한",
+	        "pos": "phrase",
+	        "etc": ""
 	    }
     ]
 }
