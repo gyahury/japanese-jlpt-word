@@ -1422,12 +1422,39 @@
 	        "pos": "verb",
 	        "etc": ""
 	    },
+		{
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "過ぎる",
+	        "furigana": "すぎる",
+	        "meaning": "지나치다, 넘다, 통과하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+		{
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "ば",
+	        "furigana": "ば",
+	        "meaning": "~하면",
+	        "pos": "conjunction",
+	        "etc": ""
+	    },
 	    {
 	        "type": "2307독해1",
 	        "language": "Japanese",
 	        "word": "増えすぎれば",
 	        "furigana": "ふえすぎれば",
 	        "meaning": "너무 많아지면",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+		{
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "なる",
+	        "furigana": "なる",
+	        "meaning": "~로 되다",
 	        "pos": "verb",
 	        "etc": ""
 	    },
@@ -1549,13 +1576,13 @@
 	        "etc": ""
 	    },
 		{
-        "type": "2307독해1",
-        "language": "Japanese",
-        "word": "心",
-        "furigana": "こころ",
-        "meaning": "마음",
-        "pos": "noun",
-        "etc": ""
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "心",
+	        "furigana": "こころ",
+	        "meaning": "마음",
+	        "pos": "noun",
+	        "etc": ""
 	    },
 	    {
 	        "type": "2307독해1",
@@ -1623,8 +1650,8 @@
 	    {
 	        "type": "2307독해1",
 	        "language": "Japanese",
-	        "word": "じっくりと",
-	        "furigana": "じっくりと",
+	        "word": "じっくり(と)",
+	        "furigana": "じっくり(と)",
 	        "meaning": "차분히, 꼼꼼히",
 	        "pos": "adverb",
 	        "etc": ""
@@ -1639,13 +1666,13 @@
 	        "etc": ""
 	    },
 		{
-        "type": "2307독해1",
-        "language": "Japanese",
-        "word": "繊細な",
-        "furigana": "せんさいな",
-        "meaning": "섬세한",
-        "pos": "adjective",
-        "etc": ""
+	        "type": "2307독해1",
+	        "language": "Japanese",
+	        "word": "繊細な",
+	        "furigana": "せんさいな",
+	        "meaning": "섬세한",
+	        "pos": "adjective",
+	        "etc": ""
 	    },
 	    {
 	        "type": "2307독해1",
