@@ -3050,6 +3050,393 @@
 	        "meaning": "올해",
 	        "pos": "noun",
 	        "etc": ""
+	    },
+		{
+        "type": "스쿠스쿠17",
+        "language": "Japanese",
+        "word": "仕事で",
+        "furigana": "しごとで",
+        "meaning": "일로/일 때문에",
+        "pos": "expression",
+        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "北海道",
+	        "furigana": "ほっかいどう",
+	        "meaning": "홋카이도(북해도)",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "まだ",
+	        "furigana": "まだ",
+	        "meaning": "아직",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "カニ",
+	        "furigana": "かに",
+	        "meaning": "게",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "お土産",
+	        "furigana": "おみやげ",
+	        "meaning": "선물",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "〜がほしい",
+	        "furigana": "〜がほしい",
+	        "meaning": "~을/를 원한다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "頼む",
+	        "furigana": "たのむ",
+	        "meaning": "부탁하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "ところ",
+	        "furigana": "ところ",
+	        "meaning": "곳",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "買って来る",
+	        "furigana": "かってくる",
+	        "meaning": "사 오다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "置く",
+	        "furigana": "おく",
+	        "meaning": "놓다/두다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "呼ぶ",
+	        "furigana": "よぶ",
+	        "meaning": "부르다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "着る",
+	        "furigana": "きる",
+	        "meaning": "입다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "見せる",
+	        "furigana": "みせる",
+	        "meaning": "보여주다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "着物",
+	        "furigana": "きもの",
+	        "meaning": "기모노",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "習う",
+	        "furigana": "ならう",
+	        "meaning": "배우다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "野菜",
+	        "furigana": "やさい",
+	        "meaning": "야채",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "薬を飲む",
+	        "furigana": "くすりをのむ",
+	        "meaning": "약을 먹다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "降りる",
+	        "furigana": "おりる",
+	        "meaning": "내리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "毎晩",
+	        "furigana": "まいばん",
+	        "meaning": "매일 밤",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "シャワーを浴びる",
+	        "furigana": "シャワーをあびる",
+	        "meaning": "샤워를 하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "外国",
+	        "furigana": "がいこく",
+	        "meaning": "외국",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "〜に住む",
+	        "furigana": "〜にすむ",
+	        "meaning": "~에 살다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "イギリス",
+	        "furigana": "",
+	        "meaning": "영국",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "芸能人",
+	        "furigana": "げいのうじん",
+	        "meaning": "연예인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "先週",
+	        "furigana": "せんしゅう",
+	        "meaning": "지난주",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "海外旅行",
+	        "furigana": "かいがいりょこう",
+	        "meaning": "해외 여행",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "家族",
+	        "furigana": "かぞく",
+	        "meaning": "가족",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "出る",
+	        "furigana": "でる",
+	        "meaning": "나오다/나가다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "番組",
+	        "furigana": "ばんぐみ",
+	        "meaning": "방송/프로그램",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "クイズ番組",
+	        "furigana": "クイズばんぐみ",
+	        "meaning": "퀴즈 방송",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "手",
+	        "furigana": "て",
+	        "meaning": "손",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "歯",
+	        "furigana": "は",
+	        "meaning": "이/이빨",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "磨く",
+	        "furigana": "みがく",
+	        "meaning": "닦다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "化粧",
+	        "furigana": "けしょう",
+	        "meaning": "화장",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "靴",
+	        "furigana": "くつ",
+	        "meaning": "구두",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "脱ぐ",
+	        "furigana": "ぬぐ",
+	        "meaning": "벗다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "留学する",
+	        "furigana": "りゅうがくする",
+	        "meaning": "유학하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "出す",
+	        "furigana": "だす",
+	        "meaning": "내다/제출하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "送る",
+	        "furigana": "おくる",
+	        "meaning": "보내다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "終わる",
+	        "furigana": "おわる",
+	        "meaning": "끝나다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "質問",
+	        "furigana": "しつもん",
+	        "meaning": "질문",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "辞める",
+	        "furigana": "やめる",
+	        "meaning": "그만두다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "大学院",
+	        "furigana": "だいがくいん",
+	        "meaning": "대학원",
+	        "pos": "noun",
+	        "etc": ""
 	    }
     ]
 }
