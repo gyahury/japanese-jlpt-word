@@ -2150,7 +2150,7 @@
 	        "meaning": "있을 수 있다 (いる)",
 	        "pos": "verb",
 	        "etc": ""
-	    }
+	    },
 	    {
 	        "type": "상용한자46",
 	        "language": "Japanese",
@@ -2536,6 +2536,519 @@
 	        "furigana": "",
 	        "meaning": "모래 사",
 	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "高校",
+	        "furigana": "こうこう",
+	        "meaning": "고등학교",
+	        "pos": "noun",
+	        "etc": ""
+    	},
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "とき",
+	        "furigana": "とき",
+	        "meaning": "때",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "笑う",
+	        "furigana": "わらう",
+	        "meaning": "웃다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "全然",
+	        "furigana": "ぜんぜん",
+	        "meaning": "전혀",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "違う",
+	        "furigana": "ちがう",
+	        "meaning": "다르다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "本当に",
+	        "furigana": "ほんとうに",
+	        "meaning": "정말로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "太る",
+	        "furigana": "ふとる",
+	        "meaning": "살찌다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "やせる",
+	        "furigana": "やせる",
+	        "meaning": "마르다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "毎日",
+	        "furigana": "まいにち",
+	        "meaning": "매일",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "〜に通う",
+	        "furigana": "〜にかよう",
+	        "meaning": "~에 다니다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "頑張る",
+	        "furigana": "がんばる",
+	        "meaning": "열심히 하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "なくす",
+	        "furigana": "なくす",
+	        "meaning": "잃어버리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "全部",
+	        "furigana": "ぜんぶ",
+	        "meaning": "전부",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "借りる",
+	        "furigana": "かりる",
+	        "meaning": "빌리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "つける",
+	        "furigana": "つける",
+	        "meaning": "켜다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "おしゃべりをする",
+	        "furigana": "おしゃべりをする",
+	        "meaning": "수다를 떨다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "熱",
+	        "furigana": "ねつ",
+	        "meaning": "열",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "忘れる",
+	        "furigana": "わすれる",
+	        "meaning": "잊어버리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "お風呂に入る",
+	        "furigana": "おふろにはいる",
+	        "meaning": "목욕을 하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "約束",
+	        "furigana": "やくそく",
+	        "meaning": "약속",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "どうしたんですか",
+	        "furigana": "どうしたんですか",
+	        "meaning": "무슨 일입니까?",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "財布",
+	        "furigana": "さいふ",
+	        "meaning": "지갑",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "〜に遅れる",
+	        "furigana": "〜におくれる",
+	        "meaning": "~에 늦다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "お金",
+	        "furigana": "おかね",
+	        "meaning": "돈",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "たくさん",
+	        "furigana": "たくさん",
+	        "meaning": "많이",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "けんか",
+	        "furigana": "けんか",
+	        "meaning": "싸움",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "座る",
+	        "furigana": "すわる",
+	        "meaning": "앉다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "連れてくる",
+	        "furigana": "つれてくる",
+	        "meaning": "데리고 오다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "止める",
+	        "furigana": "とめる",
+	        "meaning": "(차를) 세우다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "隣",
+	        "furigana": "となり",
+	        "meaning": "옆",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "荷物",
+	        "furigana": "にもつ",
+	        "meaning": "짐",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "置く",
+	        "furigana": "おく",
+	        "meaning": "놓다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "一日",
+	        "furigana": "いちにち",
+	        "meaning": "하루",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "顔",
+	        "furigana": "かお",
+	        "meaning": "얼굴",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "洗う",
+	        "furigana": "あらう",
+	        "meaning": "씻다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "朝ごはん",
+	        "furigana": "あさごはん",
+	        "meaning": "아침밥",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "歯",
+	        "furigana": "は",
+	        "meaning": "이",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "磨く",
+	        "furigana": "みがく",
+	        "meaning": "닦다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "服",
+	        "furigana": "ふく",
+	        "meaning": "옷",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "着る",
+	        "furigana": "きる",
+	        "meaning": "입다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "出る",
+	        "furigana": "でる",
+	        "meaning": "나오다/나가다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "歩く",
+	        "furigana": "あるく",
+	        "meaning": "걷다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "昼ごはん",
+	        "furigana": "ひるごはん",
+	        "meaning": "점심밥",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "晩ごはん",
+	        "furigana": "ばんごはん",
+	        "meaning": "저녁밥",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "お茶",
+	        "furigana": "おちゃ",
+	        "meaning": "차",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "シャワーを浴びる",
+	        "furigana": "シャワーをあびる",
+	        "meaning": "샤워를 하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "最近",
+	        "furigana": "さいきん",
+	        "meaning": "최근",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "ダイエット",
+	        "furigana": "だいえっと",
+	        "meaning": "다이어트",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "なかなか",
+	        "furigana": "なかなか",
+	        "meaning": "좀처럼",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "心配だ",
+	        "furigana": "しんぱいだ",
+	        "meaning": "걱정이다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "ときどき",
+	        "furigana": "ときどき",
+	        "meaning": "때때로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "それで",
+	        "furigana": "それで",
+	        "meaning": "그래서",
+	        "pos": "conjunction",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "前",
+	        "furigana": "まえ",
+	        "meaning": "전/앞",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "失敗する",
+	        "furigana": "しっぱいする",
+	        "meaning": "실패하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "今度",
+	        "furigana": "こんど",
+	        "meaning": "이번",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "必ず",
+	        "furigana": "かならず",
+	        "meaning": "반드시",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "今年",
+	        "furigana": "ことし",
+	        "meaning": "올해",
+	        "pos": "noun",
 	        "etc": ""
 	    }
     ]
