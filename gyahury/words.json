@@ -1792,6 +1792,366 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "対する",
+	        "furigana": "たいする",
+	        "meaning": "~에 대하여",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "答え",
+	        "furigana": "こたえ",
+	        "meaning": "답",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "として",
+	        "furigana": "として",
+	        "meaning": "~으로써",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "相手",
+	        "furigana": "あいて",
+	        "meaning": "상대방",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "期待",
+	        "furigana": "きたい",
+	        "meaning": "기대",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "やめる",
+	        "furigana": "やめる",
+	        "meaning": "그만두다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "やめられれば",
+	        "furigana": "やめられれば",
+	        "meaning": "그만둘 수 있다면",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "怒り",
+	        "furigana": "いかり",
+	        "meaning": "분노",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "イライラ",
+	        "furigana": "いらいら",
+	        "meaning": "초조함",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "生まれず",
+	        "furigana": "うまれず",
+	        "meaning": "생기지 않고 (원형: 生まれる)",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "穏やか",
+	        "furigana": "おだやか",
+	        "meaning": "평온함",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "気持ち",
+	        "furigana": "きもち",
+	        "meaning": "기분",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "過ごす",
+	        "furigana": "すごす",
+	        "meaning": "보내다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "努力する",
+	        "furigana": "どりょくする",
+	        "meaning": "노력하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "手放す",
+	        "furigana": "てばなす",
+	        "meaning": "놓아버리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "穏やかに",
+	        "furigana": "おだやかに",
+	        "meaning": "평온하게",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "生きる",
+	        "furigana": "いきる",
+	        "meaning": "살다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "なので",
+	        "furigana": "なので",
+	        "meaning": "~이므로, ~때문에",
+	        "pos": "conjunction",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "と言うと",
+	        "furigana": "というと",
+	        "meaning": "~라고 하면",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "なんだか",
+	        "furigana": "なんだか",
+	        "meaning": "왠지",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "方",
+	        "furigana": "かた",
+	        "meaning": "사람",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "かもしれません",
+	        "furigana": "かもしれません",
+	        "meaning": "일지도 모릅니다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "場合",
+	        "furigana": "ばあい",
+	        "meaning": "경우",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "周囲",
+	        "furigana": "しゅうい",
+	        "meaning": "주위",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "環境",
+	        "furigana": "かんきょう",
+	        "meaning": "환경",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "や",
+	        "furigana": "や",
+	        "meaning": "~와, ~랑",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "というのは",
+	        "furigana": "というのは",
+	        "meaning": "~라는 것은",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "変わる",
+	        "furigana": "かわる",
+	        "meaning": "변하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "面白い",
+	        "furigana": "おもしろい",
+	        "meaning": "재미있다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "ほど",
+	        "furigana": "ほど",
+	        "meaning": "정도",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "変化する",
+	        "furigana": "へんかする",
+	        "meaning": "변화하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "筆者",
+	        "furigana": "ひっしゃ",
+	        "meaning": "필자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "合う",
+	        "furigana": "あう",
+	        "meaning": "맞다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "ば",
+	        "furigana": "e음+ば",
+	        "meaning": "~하면 (조건형)",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "どおり",
+	        "furigana": "どおり",
+	        "meaning": "~대로",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "接する",
+	        "furigana": "せっする",
+	        "meaning": "대하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "関係",
+	        "furigana": "かんけい",
+	        "meaning": "관계",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "築く",
+	        "furigana": "きずく",
+	        "meaning": "쌓다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "築ける",
+	        "furigana": "きずける",
+	        "meaning": "쌓을 수 있다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해2",
+	        "language": "Japanese",
+	        "word": "いられる",
+	        "furigana": "いられる",
+	        "meaning": "있을 수 있다 (いる)",
+	        "pos": "verb",
+	        "etc": ""
+	    }
+	    {
 	        "type": "상용한자46",
 	        "language": "Japanese",
 	        "word": "有",
