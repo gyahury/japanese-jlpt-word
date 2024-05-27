@@ -1790,6 +1790,393 @@
 	        "meaning": "~겠지요 (추측)",
 	        "pos": "expression",
 	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "有",
+	        "furigana": "",
+	        "meaning": "있을 유·가질 유",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "右",
+	        "furigana": "",
+	        "meaning": "오른 우",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "若",
+	        "furigana": "",
+	        "meaning": "① 젊을 약 ② 약간 약",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "左",
+	        "furigana": "",
+	        "meaning": "① 왼쪽 좌 ② 안 좋을 좌",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "佐",
+	        "furigana": "",
+	        "meaning": "도울 좌",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "存",
+	        "furigana": "",
+	        "meaning": "있을 존",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "在",
+	        "furigana": "",
+	        "meaning": "있을 재",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "廿",
+	        "furigana": "",
+	        "meaning": "스물 입",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "席",
+	        "furigana": "",
+	        "meaning": "자리 석",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "度",
+	        "furigana": "",
+	        "meaning": "① 법도 도 ② 정도 도 ③ 헤아릴 탁",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "世",
+	        "furigana": "",
+	        "meaning": "① 세상 세 ② 시대 세·세대 세",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "葉",
+	        "furigana": "",
+	        "meaning": "잎 엽",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "丗",
+	        "furigana": "",
+	        "meaning": "서른 세",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "帯",
+	        "furigana": "",
+	        "meaning": "① 띠 대 ② 찰 대·함께할 대",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "甘",
+	        "furigana": "",
+	        "meaning": "달 감",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "其",
+	        "furigana": "",
+	        "meaning": "그 기",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "基",
+	        "furigana": "",
+	        "meaning": "(밑)바탕 기·기초 기",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "期",
+	        "furigana": "",
+	        "meaning": "① 기간 기 ② 기약할 기",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자46",
+	        "language": "Japanese",
+	        "word": "旗",
+	        "furigana": "",
+	        "meaning": "깃발 기",
+	        "pos": "",
+	        "etc": ""
+	    },
+		{
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "太",
+	        "furigana": "",
+	        "meaning": "클 태",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "因",
+	        "furigana": "",
+	        "meaning": "원인 인·기인할 인",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "恩",
+	        "furigana": "",
+	        "meaning": "은혜 은",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "𡗗",
+	        "furigana": "",
+	        "meaning": "크고 높을 태",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "春",
+	        "furigana": "",
+	        "meaning": "봄 춘",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "奏",
+	        "furigana": "",
+	        "meaning": "연주할 주",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "奉",
+	        "furigana": "",
+	        "meaning": "바칠 봉",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "棒",
+	        "furigana": "",
+	        "meaning": "① 막대 봉 ② 그은 줄 봉",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "夭",
+	        "furigana": "",
+	        "meaning": "① 예쁠 요 ② 젊을 요",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "笑",
+	        "furigana": "",
+	        "meaning": "웃을 소",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "送",
+	        "furigana": "",
+	        "meaning": "보낼 송",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "仲",
+	        "furigana": "",
+	        "meaning": "사람 사이 중·중개할 중",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "沖",
+	        "furigana": "",
+	        "meaning": "먼 바다 충",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "忠",
+	        "furigana": "",
+	        "meaning": "충직할 충",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "映",
+	        "furigana": "",
+	        "meaning": "비출 영",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "英",
+	        "furigana": "",
+	        "meaning": "① 뛰어날 영 ② 영국 영",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "夬",
+	        "furigana": "",
+	        "meaning": "터질 쾌",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "快",
+	        "furigana": "",
+	        "meaning": "상쾌할 쾌",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "決",
+	        "furigana": "",
+	        "meaning": "① 터질 결 ② 정할 결",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "肖",
+	        "furigana": "",
+	        "meaning": "닮을 초",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "消",
+	        "furigana": "",
+	        "meaning": "불 끌 소·사라질 소",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "省",
+	        "furigana": "",
+	        "meaning": "① 살필 성·반성 성 ② 덜 생·생략 생 ③ 기관명 성",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "秒",
+	        "furigana": "",
+	        "meaning": "시간 초",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자47",
+	        "language": "Japanese",
+	        "word": "砂",
+	        "furigana": "",
+	        "meaning": "모래 사",
+	        "pos": "",
+	        "etc": ""
 	    }
     ]
 }
