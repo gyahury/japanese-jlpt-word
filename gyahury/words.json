@@ -2155,7 +2155,7 @@
 	        "type": "2307독해3",
 	        "language": "Japanese",
 	        "word": "ある",
-	        "furigana": "",
+	        "furigana": "ある",
 	        "meaning": "어떤",
 	        "pos": "expression",
 	        "etc": ""
@@ -2173,7 +2173,7 @@
 	        "type": "2307독해3",
 	        "language": "Japanese",
 	        "word": "ご",
-	        "furigana": "",
+	        "furigana": "ご",
 	        "meaning": "존경 접두사",
 	        "pos": "prefix",
 	        "etc": ""
@@ -2209,7 +2209,7 @@
 	        "type": "2307독해3",
 	        "language": "Japanese",
 	        "word": "について",
-	        "furigana": "",
+	        "furigana": "について",
 	        "meaning": "~에 대해",
 	        "pos": "particle",
 	        "etc": ""
@@ -2227,7 +2227,7 @@
 	        "type": "2307독해3",
 	        "language": "Japanese",
 	        "word": "いたす",
-	        "furigana": "",
+	        "furigana": "いたす",
 	        "meaning": "겸양어, 하다",
 	        "pos": "verb",
 	        "etc": ""
@@ -2236,7 +2236,7 @@
 	        "type": "2307독해3",
 	        "language": "Japanese",
 	        "word": "ように",
-	        "furigana": "",
+	        "furigana": "ように",
 	        "meaning": "~처럼, ~하도록, ~하기 위해",
 	        "pos": "expression",
 	        "etc": ""
@@ -2245,7 +2245,7 @@
 	        "type": "2307독해3",
 	        "language": "Japanese",
 	        "word": "テーブル",
-	        "furigana": "",
+	        "furigana": "てーぶる",
 	        "meaning": "테이블",
 	        "pos": "noun",
 	        "etc": ""
@@ -2263,7 +2263,7 @@
 	        "type": "2307독해3",
 	        "language": "Japanese",
 	        "word": "もらう",
-	        "furigana": "",
+	        "furigana": "もらう",
 	        "meaning": "받다, 일반어",
 	        "pos": "verb",
 	        "etc": ""
@@ -2272,7 +2272,7 @@
 	        "type": "2307독해3",
 	        "language": "Japanese",
 	        "word": "いただく",
-	        "furigana": "",
+	        "furigana": "いただく",
 	        "meaning": "받다, 겸양어",
 	        "pos": "verb",
 	        "etc": ""
@@ -2317,7 +2317,7 @@
 	        "type": "2307독해3",
 	        "language": "Japanese",
 	        "word": "もっと",
-	        "furigana": "",
+	        "furigana": "もっと",
 	        "meaning": "더",
 	        "pos": "adverb",
 	        "etc": ""
@@ -2326,7 +2326,7 @@
 	        "type": "2307독해3",
 	        "language": "Japanese",
 	        "word": "ほしい",
-	        "furigana": "",
+	        "furigana": "ほしい",
 	        "meaning": "하고 싶다",
 	        "pos": "adjective",
 	        "etc": ""
@@ -2335,7 +2335,7 @@
 	        "type": "2307독해3",
 	        "language": "Japanese",
 	        "word": "として",
-	        "furigana": "",
+	        "furigana": "として",
 	        "meaning": "~로서",
 	        "pos": "particle",
 	        "etc": ""
