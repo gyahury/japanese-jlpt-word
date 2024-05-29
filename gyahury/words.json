@@ -2385,6 +2385,267 @@
 	        "pos": "verb",
 	        "etc": ""
 	    },
+		{
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "条件",
+	        "furigana": "じょうけん",
+	        "meaning": "조건",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "すべての",
+	        "furigana": "すべての",
+	        "meaning": "모든",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "環境",
+	        "furigana": "かんきょう",
+	        "meaning": "환경",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "競争",
+	        "furigana": "きょうそう",
+	        "meaning": "경쟁",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "生態学",
+	        "furigana": "せいたいがく",
+	        "meaning": "생태학",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "研究",
+	        "furigana": "けんきゅう",
+	        "meaning": "연구",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "示す",
+	        "furigana": "しめす",
+	        "meaning": "나타내다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "多様な",
+	        "furigana": "たような",
+	        "meaning": "다양한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "重要性",
+	        "furigana": "じゅうようせい",
+	        "meaning": "중요성",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "適する",
+	        "furigana": "てきする",
+	        "meaning": "적합하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "見つける",
+	        "furigana": "みつける",
+	        "meaning": "찾다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "排除",
+	        "furigana": "はいじょ",
+	        "meaning": "배제",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "プロセス",
+	        "furigana": "ぷろせす",
+	        "meaning": "과정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "ではなく",
+	        "furigana": "ではなく",
+	        "meaning": "~가 아니라",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "それぞれ",
+	        "furigana": "それぞれ",
+	        "meaning": "각각",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "居場所",
+	        "furigana": "いばしょ",
+	        "meaning": "거처",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "作り出す",
+	        "furigana": "つくりだす",
+	        "meaning": "만들어내다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "いっても",
+	        "furigana": "いっても",
+	        "meaning": "말해도",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "かもしれない",
+	        "furigana": "かもしれない",
+	        "meaning": "~일지도 모르다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "について",
+	        "furigana": "について",
+	        "meaning": "~에 대해",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "負ける",
+	        "furigana": "まける",
+	        "meaning": "지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "負けても",
+	        "furigana": "まけても",
+	        "meaning": "져도",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "別の",
+	        "furigana": "べつの",
+	        "meaning": "다른",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "生き残る",
+	        "furigana": "いきのこる",
+	        "meaning": "생존하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "生き残れる",
+	        "furigana": "いきのこれる",
+	        "meaning": "생존할 수 있다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "変える",
+	        "furigana": "かえる",
+	        "meaning": "바꾸다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "生きる",
+	        "furigana": "いきる",
+	        "meaning": "살다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "変化する",
+	        "furigana": "へんかする",
+	        "meaning": "변화하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해4",
+	        "language": "Japanese",
+	        "word": "勝つ",
+	        "furigana": "かつ",
+	        "meaning": "이기다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
 	    {
 	        "type": "상용한자상46",
 	        "language": "Japanese",
