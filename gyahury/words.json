@@ -2647,6 +2647,366 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "画面",
+	        "furigana": "がめん",
+	        "meaning": "화면",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "修理",
+	        "furigana": "しゅうり",
+	        "meaning": "수리",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "のために",
+	        "furigana": "のために",
+	        "meaning": "~를 위해",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "製",
+	        "furigana": "せい",
+	        "meaning": "제조된",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "預かる",
+	        "furigana": "あずかる",
+	        "meaning": "맡다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "お預かりしております",
+	        "furigana": "おあずかりしております",
+	        "meaning": "맡아두고 있다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "点検",
+	        "furigana": "てんけん",
+	        "meaning": "점검",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "電源",
+	        "furigana": "でんげん",
+	        "meaning": "전원",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "部分",
+	        "furigana": "ぶぶん",
+	        "meaning": "부분",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "部品",
+	        "furigana": "ぶひん",
+	        "meaning": "부품",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "接続",
+	        "furigana": "せつぞく",
+	        "meaning": "접속",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "状態",
+	        "furigana": "じょうたい",
+	        "meaning": "상태",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "悪く",
+	        "furigana": "わるく",
+	        "meaning": "나쁘게",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "なっている",
+	        "furigana": "なっている",
+	        "meaning": "되고 있다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "分かりました",
+	        "furigana": "わかりました",
+	        "meaning": "알았습니다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "まま",
+	        "furigana": "まま",
+	        "meaning": "상태",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "ですと",
+	        "furigana": "ですと",
+	        "meaning": "~라면",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "急に",
+	        "furigana": "きゅうに",
+	        "meaning": "갑자기",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "電源",
+	        "furigana": "でんげん",
+	        "meaning": "전원",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "なくなる",
+	        "furigana": "なくなる",
+	        "meaning": "없어지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "ので",
+	        "furigana": "ので",
+	        "meaning": "~때문에",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "交換",
+	        "furigana": "こうかん",
+	        "meaning": "교환",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "勧める",
+	        "furigana": "すすめる",
+	        "meaning": "권하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "いたします",
+	        "furigana": "いたします",
+	        "meaning": "겸양어, 합니다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "場合",
+	        "furigana": "ばあい",
+	        "meaning": "경우",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "追加",
+	        "furigana": "ついか",
+	        "meaning": "추가",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "かかる",
+	        "furigana": "かかる",
+	        "meaning": "들다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "返し",
+	        "furigana": "かえし",
+	        "meaning": "돌려줌",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "完了する",
+	        "furigana": "かんりょうする",
+	        "meaning": "완료하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "希望する",
+	        "furigana": "きぼうする",
+	        "meaning": "희망하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "予定どおり",
+	        "furigana": "よていどおり",
+	        "meaning": "예정대로",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "ところ",
+	        "furigana": "ところ",
+	        "meaning": "상황, 장소, 시점",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "恐縮",
+	        "furigana": "きょうしゅく",
+	        "meaning": "죄송함, 송구함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "連絡",
+	        "furigana": "れんらく",
+	        "meaning": "연락",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "問い合わせる",
+	        "furigana": "といあわせる",
+	        "meaning": "문의하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "かどうか",
+	        "furigana": "かどうか",
+	        "meaning": "~인지 아닌지",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "進行状況",
+	        "furigana": "しんこうじょうきょう",
+	        "meaning": "진행 상황",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "依頼する",
+	        "furigana": "いらいする",
+	        "meaning": "의뢰하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "型番",
+	        "furigana": "かたばん",
+	        "meaning": "모델 번호",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307독해5",
+	        "language": "Japanese",
+	        "word": "確認する",
+	        "furigana": "かくにんする",
+	        "meaning": "확인하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
 	        "type": "상용한자상46",
 	        "language": "Japanese",
 	        "word": "有",
@@ -3891,6 +4251,42 @@
 	    {
 	        "type": "스쿠스쿠16",
 	        "language": "Japanese",
+	        "word": "~てしまう",
+	        "furigana": "~てしまう",
+	        "meaning": "~해 버리다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "~てもいいです",
+	        "furigana": "~てもいいです",
+	        "meaning": "~해도 좋습니다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "~てはいけません",
+	        "furigana": "~てはいけません",
+	        "meaning": "~하면 안 됩니다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
+	        "word": "~て~ます",
+	        "furigana": "~て~ます",
+	        "meaning": "~하고(해서) ~합니다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠16",
+	        "language": "Japanese",
 	        "word": "高校",
 	        "furigana": "こうこう",
 	        "meaning": "고등학교",
@@ -4402,6 +4798,33 @@
 	        "etc": ""
 	    },
 		{
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "~たことがある",
+	        "furigana": "~たことがある",
+	        "meaning": "~한 적이 있다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "~前に",
+	        "furigana": "~まえに",
+	        "meaning": "~하기 전에",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠17",
+	        "language": "Japanese",
+	        "word": "~たあとで",
+	        "furigana": "~たあとで",
+	        "meaning": "~한 후에",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+		{
         "type": "스쿠스쿠17",
         "language": "Japanese",
         "word": "仕事で",
@@ -4791,6 +5214,33 @@
 		{
 	        "type": "스쿠스쿠18",
 	        "language": "Japanese",
+	        "word": "~たり ~たりする",
+	        "furigana": "~たり ~たりする",
+	        "meaning": "~하기도 하고 ~하기도 하다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠18",
+	        "language": "Japanese",
+	        "word": "~たばかりだ",
+	        "furigana": "~たばかりだ",
+	        "meaning": "~한 지 얼마 안 되다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠18",
+	        "language": "Japanese",
+	        "word": "~ことができる",
+	        "furigana": "~ことができる",
+	        "meaning": "~할 수 있다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+		{
+	        "type": "스쿠스쿠18",
+	        "language": "Japanese",
 	        "word": "先週末",
 	        "furigana": "せんしゅうまつ",
 	        "meaning": "지난 주말",
@@ -5097,6 +5547,15 @@
 		{
 	        "type": "스쿠스쿠19",
 	        "language": "Japanese",
+	        "word": "~ないでください",
+	        "furigana": "~ないでください",
+	        "meaning": "~하지 말아 주세요",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+		{
+	        "type": "스쿠스쿠19",
+	        "language": "Japanese",
 	        "word": "作文",
 	        "furigana": "さくぶん",
 	        "meaning": "작문",
@@ -5389,6 +5848,33 @@
 	        "furigana": "はやい",
 	        "meaning": "빠르다",
 	        "pos": "adjective",
+	        "etc": ""
+	    },
+		{
+	        "type": "스쿠스쿠20",
+	        "language": "Japanese",
+	        "word": "~やすい",
+	        "furigana": "~やすい",
+	        "meaning": "~하기 쉽다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠20",
+	        "language": "Japanese",
+	        "word": "~にくい",
+	        "furigana": "~にくい",
+	        "meaning": "~하기 어렵다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠20",
+	        "language": "Japanese",
+	        "word": "~すぎる",
+	        "furigana": "~すぎる",
+	        "meaning": "~너무 ~하다",
+	        "pos": "expression",
 	        "etc": ""
 	    },
 		{
