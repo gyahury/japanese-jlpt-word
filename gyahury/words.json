@@ -2696,7 +2696,7 @@
 	        "language": "Japanese",
 	        "word": "お預かりしております",
 	        "furigana": "おあずかりしております",
-	        "meaning": "맡아두고 있다",
+	        "meaning": "맡아두고 있습니다",
 	        "pos": "expression",
 	        "etc": ""
 	    },
@@ -4818,7 +4818,7 @@
 	    {
 	        "type": "스쿠스쿠17",
 	        "language": "Japanese",
-	        "word": "~たあとで",
+	        "word": "~た後で",
 	        "furigana": "~たあとで",
 	        "meaning": "~한 후에",
 	        "pos": "expression",
