@@ -3007,6 +3007,609 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "一",
+	        "furigana": "",
+	        "meaning": "하나 일",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "二",
+	        "furigana": "",
+	        "meaning": "둘 이",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "三",
+	        "furigana": "",
+	        "meaning": "셋 삼",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "四",
+	        "furigana": "",
+	        "meaning": "넷 사",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "五",
+	        "furigana": "",
+	        "meaning": "다섯 오",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "六",
+	        "furigana": "",
+	        "meaning": "여섯 육",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "七",
+	        "furigana": "",
+	        "meaning": "일곱 칠",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "八",
+	        "furigana": "",
+	        "meaning": "① 여덟 팔  ② 나눌 팔",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "九",
+	        "furigana": "",
+	        "meaning": "아홉 구",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "十",
+	        "furigana": "",
+	        "meaning": "열 십·많을 십",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "百",
+	        "furigana": "",
+	        "meaning": "일백 백·많을 백",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "千",
+	        "furigana": "",
+	        "meaning": "일천 천·많을 천",
+	        "pos": "",
+	        "etc": ""
+	    },
+		 {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "天",
+	        "furigana": "",
+	        "meaning": "하늘 천",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "日",
+	        "furigana": "",
+	        "meaning": "① 해 일  ② 날 일 ③ 일본 일",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "夕",
+	        "furigana": "",
+	        "meaning": "저녁 석",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "月",
+	        "furigana": "",
+	        "meaning": "① 달 월  ② 월 월",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "水",
+	        "furigana": "",
+	        "meaning": "물 수",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "雨",
+	        "furigana": "",
+	        "meaning": "비 우",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "川",
+	        "furigana": "",
+	        "meaning": "냇물 천",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "州",
+	        "furigana": "",
+	        "meaning": "마을 주",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "火",
+	        "furigana": "",
+	        "meaning": "불 화",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "光",
+	        "furigana": "",
+	        "meaning": "① 빛 광  ② 광경 광",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "土",
+	        "furigana": "",
+	        "meaning": "흙 토",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "丘",
+	        "furigana": "",
+	        "meaning": "언덕 구",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "阜",
+	        "furigana": "",
+	        "meaning": "① 언덕 부  ② 고을 부",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "厂",
+	        "furigana": "",
+	        "meaning": "굴바위 엄",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "石",
+	        "furigana": "",
+	        "meaning": "돌 석",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "岩",
+	        "furigana": "",
+	        "meaning": "바위 암",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "金",
+	        "furigana": "",
+	        "meaning": "① 금(속) 금  ② 돈 금",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "山",
+	        "furigana": "",
+	        "meaning": "산 산",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "木",
+	        "furigana": "",
+	        "meaning": "나무 목",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "片",
+	        "furigana": "",
+	        "meaning": "조각 편",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "氏",
+	        "furigana": "",
+	        "meaning": "① 뿌리 씨  ② 성씨 씨",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "竹",
+	        "furigana": "",
+	        "meaning": "대나무 죽",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "艹/䒑",
+	        "furigana": "",
+	        "meaning": "풀 초",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "茶",
+	        "furigana": "",
+	        "meaning": "① 차 차  ② 차 다",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "田",
+	        "furigana": "",
+	        "meaning": "논 전·밭 전",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "米",
+	        "furigana": "",
+	        "meaning": "① 쌀 미  ② 미국 미",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "禾",
+	        "furigana": "",
+	        "meaning": "벼 화",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상2",
+	        "language": "Japanese",
+	        "word": "豆",
+	        "furigana": "",
+	        "meaning": "콩 두",
+	        "pos": "",
+	        "etc": ""
+	    },
+		{
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "犬",
+	        "furigana": "",
+	        "meaning": "개 견",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "羊",
+	        "furigana": "",
+	        "meaning": "양 양",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "牛",
+	        "furigana": "",
+	        "meaning": "소 우",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "件",
+	        "furigana": "",
+	        "meaning": "헤아릴 건·건수 건",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "兎(兔)",
+	        "furigana": "",
+	        "meaning": "토끼 토",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "豕",
+	        "furigana": "",
+	        "meaning": "돼지 시",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "豚",
+	        "furigana": "",
+	        "meaning": "돼지 돈",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "象",
+	        "furigana": "",
+	        "meaning": "① 코끼리 상  ② (추상적) 모습 상·본뜰 상",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "像",
+	        "furigana": "",
+	        "meaning": "(구체적) 모습 상·본뜰 상",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "隊",
+	        "furigana": "",
+	        "meaning": "무리 대·군대 대",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "虎",
+	        "furigana": "",
+	        "meaning": "호랑이 호·범 호",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "劇",
+	        "furigana": "",
+	        "meaning": "① 연극 극 ② 극심할 극",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "鹿",
+	        "furigana": "",
+	        "meaning": "사슴 록",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "馬",
+	        "furigana": "",
+	        "meaning": "말 마",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "角",
+	        "furigana": "",
+	        "meaning": "① 뿔 각  ② 두 선이 교차할 각·각도 각",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "解",
+	        "furigana": "",
+	        "meaning": "① 풀 해·분해할 해 ② 이해할 해",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "牙",
+	        "furigana": "",
+	        "meaning": "송곳니 아",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "芽",
+	        "furigana": "",
+	        "meaning": "싹 아",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "巴/巳",
+	        "furigana": "",
+	        "meaning": "뱀 파 / 뱀 사",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "鳥",
+	        "furigana": "",
+	        "meaning": "새 조·조류 조",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "隹",
+	        "furigana": "",
+	        "meaning": "작은 새 추",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "羽",
+	        "furigana": "",
+	        "meaning": "날개깃 우",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "魚",
+	        "furigana": "",
+	        "meaning": "물고기 어",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "漁",
+	        "furigana": "",
+	        "meaning": "고기 잡을 어",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "貝",
+	        "furigana": "",
+	        "meaning": "① 조개 패  ② 돈 패",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상3",
+	        "language": "Japanese",
+	        "word": "虫",
+	        "furigana": "",
+	        "meaning": "벌레 충",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상1",
+	        "language": "Japanese",
+	        "word": "万",
+	        "furigana": "",
+	        "meaning": "일만 만·많을 만",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
 	        "type": "상용한자상46",
 	        "language": "Japanese",
 	        "word": "有",
