@@ -7613,6 +7613,510 @@
 	        "meaning": "(담배를) 피우다",
 	        "pos": "verb",
 	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "昨日",
+	        "furigana": "きのう",
+	        "meaning": "어제",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "テーマパーク",
+	        "furigana": "てーまぱーく",
+	        "meaning": "테마파크",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "行って来る",
+	        "furigana": "いってくる",
+	        "meaning": "다녀오다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "楽しい",
+	        "furigana": "たのしい",
+	        "meaning": "즐겁다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "人",
+	        "furigana": "ひと",
+	        "meaning": "사람",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "多い",
+	        "furigana": "おおい",
+	        "meaning": "많다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "うらやましい",
+	        "furigana": "うらやましい",
+	        "meaning": "부럽다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "そこ",
+	        "furigana": "そこ",
+	        "meaning": "거기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "乗り物",
+	        "furigana": "のりもの",
+	        "meaning": "놀이기구",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "ショー",
+	        "furigana": "しょー",
+	        "meaning": "쇼",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "実は",
+	        "furigana": "じつは",
+	        "meaning": "실은",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "バイト",
+	        "furigana": "ばいと",
+	        "meaning": "아르바이트",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "仲間",
+	        "furigana": "なかま",
+	        "meaning": "동료",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "合コン",
+	        "furigana": "ごうこん",
+	        "meaning": "미팅",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "本当",
+	        "furigana": "ほんとう",
+	        "meaning": "정말",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "男の人",
+	        "furigana": "おとこのひと",
+	        "meaning": "남자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "みんな",
+	        "furigana": "みんな",
+	        "meaning": "모두",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "優しい",
+	        "furigana": "やさしい",
+	        "meaning": "상냥하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "タイプ",
+	        "furigana": "たいぷ",
+	        "meaning": "타입",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "残念だ",
+	        "furigana": "ざんねんだ",
+	        "meaning": "유감이다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "今度",
+	        "furigana": "こんど",
+	        "meaning": "다음에",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "紹介する",
+	        "furigana": "しょうかいする",
+	        "meaning": "소개하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "真面目だ",
+	        "furigana": "まじめだ",
+	        "meaning": "성실하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "お金持ち",
+	        "furigana": "おかねもち",
+	        "meaning": "부자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "大変だ",
+	        "furigana": "たいへんだ",
+	        "meaning": "힘들다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "景色",
+	        "furigana": "けしき",
+	        "meaning": "경치",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "遅刻する",
+	        "furigana": "ちこくする",
+	        "meaning": "늦잠 자다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "辛い",
+	        "furigana": "からい",
+	        "meaning": "맵다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "厳しい",
+	        "furigana": "きびしい",
+	        "meaning": "엄하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "時",
+	        "furigana": "とき",
+	        "meaning": "때",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "かわいい",
+	        "furigana": "かわいい",
+	        "meaning": "귀엽다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "去年",
+	        "furigana": "きょねん",
+	        "meaning": "작년",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "夏",
+	        "furigana": "なつ",
+	        "meaning": "여름",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "暑い",
+	        "furigana": "あつい",
+	        "meaning": "덥다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "天気",
+	        "furigana": "てんき",
+	        "meaning": "날씨",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "先週",
+	        "furigana": "せんしゅう",
+	        "meaning": "지난주",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "暇だ",
+	        "furigana": "ひまだ",
+	        "meaning": "한가하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "おととい",
+	        "furigana": "おととい",
+	        "meaning": "그저께",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "簡単だ",
+	        "furigana": "かんたんだ",
+	        "meaning": "간단하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "昔",
+	        "furigana": "むかし",
+	        "meaning": "옛날",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "運動",
+	        "furigana": "うんどう",
+	        "meaning": "운동",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "嫌いだ",
+	        "furigana": "きらいだ",
+	        "meaning": "싫어하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "雨",
+	        "furigana": "あめ",
+	        "meaning": "비",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "休み",
+	        "furigana": "やすみ",
+	        "meaning": "휴일",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "店",
+	        "furigana": "みせ",
+	        "meaning": "가게",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "少し",
+	        "furigana": "すこし",
+	        "meaning": "조금",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "最近",
+	        "furigana": "さいきん",
+	        "meaning": "최근",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "仕事",
+	        "furigana": "しごと",
+	        "meaning": "일",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "性格",
+	        "furigana": "せいかく",
+	        "meaning": "성격",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "悪い",
+	        "furigana": "わるい",
+	        "meaning": "나쁘다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "静かだ",
+	        "furigana": "しずかだ",
+	        "meaning": "조용하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "狭い",
+	        "furigana": "せまい",
+	        "meaning": "좁다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "勉強する",
+	        "furigana": "べんきょうする",
+	        "meaning": "공부하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "難しい",
+	        "furigana": "むずかしい",
+	        "meaning": "어렵다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "旅行",
+	        "furigana": "りょこう",
+	        "meaning": "여행",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠21",
+	        "language": "Japanese",
+	        "word": "疲れる",
+	        "furigana": "つかれる",
+	        "meaning": "피곤하다",
+	        "pos": "verb",
+	        "etc": ""
 	    }
     ]
 }
