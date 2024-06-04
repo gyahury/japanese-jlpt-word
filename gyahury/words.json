@@ -168,7 +168,7 @@
             "word": "途端に",
             "furigana": "とたんに",
             "meaning": "바로 그 순간",
-            "jlpt": "n2",
+            "pos": "adverb",
             "etc": ""
         },
         {
@@ -303,7 +303,7 @@
             "word": "比喩的",
             "furigana": "ひゆてき",
             "meaning": "비교적",
-            "jlpt": "n2",
+            "pos": "adverb",
             "etc": ""
         },
         {
@@ -321,7 +321,7 @@
             "word": "圧倒的",
             "furigana": "あっとうてき",
             "meaning": "압도적",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
         {
@@ -384,7 +384,7 @@
             "word": "偶然",
             "furigana": "ぐうぜん",
             "meaning": "우연히",
-            "jlpt": "n2",
+            "pos": "adverb",
             "etc": ""
         },
         {
@@ -447,7 +447,7 @@
             "word": "怖い",
             "furigana": "こわい",
             "meaning": "무섭다",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
         {
@@ -474,7 +474,7 @@
             "word": "再度",
             "furigana": "さいど",
             "meaning": "재차, 다시",
-            "jlpt": "n2",
+            "pos": "adverb",
             "etc": ""
         },
         {
@@ -501,7 +501,7 @@
             "word": "幼い",
             "furigana": "おさない",
             "meaning": "어리다, 유치하다",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
         {
@@ -546,7 +546,7 @@
             "word": "柔軟に",
             "furigana": "じゅうなんに",
             "meaning": "유연하게",
-            "jlpt": "n2",
+            "pos": "adverb",
             "etc": ""
         },
         {
@@ -591,7 +591,7 @@
             "word": "怪しい",
             "furigana": "あやしい",
             "meaning": "수상하다",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
         {
@@ -699,7 +699,7 @@
 	        "word": "絶えず",
 	        "furigana": "たえず",
 	        "meaning": "끊임없이",
-	        "jlpt": "n2",
+	        "pos": "adverb",
 	        "etc": ""
 	    },
 	    {
