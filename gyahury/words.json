@@ -24,7 +24,7 @@
             "word": "幼い",
             "furigana": "おさない",
             "meaning": "어리다, 유치하다",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
         {
@@ -33,7 +33,7 @@
             "word": "善良だ",
             "furigana": "ぜんりょうだ",
             "meaning": "선량하다, 어질다",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
         {
@@ -60,7 +60,7 @@
             "word": "険しい",
             "furigana": "けわしい",
             "meaning": "험악하다, 험상궂다",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
         {
@@ -87,7 +87,7 @@
             "word": "乱れる",
             "furigana": "みだれる",
             "meaning": "흐트러지다, 혼란하다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -96,7 +96,7 @@
             "word": "勇ましい",
             "furigana": "いさましい",
             "meaning": "용감하다",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
         {
@@ -105,7 +105,7 @@
             "word": "偉い",
             "furigana": "えらい",
             "meaning": "대단하다, 위대하다",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
         {
@@ -141,7 +141,7 @@
             "word": "務める",
             "furigana": "つとめる",
             "meaning": "역할을 맡다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -177,7 +177,7 @@
             "word": "外れる",
             "furigana": "はずれる",
             "meaning": "제외되다, 벗어나다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -186,7 +186,7 @@
             "word": "焦る",
             "furigana": "あせる",
             "meaning": "초조해하다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -195,7 +195,7 @@
             "word": "著しい",
             "furigana": "いちじるしい",
             "meaning": "현저하다, 두드러지다",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
         {
@@ -213,7 +213,7 @@
             "word": "懐く",
             "furigana": "なつく",
             "meaning": "기울다, 치우치다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -267,7 +267,7 @@
             "word": "乏しい",
             "furigana": "とぼしい",
             "meaning": "모자라다, 부족하다",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
          {
@@ -285,7 +285,7 @@
             "word": "険しい",
             "furigana": "けわしい",
             "meaning": "험악하다, 험상궂다",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
         {
@@ -294,7 +294,7 @@
             "word": "倒す",
             "furigana": "たおす",
             "meaning": "쓰러뜨리다, 무너뜨리다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -339,7 +339,7 @@
             "word": "憎む",
             "furigana": "にくむ",
             "meaning": "미워하다, 증오하다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -357,7 +357,7 @@
             "word": "映る",
             "furigana": "うつる",
             "meaning": "비치다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -402,7 +402,7 @@
             "word": "等しい",
             "furigana": "ひとしい",
             "meaning": "동등하다",
-            "jlpt": "n2",
+            "pos": "adjective",
             "etc": ""
         },
         {
@@ -420,7 +420,7 @@
             "word": "湿る",
             "furigana": "しめる",
             "meaning": "촉촉해지다, 습기 차다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -492,7 +492,7 @@
             "word": "離れる",
             "furigana": "はなれる",
             "meaning": "멀어지다, 떨어지다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -510,7 +510,7 @@
             "word": "綻る",
             "furigana": "ほころびる",
             "meaning": "조이다, (쥐어)짜다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -537,7 +537,7 @@
             "word": "抱える",
             "furigana": "かかえる",
             "meaning": "떠안다, 책임지다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -555,7 +555,7 @@
             "word": "握る",
             "furigana": "にぎる",
             "meaning": "쥐다, 잡다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -582,7 +582,7 @@
             "word": "乱れる",
             "furigana": "みだれる",
             "meaning": "흐트러지다, 혼란하다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -627,7 +627,7 @@
             "word": "納める",
             "furigana": "おさめる",
             "meaning": "넣다, 납입하다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -636,7 +636,7 @@
             "word": "競う",
             "furigana": "きそう",
             "meaning": "겨루다, 경쟁하다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -645,7 +645,7 @@
             "word": "伴う",
             "furigana": "ともなう",
             "meaning": "동반하다, 따르다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -654,7 +654,7 @@
             "word": "劣る",
             "furigana": "おとる",
             "meaning": "뒤떨어지다",
-            "jlpt": "n2",
+            "pos": "verb",
             "etc": ""
         },
         {
@@ -681,7 +681,7 @@
 	        "word": "抱える",
 	        "furigana": "かかえる",
 	        "meaning": "안다, 떠안다",
-	        "jlpt": "n2",
+	        "pos": "verb",
 	        "etc": ""
 	    },
 	    {
@@ -726,7 +726,7 @@
 	        "word": "捨てる",
 	        "furigana": "すてる",
 	        "meaning": "버리다",
-	        "jlpt": "n2",
+	        "pos": "verb",
 	        "etc": ""
 	    },
 	    {
