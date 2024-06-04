@@ -6,7 +6,7 @@
             "word": "握手",
             "furigana": "あくしゅ",
             "meaning": "악수",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -15,7 +15,7 @@
             "word": "腕",
             "furigana": "うで",
             "meaning": "팔",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -42,7 +42,7 @@
             "word": "模範",
             "furigana": "もはん",
             "meaning": "모범",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -51,7 +51,7 @@
             "word": "運賃",
             "furigana": "うんちん",
             "meaning": "운임",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -69,7 +69,7 @@
             "word": "平等",
             "furigana": "びょうどう",
             "meaning": "평등",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -78,7 +78,7 @@
             "word": "削除",
             "furigana": "さくじょ",
             "meaning": "삭제",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -114,7 +114,7 @@
             "word": "警備",
             "furigana": "けいび",
             "meaning": "경비",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -123,7 +123,7 @@
             "word": "刺激",
             "furigana": "しげき",
             "meaning": "자극",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -132,7 +132,7 @@
             "word": "素材",
             "furigana": "そざい",
             "meaning": "소재",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -150,7 +150,7 @@
             "word": "記憶",
             "furigana": "きおく",
             "meaning": "기억",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -159,7 +159,7 @@
             "word": "世間",
             "furigana": "せけん",
             "meaning": "세간, 세상",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -204,7 +204,7 @@
             "word": "拡充",
             "furigana": "かくじゅう",
             "meaning": "확충",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -222,7 +222,7 @@
             "word": "声援",
             "furigana": "せいえん",
             "meaning": "성원",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -231,7 +231,7 @@
             "word": "情景",
             "furigana": "じょうけい",
             "meaning": "정경, 광경",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -240,7 +240,7 @@
             "word": "破片",
             "furigana": "はへん",
             "meaning": "파편",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -249,7 +249,7 @@
             "word": "介護",
             "furigana": "かいご",
             "meaning": "간호",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -258,7 +258,7 @@
             "word": "賛否",
             "furigana": "さんぴ",
             "meaning": "찬반",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -276,7 +276,7 @@
             "word": "下降",
             "furigana": "かこう",
             "meaning": "하강, 추락",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -312,7 +312,7 @@
             "word": "損害",
             "furigana": "そんがい",
             "meaning": "손해",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -330,7 +330,7 @@
             "word": "軽傷",
             "furigana": "けいしょう",
             "meaning": "경상",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -348,7 +348,7 @@
             "word": "負担",
             "furigana": "ふたん",
             "meaning": "부담",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -366,7 +366,7 @@
             "word": "下旬",
             "furigana": "げじゅん",
             "meaning": "하순",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -375,7 +375,7 @@
             "word": "恥",
             "furigana": "はじ",
             "meaning": "부끄러움, 수치",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -393,7 +393,7 @@
             "word": "刺激",
             "furigana": "しげき",
             "meaning": "자극",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -411,7 +411,7 @@
             "word": "企画",
             "furigana": "きかく",
             "meaning": "기획",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -429,7 +429,7 @@
             "word": "抽選",
             "furigana": "ちゅうせん",
             "meaning": "추첨",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -438,7 +438,7 @@
             "word": "冷蔵庫",
             "furigana": "れいぞうこ",
             "meaning": "냉장고",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -456,7 +456,7 @@
             "word": "処理",
             "furigana": "しょり",
             "meaning": "처리",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -465,7 +465,7 @@
             "word": "和やか",
             "furigana": "なごやか",
             "meaning": "온화함",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -483,7 +483,7 @@
             "word": "総額",
             "furigana": "そうがく",
             "meaning": "총액",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -519,7 +519,7 @@
             "word": "強火",
             "furigana": "つよび",
             "meaning": "센 불",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -528,7 +528,7 @@
             "word": "密閉",
             "furigana": "みっぺい",
             "meaning": "밀폐",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -564,7 +564,7 @@
             "word": "求人",
             "furigana": "きゅうじん",
             "meaning": "구인",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -573,7 +573,7 @@
             "word": "垂直",
             "furigana": "すいちょく",
             "meaning": "수직",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {                                        
@@ -600,7 +600,7 @@
             "word": "願望",
             "furigana": "がんぼう",
             "meaning": "바람, 소원",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -609,7 +609,7 @@
             "word": "治療",
             "furigana": "ちりょう",
             "meaning": "치료",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -618,7 +618,7 @@
             "word": "容姿",
             "furigana": "ようし",
             "meaning": "용모, 외모",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -663,7 +663,7 @@
             "word": "貴重",
             "furigana": "きちょう",
             "meaning": "귀중함",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
         {
@@ -672,7 +672,7 @@
             "word": "批評",
             "furigana": "ひひょう",
             "meaning": "비평",
-            "jlpt": "n2",
+            "pos": "noun",
             "etc": ""
         },
 		{
@@ -690,7 +690,7 @@
 	        "word": "研修",
 	        "furigana": "けんしゅう",
 	        "meaning": "연수",
-	        "jlpt": "n2",
+	        "pos": "noun",
 	        "etc": ""
 	    },
 	    {
@@ -708,7 +708,7 @@
 	        "word": "福祉",
 	        "furigana": "ふくし",
 	        "meaning": "복지",
-	        "jlpt": "n2",
+	        "pos": "noun",
 	        "etc": ""
 	    },
 	    {
@@ -717,7 +717,7 @@
 	        "word": "管理",
 	        "furigana": "かんり",
 	        "meaning": "관리",
-	        "jlpt": "n2",
+	        "pos": "noun",
 	        "etc": ""
 	    },
 	    {
@@ -735,7 +735,7 @@
 	        "word": "投票",
 	        "furigana": "とうひょう",
 	        "meaning": "투표",
-	        "jlpt": "n2",
+	        "pos": "noun",
 	        "etc": ""
 	    },
 	    {
@@ -744,7 +744,7 @@
 	        "word": "機嫌",
 	        "furigana": "きげん",
 	        "meaning": "기분, 심기",
-	        "jlpt": "n2",
+	        "pos": "noun",
 	        "etc": ""
 	    },
 	    {
@@ -753,7 +753,7 @@
 	        "word": "損失",
 	        "furigana": "そんしつ",
 	        "meaning": "손실",
-	        "jlpt": "n2",
+	        "pos": "noun",
 	        "etc": ""
 	    },
 	    {
@@ -762,7 +762,7 @@
 	        "word": "布",
 	        "furigana": "ぬの",
 	        "meaning": "천",
-	        "jlpt": "n2",
+	        "pos": "noun",
 	        "etc": ""
 		},
 		{
