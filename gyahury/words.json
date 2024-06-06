@@ -3006,6 +3006,393 @@
 	        "pos": "verb",
 	        "etc": ""
 	    },
+		{
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "弱い",
+	        "furigana": "よわい",
+	        "meaning": "약한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "立場",
+	        "furigana": "たちば",
+	        "meaning": "입장",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "という",
+	        "furigana": "という",
+	        "meaning": "~라는",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "未来",
+	        "furigana": "みらい",
+	        "meaning": "미래",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "世代",
+	        "furigana": "せだい",
+	        "meaning": "세대",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "ほど",
+	        "furigana": "ほど",
+	        "meaning": "만큼",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "何しろ",
+	        "furigana": "なにしろ",
+	        "meaning": "어쨌든",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "どんなに",
+	        "furigana": "どんなに",
+	        "meaning": "아무리",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "ひどい",
+	        "furigana": "ひどい",
+	        "meaning": "심한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "されても",
+	        "furigana": "されても",
+	        "meaning": "당해도",
+	        "pos": "phrase",
+	        "etc": "\"する\" (하다)의 수동형 \"される\"의 て형 + \"も\" (도, ~해도)"
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "生まれる",
+	        "furigana": "うまれる",
+	        "meaning": "태어나다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "声",
+	        "furigana": "こえ",
+	        "meaning": "목소리",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "あげる",
+	        "furigana": "あげる",
+	        "meaning": "들다, 올리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "生きる",
+	        "furigana": "いきる",
+	        "meaning": "살다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "生きていく",
+	        "furigana": "いきていく",
+	        "meaning": "살아가다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "ため",
+	        "furigana": "ため",
+	        "meaning": "위해",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "絶対条件",
+	        "furigana": "ぜったいじょうけん",
+	        "meaning": "절대 조건",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "環境",
+	        "furigana": "かんきょう",
+	        "meaning": "환경",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "壊す",
+	        "furigana": "こわす",
+	        "meaning": "파괴하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "彼ら",
+	        "furigana": "かれら",
+	        "meaning": "그들",
+	        "pos": "pronoun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "分",
+	        "furigana": "ぶん",
+	        "meaning": "부분",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "資源",
+	        "furigana": "しげん",
+	        "meaning": "자원",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "使い果たす",
+	        "furigana": "つかいはたす",
+	        "meaning": "다 써버리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "そう",
+	        "furigana": "そう",
+	        "meaning": "~하려고 하다",
+	        "pos": "phrase",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "いったい",
+	        "furigana": "いったい",
+	        "meaning": "도대체",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "フェア",
+	        "furigana": "フェア",
+	        "meaning": "공정, 공평",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "精神",
+	        "furigana": "せいしん",
+	        "meaning": "정신",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "反する",
+	        "furigana": "はんする",
+	        "meaning": "반하다, 어긋나다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "だろう",
+	        "furigana": "だろう",
+	        "meaning": "~일 것이다",
+	        "pos": "phrase",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "抗議",
+	        "furigana": "こうぎ",
+	        "meaning": "항의",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "反対",
+	        "furigana": "はんたい",
+	        "meaning": "반대",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "怒り",
+	        "furigana": "いかり",
+	        "meaning": "분노",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "自分",
+	        "furigana": "じぶん",
+	        "meaning": "자신",
+	        "pos": "pronoun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "都合",
+	        "furigana": "つごう",
+	        "meaning": "형편",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "都合よく",
+	        "furigana": "つごうよく",
+	        "meaning": "편리하게",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "考える",
+	        "furigana": "かんがえる",
+	        "meaning": "생각하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "必要",
+	        "furigana": "ひつよう",
+	        "meaning": "필요",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "に対して",
+	        "furigana": "にたいして",
+	        "meaning": "~에 대해",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "べきだ",
+	        "furigana": "べきだ",
+	        "meaning": "~해야 한다",
+	        "pos": "phrase",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "認める",
+	        "furigana": "みとめる",
+	        "meaning": "인정하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "見つける",
+	        "furigana": "みつける",
+	        "meaning": "찾다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "行動",
+	        "furigana": "こうどう",
+	        "meaning": "행동",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023독해6",
+	        "language": "Japanese",
+	        "word": "改める",
+	        "furigana": "あらためる",
+	        "meaning": "고치다, 바꾸다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
 	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
