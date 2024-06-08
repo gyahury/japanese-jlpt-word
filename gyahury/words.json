@@ -766,6 +766,276 @@
 	        "etc": ""
 		},
 		{
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "運賃",
+	        "furigana": "うんちん",
+	        "meaning": "요금",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "払う",
+	        "furigana": "はらう",
+	        "meaning": "지불하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "髪",
+	        "furigana": "かみ",
+	        "meaning": "머리카락",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "乱れる",
+	        "furigana": "みだれる",
+	        "meaning": "흩어지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "正しい",
+	        "furigana": "ただしい",
+	        "meaning": "올바른",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "模範",
+	        "furigana": "もはん",
+	        "meaning": "모범",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "示す",
+	        "furigana": "しめす",
+	        "meaning": "보이다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "険しい",
+	        "furigana": "けわしい",
+	        "meaning": "험난하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "握手",
+	        "furigana": "あくしゅ",
+	        "meaning": "악수",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "袋",
+	        "furigana": "ふくろ",
+	        "meaning": "자루",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "帯",
+	        "furigana": "おび",
+	        "meaning": "띠",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "広げる",
+	        "furigana": "ひろげる",
+	        "meaning": "펼치다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "支",
+	        "furigana": "し",
+	        "meaning": "지탱할 지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "拾う",
+	        "furigana": "ひろう",
+	        "meaning": "줍다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "投げる",
+	        "furigana": "なげる",
+	        "meaning": "던지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "採る",
+	        "furigana": "とる",
+	        "meaning": "캐다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "兼",
+	        "furigana": "けん",
+	        "meaning": "겸할 겸",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "機嫌",
+	        "furigana": "きげん",
+	        "meaning": "기분",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "消失",
+	        "furigana": "しょうしつ",
+	        "meaning": "소실",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "限",
+	        "furigana": "げん",
+	        "meaning": "한계",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "損失",
+	        "furigana": "そんしつ",
+	        "meaning": "손실",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "空",
+	        "furigana": "くう",
+	        "meaning": "빌 공",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "欠",
+	        "furigana": "けつ",
+	        "meaning": "결핍 결",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "状",
+	        "furigana": "じょう",
+	        "meaning": "형상 상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "隣",
+	        "furigana": "となり",
+	        "meaning": "이웃 린",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "辺",
+	        "furigana": "へん",
+	        "meaning": "근처 변",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "域",
+	        "furigana": "いき",
+	        "meaning": "구역 역",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "壁",
+	        "furigana": "かべ",
+	        "meaning": "벽",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "載る",
+	        "furigana": "のる",
+	        "meaning": "실리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "欠回答",
+	        "furigana": "けつかいとう",
+	        "meaning": "결응답",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+		{
 	        "type": "2307독해1",
 	        "language": "Japanese",
 	        "word": "次",
