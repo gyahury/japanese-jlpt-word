@@ -1036,6 +1036,456 @@
 	        "etc": ""
 	    },
 		{
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "なのに",
+	        "furigana": "なのに",
+	        "meaning": "임에도 불구하고",
+	        "pos": "conjunction",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "無口",
+	        "furigana": "むくち",
+	        "meaning": "말수가 적다",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "冷たい",
+	        "furigana": "つめたい",
+	        "meaning": "차가운",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "観測",
+	        "furigana": "かんそく",
+	        "meaning": "관측",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "誤解",
+	        "furigana": "ごかい",
+	        "meaning": "오해",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "決意",
+	        "furigana": "けつい",
+	        "meaning": "결의",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "承認",
+	        "furigana": "しょうにん",
+	        "meaning": "승인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "売れ行き",
+	        "furigana": "うれゆき",
+	        "meaning": "판매",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "なので",
+	        "furigana": "なので",
+	        "meaning": "그래서",
+	        "pos": "conjunction",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "生産量",
+	        "furigana": "せいさんりょう",
+	        "meaning": "생산량",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "増やす",
+	        "furigana": "ふやす",
+	        "meaning": "늘리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "温厚",
+	        "furigana": "おんこう",
+	        "meaning": "온후함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "円満",
+	        "furigana": "えんまん",
+	        "meaning": "원만함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "好調",
+	        "furigana": "こうちょう",
+	        "meaning": "호조",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "適切",
+	        "furigana": "てきせつ",
+	        "meaning": "적절함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "期日",
+	        "furigana": "きじつ",
+	        "meaning": "기한",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "仕上げてくれる",
+	        "furigana": "しあげてくれる",
+	        "meaning": "완성해준다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "ので",
+	        "furigana": "ので",
+	        "meaning": "~때문에",
+	        "pos": "conjunction",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "頼もしい",
+	        "furigana": "たのもしい",
+	        "meaning": "든든한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "たくましい",
+	        "furigana": "たくましい",
+	        "meaning": "늠름한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "輝かしい",
+	        "furigana": "かがやかしい",
+	        "meaning": "빛나는",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "親しい",
+	        "furigana": "したしい",
+	        "meaning": "친밀한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "なるべく",
+	        "furigana": "なるべく",
+	        "meaning": "가능한",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "ように",
+	        "furigana": "ように",
+	        "meaning": "~도록",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "部下",
+	        "furigana": "ぶか",
+	        "meaning": "부하",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "減量",
+	        "furigana": "げんりょう",
+	        "meaning": "감량",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "省略",
+	        "furigana": "しょうりゃく",
+	        "meaning": "생략",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "短縮",
+	        "furigana": "たんしゅく",
+	        "meaning": "단축",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "節約",
+	        "furigana": "せつやく",
+	        "meaning": "절약",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "すぐ",
+	        "furigana": "すぐ",
+	        "meaning": "바로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "もうかる",
+	        "furigana": "もうかる",
+	        "meaning": "벌다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "というような",
+	        "furigana": "というような",
+	        "meaning": "~라는",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "駆け込む",
+	        "furigana": "かけこむ",
+	        "meaning": "뛰어들다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "触れ合う",
+	        "furigana": "ふれあう",
+	        "meaning": "접촉하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "寄りかかる",
+	        "furigana": "よりかかる",
+	        "meaning": "기대다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "飛びつく",
+	        "furigana": "とびつく",
+	        "meaning": "달려들다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "があって",
+	        "furigana": "があって",
+	        "meaning": "~가 있어서",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "早速",
+	        "furigana": "さっそく",
+	        "meaning": "바로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "応募",
+	        "furigana": "おうぼ",
+	        "meaning": "지원",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "やりたい",
+	        "furigana": "やりたい",
+	        "meaning": "하고싶은",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "催促",
+	        "furigana": "さいそく",
+	        "meaning": "재촉",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "入社",
+	        "furigana": "にゅうしゃ",
+	        "meaning": "입사",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "求人",
+	        "furigana": "きゅうじん",
+	        "meaning": "구인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "収集",
+	        "furigana": "しゅうしゅう",
+	        "meaning": "수집",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "と思っていたのに",
+	        "furigana": "とおもっていたのに",
+	        "meaning": "했는데",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "ひどい",
+	        "furigana": "ひどい",
+	        "meaning": "끔직하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "うとうと",
+	        "furigana": "うとうと",
+	        "meaning": "꾸벅꾸벅",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "こそこそ",
+	        "furigana": "こそこそ",
+	        "meaning": "몰래몰래",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "ぶつぶつ",
+	        "furigana": "ぶつぶつ",
+	        "meaning": "중얼중얼",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘2",
+	        "language": "Japanese",
+	        "word": "じろじろ",
+	        "furigana": "じろじろ",
+	        "meaning": "빤히",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+		{
 	        "type": "2307독해1",
 	        "language": "Japanese",
 	        "word": "次",
