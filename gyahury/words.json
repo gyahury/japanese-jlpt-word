@@ -1693,6 +1693,321 @@
 	        "etc": ""
 	    },
 		{
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "試験",
+	        "furigana": "しけん",
+	        "meaning": "시험",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "早期",
+	        "furigana": "そうき",
+	        "meaning": "조기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "一人暮らし",
+	        "furigana": "ひとりぐらし",
+	        "meaning": "자취",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "苦労する",
+	        "furigana": "くろうする",
+	        "meaning": "고생하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "進歩",
+	        "furigana": "しんぽ",
+	        "meaning": "진보",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "見つける",
+	        "furigana": "みつける",
+	        "meaning": "발견하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "段階",
+	        "furigana": "だんかい",
+	        "meaning": "단계",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "偉大",
+	        "furigana": "いだい",
+	        "meaning": "위대",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "何頭",
+	        "furigana": "なんとう",
+	        "meaning": "몇 마리",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "印",
+	        "furigana": "しるし",
+	        "meaning": "표",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "復習",
+	        "furigana": "ふくしゅう",
+	        "meaning": "복습",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "大切",
+	        "furigana": "たいせつ",
+	        "meaning": "중요하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "係員",
+	        "furigana": "かかりいん",
+	        "meaning": "담당자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "角",
+	        "furigana": "かど",
+	        "meaning": "모퉁이",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "転ぶ",
+	        "furigana": "ころぶ",
+	        "meaning": "넘어지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "怪我",
+	        "furigana": "けが",
+	        "meaning": "상처",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "続出",
+	        "furigana": "ぞくしゅつ",
+	        "meaning": "속출",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "昨夜",
+	        "furigana": "ゆうべ",
+	        "meaning": "어젯밤",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "咳",
+	        "furigana": "せき",
+	        "meaning": "기침",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "関係する",
+	        "furigana": "かんけいする",
+	        "meaning": "관련되다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "商品",
+	        "furigana": "しょうひん",
+	        "meaning": "상품",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "掲示板",
+	        "furigana": "けいじばん",
+	        "meaning": "게시판",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "妨げる",
+	        "furigana": "さまたげる",
+	        "meaning": "방해하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "取れる",
+	        "furigana": "とれる",
+	        "meaning": "떨어지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "原材料",
+	        "furigana": "げんざいりょう",
+	        "meaning": "원재료",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "製造方法",
+	        "furigana": "せいぞうほうほう",
+	        "meaning": "제조 방법",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "変える",
+	        "furigana": "かえる",
+	        "meaning": "바꾸다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "商品",
+	        "furigana": "しょうひん",
+	        "meaning": "상품",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "値上げ",
+	        "furigana": "ねあげ",
+	        "meaning": "가격 인상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "関係",
+	        "furigana": "かんけい",
+	        "meaning": "관계",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "発言",
+	        "furigana": "はつげん",
+	        "meaning": "발언",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "会議",
+	        "furigana": "かいぎ",
+	        "meaning": "회의",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "工場",
+	        "furigana": "こうじょう",
+	        "meaning": "공장",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "事故",
+	        "furigana": "じこ",
+	        "meaning": "사고",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307어휘3",
+	        "language": "Japanese",
+	        "word": "確認",
+	        "furigana": "かくにん",
+	        "meaning": "확인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+		{
 	        "type": "2307독해1",
 	        "language": "Japanese",
 	        "word": "次",
