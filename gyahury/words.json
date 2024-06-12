@@ -7653,15 +7653,6 @@
 	    {
 	        "type": "상용한자상18",
 	        "language": "Japanese",
-	        "word": "",
-	        "furigana": "",
-	        "meaning": "크게 보일 관",
-	        "pos": "",
-	        "etc": ""
-	    },
-	    {
-	        "type": "상용한자상18",
-	        "language": "Japanese",
 	        "word": "観",
 	        "furigana": "",
 	        "meaning": "볼 관·관찰할 관",
@@ -8466,15 +8457,6 @@
 	        "word": "感",
 	        "furigana": "",
 	        "meaning": "느낄 감",
-	        "pos": "",
-	        "etc": ""
-	    },
-	    {
-	        "type": "상용한자상30",
-	        "language": "Japanese",
-	        "word": "",
-	        "furigana": "",
-	        "meaning": "안 보일 장·감출 장",
 	        "pos": "",
 	        "etc": ""
 	    },
