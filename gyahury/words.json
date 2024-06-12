@@ -8074,6 +8074,429 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "引",
+	        "furigana": "",
+	        "meaning": "당길 인·끌 인",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "強",
+	        "furigana": "",
+	        "meaning": "강할 강",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "弱",
+	        "furigana": "",
+	        "meaning": "약할 약",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "知",
+	        "furigana": "",
+	        "meaning": "알 지",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "短",
+	        "furigana": "",
+	        "meaning": "짧을 단·모자랄 단",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "侯",
+	        "furigana": "",
+	        "meaning": "제후 후",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "候",
+	        "furigana": "",
+	        "meaning": "① 기후 후 ② 기다릴 후",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "医",
+	        "furigana": "",
+	        "meaning": "의원 의",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "午",
+	        "furigana": "",
+	        "meaning": "낮 오",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "許",
+	        "furigana": "",
+	        "meaning": "허락할 허",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "年",
+	        "furigana": "",
+	        "meaning": "해 년·나이 년",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "乍",
+	        "furigana": "",
+	        "meaning": "잠깐 사·동시에 사",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "作",
+	        "furigana": "",
+	        "meaning": "① 만들 작  ② 동작 작",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "昨",
+	        "furigana": "",
+	        "meaning": "지난날 작·어제 작",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "复",
+	        "furigana": "",
+	        "meaning": "가득할 복",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "複",
+	        "furigana": "",
+	        "meaning": "겹칠 복",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "復",
+	        "furigana": "",
+	        "meaning": "① 돌아갈 복·회복할 복 ② 다시 부",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상29",
+	        "language": "Japanese",
+	        "word": "腹",
+	        "furigana": "",
+	        "meaning": "배 복",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "代",
+	        "furigana": "",
+	        "meaning": "① 대신할 대 ② 세대 대",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "貸",
+	        "furigana": "",
+	        "meaning": "빌릴 대",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "式",
+	        "furigana": "",
+	        "meaning": "법 식·형식 식",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "試",
+	        "furigana": "",
+	        "meaning": "시험할 시",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "武",
+	        "furigana": "",
+	        "meaning": "무력 무",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "戒",
+	        "furigana": "",
+	        "meaning": "경계할 계",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "械",
+	        "furigana": "",
+	        "meaning": "기계 계",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "或",
+	        "furigana": "",
+	        "meaning": "혹시 혹·어떤 혹",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "域",
+	        "furigana": "",
+	        "meaning": "구역 역",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "戠",
+	        "furigana": "",
+	        "meaning": "새길 식",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "職",
+	        "furigana": "",
+	        "meaning": "맡을 직·직무 직",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "識",
+	        "furigana": "",
+	        "meaning": "알 식·지식 식",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "織",
+	        "furigana": "",
+	        "meaning": "짤 직·직물 직",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "裁",
+	        "furigana": "",
+	        "meaning": "① 재단할 재 ② 판단할 재",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "㦮",
+	        "furigana": "",
+	        "meaning": "바닥 전",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "銭",
+	        "furigana": "",
+	        "meaning": "돈 전",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "浅",
+	        "furigana": "",
+	        "meaning": "얕을 천",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "残",
+	        "furigana": "",
+	        "meaning": "남을 잔",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "戊",
+	        "furigana": "",
+	        "meaning": "빽빽할 무·많을 무",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "成",
+	        "furigana": "",
+	        "meaning": "이룰 성·완성할 성",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "城",
+	        "furigana": "",
+	        "meaning": "성 성",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "誠",
+	        "furigana": "",
+	        "meaning": "진실된 마음 성·정성 성",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "盛",
+	        "furigana": "",
+	        "meaning": "① 가득 담을 성 ② 성대할 성",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "咸",
+	        "furigana": "",
+	        "meaning": "모두 함·다 함",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "減",
+	        "furigana": "",
+	        "meaning": "줄어들 감·감소할 감",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "感",
+	        "furigana": "",
+	        "meaning": "느낄 감",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "",
+	        "furigana": "",
+	        "meaning": "안 보일 장·감출 장",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "蔵",
+	        "furigana": "",
+	        "meaning": "① 감출 장  ② 창고 장",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상30",
+	        "language": "Japanese",
+	        "word": "臓",
+	        "furigana": "",
+	        "meaning": "장 장·내장 장",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
 	        "type": "상용한자상46",
 	        "language": "Japanese",
 	        "word": "有",
