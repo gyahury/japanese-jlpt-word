@@ -8784,6 +8784,681 @@
 	        "pos": "",
 	        "etc": ""
 	    },
+		{
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "図",
+	        "furigana": "",
+	        "meaning": "① 그림 도  ② 앞서 생각할 도·계획할 도",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "区",
+	        "furigana": "",
+	        "meaning": "나눌 구·구분 구 (부수)",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "凶",
+	        "furigana": "",
+	        "meaning": "흉할 흉·흉악할 흉 (부수)",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "胸",
+	        "furigana": "",
+	        "meaning": "가슴 흉",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "脳",
+	        "furigana": "",
+	        "meaning": "뇌 뇌",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "文",
+	        "furigana": "",
+	        "meaning": "글 문 (부수)",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "紋",
+	        "furigana": "",
+	        "meaning": "무늬 문",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "対",
+	        "furigana": "",
+	        "meaning": "① 마주할 대·상대할 대 ② 쌍 대",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "斉",
+	        "furigana": "",
+	        "meaning": "가지런할 제 (부수)",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "済",
+	        "furigana": "",
+	        "meaning": "① 마칠 제·해결할 제 ② 구제할 제",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "交",
+	        "furigana": "",
+	        "meaning": "① 오갈 교·교차할 교 ② 사귈 교·교제할 교",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "校",
+	        "furigana": "",
+	        "meaning": "① 교정할 교 ② 학교 교",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "効",
+	        "furigana": "",
+	        "meaning": "나타날 효·효과 효",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "散",
+	        "furigana": "",
+	        "meaning": "흩어질 산·비산할 산",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "敗",
+	        "furigana": "",
+	        "meaning": "패배할 패",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "枚",
+	        "furigana": "",
+	        "meaning": "낱장 매",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "牧",
+	        "furigana": "",
+	        "meaning": "다스릴 목·방목할 목",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상31",
+	        "language": "Japanese",
+	        "word": "修",
+	        "furigana": "",
+	        "meaning": "① 닦을 수·수행할 수 ② 고칠 수·수정할 수",
+	        "pos": "",
+	        "etc": ""
+	    },
+		{
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "刊",
+	        "furigana": "",
+	        "meaning": "책 펴낼 간",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "岸",
+	        "furigana": "",
+	        "meaning": "① 물가 안 ② 절벽 안",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "南",
+	        "furigana": "",
+	        "meaning": "남쪽 남",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "平",
+	        "furigana": "",
+	        "meaning": "평평할 평·기울지 않을 평",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "評",
+	        "furigana": "",
+	        "meaning": "평가할 평",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "乎",
+	        "furigana": "",
+	        "meaning": "어조사 호·힘 더할 호",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "呼",
+	        "furigana": "",
+	        "meaning": "뱉을 호·부를 호",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "務",
+	        "furigana": "",
+	        "meaning": "힘써 임할 무",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "予",
+	        "furigana": "",
+	        "meaning": "미리 예",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "預",
+	        "furigana": "",
+	        "meaning": "맡겨 보관할 예",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "野",
+	        "furigana": "",
+	        "meaning": "들 야",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "勇",
+	        "furigana": "",
+	        "meaning": "용감할 용",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "序",
+	        "furigana": "",
+	        "meaning": "① 시작 서  ② 순서 서",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "近",
+	        "furigana": "",
+	        "meaning": "가까울 근",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "折",
+	        "furigana": "",
+	        "meaning": "① 꺾일 절 ② 절반 절",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "断",
+	        "furigana": "",
+	        "meaning": "끊을 단·결단할 단",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "兵",
+	        "furigana": "",
+	        "meaning": "병사 병",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "貿",
+	        "furigana": "",
+	        "meaning": "무역할 무",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "留",
+	        "furigana": "",
+	        "meaning": "머무를 류",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "殳",
+	        "furigana": "",
+	        "meaning": "몽둥이 수·내리칠 수",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "投",
+	        "furigana": "",
+	        "meaning": "던질 투",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "段",
+	        "furigana": "",
+	        "meaning": "차례 단·계단 단",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "役",
+	        "furigana": "",
+	        "meaning": "부릴 역",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "設",
+	        "furigana": "",
+	        "meaning": "세울 설·설치할 설",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "殺",
+	        "furigana": "",
+	        "meaning": "① 죽일 살 ② 빠를 쇄",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상32",
+	        "language": "Japanese",
+	        "word": "穀",
+	        "furigana": "",
+	        "meaning": "곡식 곡",
+	        "pos": "",
+	        "etc": ""
+	    },
+		{
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "家",
+	        "furigana": "",
+	        "meaning": "① 집 가·가정 가 ② 전문가 가",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "乇",
+	        "furigana": "",
+	        "meaning": "의탁할 탁",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "宅",
+	        "furigana": "",
+	        "meaning": "집 택·댁 택",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "呂",
+	        "furigana": "",
+	        "meaning": "등뼈 려",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "宮",
+	        "furigana": "",
+	        "meaning": "궁궐 궁",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "営",
+	        "furigana": "",
+	        "meaning": "다스릴 영·경영 영",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "官",
+	        "furigana": "",
+	        "meaning": "벼슬 관·관청 관",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "館",
+	        "furigana": "",
+	        "meaning": "건물 관",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "管",
+	        "furigana": "",
+	        "meaning": "① 대롱 관 ② 다스릴 관·관리할 관",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "追",
+	        "furigana": "",
+	        "meaning": "① 쫓을 추 ② 추가할 추",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "至",
+	        "furigana": "",
+	        "meaning": "① 이를 지  ② 매우 지",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "室",
+	        "furigana": "",
+	        "meaning": "집 실·방 실",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "屋",
+	        "furigana": "",
+	        "meaning": "큰집 옥·건물 옥",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "宿",
+	        "furigana": "",
+	        "meaning": "① 머물 숙·묵을 숙 ② 오래될 숙",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "縮",
+	        "furigana": "",
+	        "meaning": "줄어들 축",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "元",
+	        "furigana": "",
+	        "meaning": "원래 원·근원 원",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "完",
+	        "furigana": "",
+	        "meaning": "완전할 완·완성 완",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "院",
+	        "furigana": "",
+	        "meaning": "큰 건물 원·기관 원",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "穴",
+	        "furigana": "",
+	        "meaning": "구멍 혈·동굴 혈",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "空",
+	        "furigana": "",
+	        "meaning": "텅 빌 공",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "窓",
+	        "furigana": "",
+	        "meaning": "창문 창",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "究",
+	        "furigana": "",
+	        "meaning": "연구 구·알아낼 구",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "罙",
+	        "furigana": "",
+	        "meaning": "깊은 구덩이 심",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "深",
+	        "furigana": "",
+	        "meaning": "깊을 심",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "探",
+	        "furigana": "",
+	        "meaning": "찾을 탐·탐색할 탐",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "宇",
+	        "furigana": "",
+	        "meaning": "집 우·우주 우",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "宙",
+	        "furigana": "",
+	        "meaning": "하늘 주·공중 주",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "字",
+	        "furigana": "",
+	        "meaning": "글자 자",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "学",
+	        "furigana": "",
+	        "meaning": "배울 학",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "安",
+	        "furigana": "",
+	        "meaning": "① 편안할 안·안정될 안 ② 값쌀 안",
+	        "pos": "",
+	        "etc": ""
+	    },
+	    {
+	        "type": "상용한자상33",
+	        "language": "Japanese",
+	        "word": "案",
+	        "furigana": "",
+	        "meaning": "① 생각 안  ② 책상 안",
+	        "pos": "",
+	        "etc": ""
+	    },
 	    {
 	        "type": "상용한자상46",
 	        "language": "Japanese",
