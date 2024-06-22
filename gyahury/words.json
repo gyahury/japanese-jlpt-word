@@ -6012,7 +6012,447 @@
 	        "pos": "verb",
 	        "etc": ""
 	    },
-
+		{
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "立ち上げ方",
+	        "furigana": "たちあげかた",
+	        "meaning": "시작하는 방법",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "申し込み",
+	        "furigana": "もうしこみ",
+	        "meaning": "신청",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "もう",
+	        "furigana": "もう",
+	        "meaning": "이미",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "受講料",
+	        "furigana": "じゅこうりょう",
+	        "meaning": "수강료",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "支払い",
+	        "furigana": "しはらい",
+	        "meaning": "지불",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "って",
+	        "furigana": "って",
+	        "meaning": "이라는 것",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "必要",
+	        "furigana": "ひつよう",
+	        "meaning": "필요",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "振り込み先",
+	        "furigana": "ふりこみさき",
+	        "meaning": "입금처",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "口座番号",
+	        "furigana": "こうざばんごう",
+	        "meaning": "계좌번호",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "払う",
+	        "furigana": "はらう",
+	        "meaning": "지불하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "見てみる",
+	        "furigana": "みてみる",
+	        "meaning": "봐볼게",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "済む",
+	        "furigana": "すむ",
+	        "meaning": "끝나다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "添付する",
+	        "furigana": "てんぷする",
+	        "meaning": "첨부하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "間に合う",
+	        "furigana": "まにあう",
+	        "meaning": "시간에 맞추다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "かもしれない",
+	        "furigana": "かもしれない",
+	        "meaning": "~일지도 모른다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "早速",
+	        "furigana": "さっそく",
+	        "meaning": "곧",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "自宅",
+	        "furigana": "じたく",
+	        "meaning": "자택",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "届く",
+	        "furigana": "とどく",
+	        "meaning": "도착하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "今週いっぱい",
+	        "furigana": "こんしゅういっぱい",
+	        "meaning": "이번 주 내내",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "し",
+	        "furigana": "し",
+	        "meaning": "~고",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "また",
+	        "furigana": "また",
+	        "meaning": "또",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "建築設計事務所",
+	        "furigana": "けんちくせっけいじむしょ",
+	        "meaning": "건축설계사무소",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "課長",
+	        "furigana": "かちょう",
+	        "meaning": "과장",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "照明",
+	        "furigana": "しょうめい",
+	        "meaning": "조명",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "設計",
+	        "furigana": "せっけい",
+	        "meaning": "설계",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "変更",
+	        "furigana": "へんこう",
+	        "meaning": "변경",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "提案する",
+	        "furigana": "ていあんする",
+	        "meaning": "제안하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "案",
+	        "furigana": "あん",
+	        "meaning": "안",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "資料",
+	        "furigana": "しりょう",
+	        "meaning": "자료",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "前回",
+	        "furigana": "ぜんかい",
+	        "meaning": "전번",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "天井",
+	        "furigana": "てんじょう",
+	        "meaning": "천장",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "大型",
+	        "furigana": "おおがた",
+	        "meaning": "대형",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "取り付ける",
+	        "furigana": "とりつける",
+	        "meaning": "설치하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "今回",
+	        "furigana": "こんかい",
+	        "meaning": "이번",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "小さめ",
+	        "furigana": "ちいさめ",
+	        "meaning": "작은편",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "いくつも",
+	        "furigana": "いくつも",
+	        "meaning": "여러개",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "並べる",
+	        "furigana": "ならべる",
+	        "meaning": "늘어놓다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "ぶら下げる",
+	        "furigana": "ぶらさげる",
+	        "meaning": "매달다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "器具",
+	        "furigana": "きぐ",
+	        "meaning": "기구",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "素材",
+	        "furigana": "そざい",
+	        "meaning": "소재",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "雰囲気",
+	        "furigana": "ふんいき",
+	        "meaning": "분위기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "そうしてみます",
+	        "furigana": "そうしてみます",
+	        "meaning": "해보겠습니다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "リラックスする",
+	        "furigana": "リラックスする",
+	        "meaning": "릴랙스하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "空間",
+	        "furigana": "くうかん",
+	        "meaning": "공간",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "ふさわしく",
+	        "furigana": "ふさわしく",
+	        "meaning": "적합하게",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "抑える",
+	        "furigana": "おさえる",
+	        "meaning": "억제하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "明かり",
+	        "furigana": "あかり",
+	        "meaning": "불빛",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "白すぎず",
+	        "furigana": "しろすぎず",
+	        "meaning": "너무 하얗지 않고",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기2",
+	        "language": "Japanese",
+	        "word": "通り",
+	        "furigana": "とおり",
+	        "meaning": "대로",
+	        "pos": "noun",
+	        "etc": ""
+	    },
 	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
