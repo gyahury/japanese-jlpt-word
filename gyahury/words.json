@@ -5625,6 +5625,394 @@
 	        "pos": "adverb",
 	        "etc": ""
 		},
+		{
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "担当",
+	        "furigana": "たんとう",
+	        "meaning": "담당",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "何人",
+	        "furigana": "なんにん",
+	        "meaning": "몇 사람",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "体験",
+	        "furigana": "たいけん",
+	        "meaning": "체험",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "優秀",
+	        "furigana": "ゆうしゅう",
+	        "meaning": "우수한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "成績",
+	        "furigana": "せいせき",
+	        "meaning": "성적",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "方法",
+	        "furigana": "ほうほう",
+	        "meaning": "방법",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "工夫",
+	        "furigana": "くふう",
+	        "meaning": "궁리",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "ついて",
+	        "furigana": "ついて",
+	        "meaning": "대해서",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "みたいだ",
+	        "furigana": "みたいだ",
+	        "meaning": "~같다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "刺激",
+	        "furigana": "しげき",
+	        "meaning": "자극",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "お役",
+	        "furigana": "おやく",
+	        "meaning": "도움",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "就職",
+	        "furigana": "しゅうしょく",
+	        "meaning": "취업",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "興味",
+	        "furigana": "きょうみ",
+	        "meaning": "흥미",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "他",
+	        "furigana": "ほか",
+	        "meaning": "다른",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "ご相談",
+	        "furigana": "ごそうだん",
+	        "meaning": "상담",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "引き受ける",
+	        "furigana": "ひきうける",
+	        "meaning": "맡다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "件",
+	        "furigana": "けん",
+	        "meaning": "건",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "農家",
+	        "furigana": "のうか",
+	        "meaning": "농가",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "作業",
+	        "furigana": "さぎょう",
+	        "meaning": "작업",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "祖父",
+	        "furigana": "そふ",
+	        "meaning": "할아버지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "庭",
+	        "furigana": "にわ",
+	        "meaning": "정원",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "土",
+	        "furigana": "つち",
+	        "meaning": "흙",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "耕す",
+	        "furigana": "たがやす",
+	        "meaning": "갈다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "種",
+	        "furigana": "たね",
+	        "meaning": "씨",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "蒔く",
+	        "furigana": "まく",
+	        "meaning": "뿌리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "手伝う",
+	        "furigana": "てつだう",
+	        "meaning": "돕다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "全く",
+	        "furigana": "まったく",
+	        "meaning": "전혀",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "うち",
+	        "furigana": "うち",
+	        "meaning": "저희",
+	        "pos": "pronoun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "いろんな",
+	        "furigana": "いろんな",
+	        "meaning": "여러 가지",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "栽培",
+	        "furigana": "さいばい",
+	        "meaning": "재배",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "時期",
+	        "furigana": "じき",
+	        "meaning": "시기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "ネギ",
+	        "furigana": "ネギ",
+	        "meaning": "파",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "収穫",
+	        "furigana": "しゅうかく",
+	        "meaning": "수확",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "畑",
+	        "furigana": "はたけ",
+	        "meaning": "밭",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "雑草",
+	        "furigana": "ざっそう",
+	        "meaning": "잡초",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "余計な",
+	        "furigana": "よけいな",
+	        "meaning": "불필요한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "抜く",
+	        "furigana": "ぬく",
+	        "meaning": "뽑다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "途中",
+	        "furigana": "とちゅう",
+	        "meaning": "도중",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "絡まる",
+	        "furigana": "からまる",
+	        "meaning": "얽히다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "止める",
+	        "furigana": "とめる",
+	        "meaning": "멈추다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "大事",
+	        "furigana": "だいじ",
+	        "meaning": "중요",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "ほうれん草",
+	        "furigana": "ほうれんそう",
+	        "meaning": "시금치",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기1",
+	        "language": "Japanese",
+	        "word": "済む",
+	        "furigana": "すむ",
+	        "meaning": "끝나다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+
 	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
