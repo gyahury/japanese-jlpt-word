@@ -6454,6 +6454,258 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "説明会",
+	        "furigana": "せつめいかい",
+	        "meaning": "설명회",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "新商品",
+	        "furigana": "しんしょうひん",
+	        "meaning": "신상품",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "整う",
+	        "furigana": "ととのう",
+	        "meaning": "갖추다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "設置",
+	        "furigana": "せっち",
+	        "meaning": "설치",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "当日",
+	        "furigana": "とうじつ",
+	        "meaning": "당일",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "行います",
+	        "furigana": "おこないます",
+	        "meaning": "진행합니다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "ので",
+	        "furigana": "ので",
+	        "meaning": "~이니까",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "封筒",
+	        "furigana": "ふうとう",
+	        "meaning": "봉투",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "各",
+	        "furigana": "かく",
+	        "meaning": "각",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "置いて",
+	        "furigana": "おいて",
+	        "meaning": "놓아",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "完了",
+	        "furigana": "かんりょう",
+	        "meaning": "완료",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "規模",
+	        "furigana": "きぼ",
+	        "meaning": "규모",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "かなり",
+	        "furigana": "かなり",
+	        "meaning": "상당히",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "来場者",
+	        "furigana": "らいじょうしゃ",
+	        "meaning": "참석자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "林業",
+	        "furigana": "りんぎょう",
+	        "meaning": "임업",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "興味",
+	        "furigana": "きょうみ",
+	        "meaning": "흥미",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "学ぶ",
+	        "furigana": "まなぶ",
+	        "meaning": "배우다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "見つける",
+	        "furigana": "みつける",
+	        "meaning": "찾다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "地域",
+	        "furigana": "ちいき",
+	        "meaning": "지역",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "講義",
+	        "furigana": "こうぎ",
+	        "meaning": "강의",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "実際に",
+	        "furigana": "じっさいに",
+	        "meaning": "실제로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "切り倒す",
+	        "furigana": "きりたおす",
+	        "meaning": "베어넘어뜨리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "人工呼吸",
+	        "furigana": "じんこうこきゅう",
+	        "meaning": "인공호흡",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "危険",
+	        "furigana": "きけん",
+	        "meaning": "위험",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "役立つ",
+	        "furigana": "やくだつ",
+	        "meaning": "도움이 되다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "損",
+	        "furigana": "そん",
+	        "meaning": "손해",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "木材",
+	        "furigana": "もくざい",
+	        "meaning": "목재",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기3",
+	        "language": "Japanese",
+	        "word": "工作",
+	        "furigana": "こうさく",
+	        "meaning": "공작",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
 	        "word": "一",
