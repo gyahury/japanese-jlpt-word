@@ -20276,6 +20276,501 @@
 		    "meaning": "열심히",
 		    "pos": "adverb",
 		    "etc": ""
+		},
+	    {
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "変わる",
+		    "furigana": "かわる",
+		    "meaning": "변하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "掃除",
+		    "furigana": "そうじ",
+		    "meaning": "청소",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "洗濯",
+		    "furigana": "せんたく",
+		    "meaning": "세탁",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "～など",
+		    "furigana": "～など",
+		    "meaning": "~등",
+		    "pos": "particle",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "家事",
+		    "furigana": "かじ",
+		    "meaning": "집안일",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "自分で",
+		    "furigana": "じぶんで",
+		    "meaning": "스스로",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "足りる",
+		    "furigana": "たりる",
+		    "meaning": "충분하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "期間中",
+		    "furigana": "きかんちゅう",
+		    "meaning": "기간 중",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "食べ物",
+		    "furigana": "たべもの",
+		    "meaning": "먹을 것/음식",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "一人暮らし",
+		    "furigana": "ひとりぐらし",
+		    "meaning": "자취생활",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "門限",
+		    "furigana": "もんげん",
+		    "meaning": "통금",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "靴",
+		    "furigana": "くつ",
+		    "meaning": "신발/구두",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "脱ぐ",
+		    "furigana": "ぬぐ",
+		    "meaning": "벗다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "もう",
+		    "furigana": "もう",
+		    "meaning": "이미/벌써",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "心配する",
+		    "furigana": "しんぱいする",
+		    "meaning": "걱정하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "並ぶ",
+		    "furigana": "ならぶ",
+		    "meaning": "줄 서다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "絶対に",
+		    "furigana": "ぜったいに",
+		    "meaning": "절대로",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "譲る",
+		    "furigana": "ゆずる",
+		    "meaning": "양보하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "返す",
+		    "furigana": "かえす",
+		    "meaning": "돌려주다/반납하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "気をつける",
+		    "furigana": "きをつける",
+		    "meaning": "주의하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "肉",
+		    "furigana": "にく",
+		    "meaning": "고기",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "魚",
+		    "furigana": "さかな",
+		    "meaning": "생선",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "先に",
+		    "furigana": "さきに",
+		    "meaning": "먼저",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "シャワーを浴びる",
+		    "furigana": "しゃわーをあびる",
+		    "meaning": "샤워를 하다",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "お腹が空く",
+		    "furigana": "おなかがすく",
+		    "meaning": "배가 고프다",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "出かける",
+		    "furigana": "でかける",
+		    "meaning": "외출하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "今日中",
+		    "furigana": "きょうじゅう",
+		    "meaning": "오늘 중",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "就職する",
+		    "furigana": "しゅうしょくする",
+		    "meaning": "취직하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "テ스トを受ける",
+		    "furigana": "てすとをうける",
+		    "meaning": "시험을 치다",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "手",
+		    "furigana": "て",
+		    "meaning": "손",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "洗う",
+		    "furigana": "あらう",
+		    "meaning": "씻다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "冬休み",
+		    "furigana": "ふゆやすみ",
+		    "meaning": "겨울방학",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "消す",
+		    "furigana": "けす",
+		    "meaning": "끄다/지우다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "砂糖",
+		    "furigana": "さとう",
+		    "meaning": "설탕",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "入れる",
+		    "furigana": "いれる",
+		    "meaning": "넣다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "めがねをかける",
+		    "furigana": "めがねをかける",
+		    "meaning": "안경을 끼다",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "帽子をかぶる",
+		    "furigana": "ぼうしをかぶる",
+		    "meaning": "모자를 쓰다",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "授業を受ける",
+		    "furigana": "じゅぎょうをうける",
+		    "meaning": "수업을 받다",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "出勤する",
+		    "furigana": "しゅっきんする",
+		    "meaning": "출근하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "去年",
+		    "furigana": "きょねん",
+		    "meaning": "작년",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "忘れる",
+		    "furigana": "わすれる",
+		    "meaning": "잊다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "思い出",
+		    "furigana": "おもいで",
+		    "meaning": "추억",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "調べる",
+		    "furigana": "しらべる",
+		    "meaning": "조사하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "歩く",
+		    "furigana": "あるく",
+		    "meaning": "걷다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "見つかる",
+		    "furigana": "みつかる",
+		    "meaning": "발견되다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "困る",
+		    "furigana": "こまる",
+		    "meaning": "곤란하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "探す",
+		    "furigana": "さがす",
+		    "meaning": "찾다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "声をかける",
+		    "furigana": "こえをかける",
+		    "meaning": "말을 걸다",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "言う",
+		    "furigana": "いう",
+		    "meaning": "말하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "うまく",
+		    "furigana": "うまく",
+		    "meaning": "잘/훌륭히",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "何度も",
+		    "furigana": "なんども",
+		    "meaning": "몇 번이나",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "気にする",
+		    "furigana": "きにする",
+		    "meaning": "신경 쓰다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "笑う",
+		    "furigana": "わらう",
+		    "meaning": "웃다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "ボランティア",
+		    "furigana": "ぼらんてぃあ",
+		    "meaning": "자원봉사",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠33",
+		    "language": "Japanese",
+		    "word": "親切に",
+		    "furigana": "しんせつに",
+		    "meaning": "친절하게",
+		    "pos": "adverb",
+		    "etc": ""
 		}
     ]
 }
