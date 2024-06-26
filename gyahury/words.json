@@ -6706,6 +6706,357 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "増やす",
+	        "furigana": "ふやす",
+	        "meaning": "증가시키다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "数",
+	        "furigana": "かず",
+	        "meaning": "수",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "減る",
+	        "furigana": "へる",
+	        "meaning": "줄다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "せいで",
+	        "furigana": "せいで",
+	        "meaning": "때문에",
+	        "pos": "conjunction",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "売れ残る",
+	        "furigana": "うれのこる",
+	        "meaning": "팔리지 않고 남다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "近所",
+	        "furigana": "きんじょ",
+	        "meaning": "근처",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "価格",
+	        "furigana": "かかく",
+	        "meaning": "가격",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "値段",
+	        "furigana": "ねだん",
+	        "meaning": "가격",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "下げる",
+	        "furigana": "さげる",
+	        "meaning": "내리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "上がる",
+	        "furigana": "あがる",
+	        "meaning": "오르다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "早める",
+	        "furigana": "はやめる",
+	        "meaning": "앞당기다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "見つける",
+	        "furigana": "みつける",
+	        "meaning": "찾다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "宣伝",
+	        "furigana": "せんでん",
+	        "meaning": "홍보",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "力を入れる",
+	        "furigana": "ちからをいれる",
+	        "meaning": "힘을 기울이다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "チラシ",
+	        "furigana": "ちらし",
+	        "meaning": "전단지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "配る",
+	        "furigana": "くばる",
+	        "meaning": "나누다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "割引券",
+	        "furigana": "わりびきけん",
+	        "meaning": "할인권",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "付ける",
+	        "furigana": "つける",
+	        "meaning": "붙이다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "売り上げ",
+	        "furigana": "うりあげ",
+	        "meaning": "매출",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "伸びない",
+	        "furigana": "のびない",
+	        "meaning": "늘지 않다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "情報",
+	        "furigana": "じょうほう",
+	        "meaning": "정보",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "検索",
+	        "furigana": "けんさく",
+	        "meaning": "검색",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "早速",
+	        "furigana": "さっそく",
+	        "meaning": "곧",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "やってみましょう",
+	        "furigana": "やってみましょう",
+	        "meaning": "해봅시다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "どうにか",
+	        "furigana": "どうにか",
+	        "meaning": "어떻게든",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "なんとか",
+	        "furigana": "なんとか",
+	        "meaning": "어떻게든",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "環境問題",
+	        "furigana": "かんきょうもんだい",
+	        "meaning": "환경 문제",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "解決",
+	        "furigana": "かいけつ",
+	        "meaning": "해결",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "取り組む",
+	        "furigana": "とりくむ",
+	        "meaning": "몰두하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "団体",
+	        "furigana": "だんたい",
+	        "meaning": "단체",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "活動",
+	        "furigana": "かつどう",
+	        "meaning": "활동",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "程度",
+	        "furigana": "ていど",
+	        "meaning": "정도",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "天候",
+	        "furigana": "てんこう",
+	        "meaning": "날씨",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "延期",
+	        "furigana": "えんき",
+	        "meaning": "연기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "本来",
+	        "furigana": "ほんらい",
+	        "meaning": "본래",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "参加",
+	        "furigana": "さんか",
+	        "meaning": "참가",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "運営",
+	        "furigana": "うんえい",
+	        "meaning": "운영",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "ぜひ",
+	        "furigana": "ぜひ",
+	        "meaning": "꼭",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기4",
+	        "language": "Japanese",
+	        "word": "大切さ",
+	        "furigana": "たいせつさ",
+	        "meaning": "중요성",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
 	        "word": "一",
