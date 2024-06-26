@@ -19538,6 +19538,420 @@
 	        "meaning": "유창하게/줄줄",
 	        "pos": "adverb",
 	        "etc": ""
-	    }
+	    },
+	    {
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "モデル",
+		    "furigana": "もでる",
+		    "meaning": "모델",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "人気",
+		    "furigana": "にんき",
+		    "meaning": "인기",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "いる",
+		    "furigana": "いる",
+		    "meaning": "(사람, 동물이) 있다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "すてきだ",
+		    "furigana": "すてきだ",
+		    "meaning": "멋있다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "～がほしい",
+		    "furigana": "～がほしい",
+		    "meaning": "~을/를 원하다(갖고 싶다)",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "早く",
+		    "furigana": "はやく",
+		    "meaning": "빨리",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "電話に出る",
+		    "furigana": "でんわにでる",
+		    "meaning": "전화를 받다",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "留守",
+		    "furigana": "るす",
+		    "meaning": "부재 중",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "ここにする",
+		    "furigana": "ここにする",
+		    "meaning": "방긋거리다",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "二人",
+		    "furigana": "ふたり",
+		    "meaning": "두 사람",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "仲",
+		    "furigana": "なか",
+		    "meaning": "사이",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "部屋",
+		    "furigana": "へや",
+		    "meaning": "방",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "蒸し暑い",
+		    "furigana": "むしあつい",
+		    "meaning": "무덥다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "サウナ",
+		    "furigana": "さうな",
+		    "meaning": "사우나",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "辛い物",
+		    "furigana": "からいもの",
+		    "meaning": "매운 것",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "母",
+		    "furigana": "はは",
+		    "meaning": "엄마",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "結婚する",
+		    "furigana": "けっこんする",
+		    "meaning": "결혼하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "付き合う",
+		    "furigana": "つきあう",
+		    "meaning": "사귀다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "また",
+		    "furigana": "また",
+		    "meaning": "또",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "片付ける",
+		    "furigana": "かたづける",
+		    "meaning": "정리하다/정돈하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "あそこ",
+		    "furigana": "あそこ",
+		    "meaning": "저기",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "集まる",
+		    "furigana": "あつまる",
+		    "meaning": "모이다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "ある",
+		    "furigana": "ある",
+		    "meaning": "(사물이) 있다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "何か",
+		    "furigana": "なにか",
+		    "meaning": "뭔가",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "撮影",
+		    "furigana": "さつえい",
+		    "meaning": "촬영",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "芸能人",
+		    "furigana": "げいのうじん",
+		    "meaning": "연예인",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "背が高い",
+		    "furigana": "せがたかい",
+		    "meaning": "키가 크다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "스タイル",
+		    "furigana": "すたいる",
+		    "meaning": "스타일",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "まるで",
+		    "furigana": "まるで",
+		    "meaning": "마치",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "消える",
+		    "furigana": "きえる",
+		    "meaning": "꺼지다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "ダイエット中",
+		    "furigana": "だいえっとちゅう",
+		    "meaning": "다이어트 중",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "約束",
+		    "furigana": "やくそく",
+		    "meaning": "약속",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "上手だ",
+		    "furigana": "じょうずだ",
+		    "meaning": "잘하다/능숙하다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "人形",
+		    "furigana": "にんぎょう",
+		    "meaning": "인형",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "かっこいい",
+		    "furigana": "かっこいい",
+		    "meaning": "멋있다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "ぺらぺらだ",
+		    "furigana": "ぺらぺらだ",
+		    "meaning": "능숙하게 술술 말하다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "チョコレート",
+		    "furigana": "ちょこれーと",
+		    "meaning": "초콜릿",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "生ビール",
+		    "furigana": "なまびーる",
+		    "meaning": "생맥주",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "冷たいもの",
+		    "furigana": "つめたいもの",
+		    "meaning": "찬 것",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "古い",
+		    "furigana": "ふるい",
+		    "meaning": "오래되다/낡다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "町",
+		    "furigana": "まち",
+		    "meaning": "마을",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "所",
+		    "furigana": "ところ",
+		    "meaning": "곳/장소",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "マルチーズ",
+		    "furigana": "まるちーず",
+		    "meaning": "말티즈",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "犬",
+		    "furigana": "いぬ",
+		    "meaning": "개",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "ペット",
+		    "furigana": "ぺっと",
+		    "meaning": "애완동물",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠31",
+		    "language": "Japanese",
+		    "word": "飼う",
+		    "furigana": "かう",
+		    "meaning": "기르다",
+		    "pos": "verb",
+		    "etc": ""
+		}
     ]
 }
