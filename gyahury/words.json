@@ -19952,6 +19952,330 @@
 		    "meaning": "기르다",
 		    "pos": "verb",
 		    "etc": ""
+		},
+	    {
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "久しぶりです",
+		    "furigana": "ひさしぶりです",
+		    "meaning": "오랜만입니다",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "ホーム스テイ",
+		    "furigana": "ほーむすてい",
+		    "meaning": "홈스테이",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "ホ스トファミリー",
+		    "furigana": "ほすとふぁみりー",
+		    "meaning": "홈스테이 가족",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "思い出",
+		    "furigana": "おもいで",
+		    "meaning": "추억",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "いろいろだ",
+		    "furigana": "いろいろだ",
+		    "meaning": "여러 가지다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "連れて行く",
+		    "furigana": "つれていく",
+		    "meaning": "데리고 가다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "毎週",
+		    "furigana": "まいしゅう",
+		    "meaning": "매주",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "誕生日",
+		    "furigana": "たんじょうび",
+		    "meaning": "생일",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "準備する",
+		    "furigana": "じゅんびする",
+		    "meaning": "준비하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "留学する",
+		    "furigana": "りゅうがくする",
+		    "meaning": "유학하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "論文",
+		    "furigana": "ろんぶん",
+		    "meaning": "논문",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "資料",
+		    "furigana": "しりょう",
+		    "meaning": "자료",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "集める",
+		    "furigana": "あつめる",
+		    "meaning": "모으다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "セーター",
+		    "furigana": "せーたー",
+		    "meaning": "스웨터",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "ネクタイ",
+		    "furigana": "ねくたい",
+		    "meaning": "넥타이",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "後輩",
+		    "furigana": "こうはい",
+		    "meaning": "후배",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "説明する",
+		    "furigana": "せつめいする",
+		    "meaning": "설명하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "おごる",
+		    "furigana": "おごる",
+		    "meaning": "한턱내다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "弟",
+		    "furigana": "おとうと",
+		    "meaning": "남동생",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "手伝う",
+		    "furigana": "てつだう",
+		    "meaning": "돕다/거들다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "手紙",
+		    "furigana": "てがみ",
+		    "meaning": "편지",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "財布",
+		    "furigana": "さいふ",
+		    "meaning": "지갑",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "お菓子",
+		    "furigana": "おかし",
+		    "meaning": "과자",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "辞書",
+		    "furigana": "じしょ",
+		    "meaning": "사전",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "貸す",
+		    "furigana": "かす",
+		    "meaning": "빌려주다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "調べる",
+		    "furigana": "しらべる",
+		    "meaning": "조사하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "教える",
+		    "furigana": "おしえる",
+		    "meaning": "가르치다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "兄",
+		    "furigana": "あに",
+		    "meaning": "형",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "重い",
+		    "furigana": "おもい",
+		    "meaning": "무겁다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "荷物",
+		    "furigana": "にもつ",
+		    "meaning": "짐",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "運ぶ",
+		    "furigana": "はこぶ",
+		    "meaning": "운반하다/나르다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "息子",
+		    "furigana": "むすこ",
+		    "meaning": "아들",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "健康",
+		    "furigana": "けんこう",
+		    "meaning": "건강",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "いい物",
+		    "furigana": "いいもの",
+		    "meaning": "좋은 것",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "貯める",
+		    "furigana": "ためる",
+		    "meaning": "모으다/저축하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠32",
+		    "language": "Japanese",
+		    "word": "一生懸命",
+		    "furigana": "いっしょうけんめい",
+		    "meaning": "열심히",
+		    "pos": "adverb",
+		    "etc": ""
 		}
     ]
 }
