@@ -20771,6 +20771,627 @@
 		    "meaning": "친절하게",
 		    "pos": "adverb",
 		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "すすめる",
+		    "furigana": "すすめる",
+		    "meaning": "추천하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "小説",
+		    "furigana": "しょうせつ",
+		    "meaning": "소설",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "たくさんの人",
+		    "furigana": "たくさんのひと",
+		    "meaning": "많은 사람",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "ところで",
+		    "furigana": "ところで",
+		    "meaning": "그런데",
+		    "pos": "conjunction",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "急に",
+		    "furigana": "きゅうに",
+		    "meaning": "갑자기",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "その後",
+		    "furigana": "そのご",
+		    "meaning": "그 후",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "隣の人",
+		    "furigana": "となりのひと",
+		    "meaning": "옆집 사람",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "騒ぐ",
+		    "furigana": "さわぐ",
+		    "meaning": "떠들다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "結局",
+		    "furigana": "けっきょく",
+		    "meaning": "결국",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "誘う",
+		    "furigana": "さそう",
+		    "meaning": "권유하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "押す",
+		    "furigana": "おす",
+		    "meaning": "밀다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "呼ぶ",
+		    "furigana": "よぶ",
+		    "meaning": "부르다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "盗む",
+		    "furigana": "ぬすむ",
+		    "meaning": "훔치다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "叱る",
+		    "furigana": "しかる",
+		    "meaning": "꾸중하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "触る",
+		    "furigana": "さわる",
+		    "meaning": "만지다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "ほめる",
+		    "furigana": "ほめる",
+		    "meaning": "칭찬하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "招待する",
+		    "furigana": "しょうたいする",
+		    "meaning": "초대하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "いじめる",
+		    "furigana": "いじめる",
+		    "meaning": "괴롭히다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "蚊",
+		    "furigana": "か",
+		    "meaning": "모기",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "刺す",
+		    "furigana": "さす",
+		    "meaning": "찌르다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "すり",
+		    "furigana": "すり",
+		    "meaning": "소매치기",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "握る",
+		    "furigana": "にぎる",
+		    "meaning": "소매치기하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "部長",
+		    "furigana": "ぶちょう",
+		    "meaning": "부장",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "頼む",
+		    "furigana": "たのむ",
+		    "meaning": "부탁하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "作文",
+		    "furigana": "さくぶん",
+		    "meaning": "작문",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "帰りに",
+		    "furigana": "かえりに",
+		    "meaning": "돌아가는 길에",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "ビル",
+		    "furigana": "びる",
+		    "meaning": "빌딩",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "建てる",
+		    "furigana": "たてる",
+		    "meaning": "짓다/세우다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "桜",
+		    "furigana": "さくら",
+		    "meaning": "벚꽃",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "愛する",
+		    "furigana": "あいする",
+		    "meaning": "사랑하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "世界中",
+		    "furigana": "せかいじゅう",
+		    "meaning": "전 세계",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "方",
+		    "furigana": "ほう",
+		    "meaning": "분",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "新幹線",
+		    "furigana": "しんかんせん",
+		    "meaning": "신칸센",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "牛丼",
+		    "furigana": "ぎゅうどん",
+		    "meaning": "규동/소고기 덮밥",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "怒る",
+		    "furigana": "おこる",
+		    "meaning": "화내다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "どうしたんですか",
+		    "furigana": "どうしたんですか",
+		    "meaning": "무슨 일입니까?",
+		    "pos": "expression",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "どろぼう",
+		    "furigana": "どろぼう",
+		    "meaning": "도둑",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "振る",
+		    "furigana": "ふる",
+		    "meaning": "거절하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "残念だ",
+		    "furigana": "ざんねんだ",
+		    "meaning": "유감이다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "プロポーズする",
+		    "furigana": "ぷろぽーずする",
+		    "meaning": "프로포즈하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "ラブレター",
+		    "furigana": "らぶれたー",
+		    "meaning": "러브레터",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "外国人",
+		    "furigana": "がいこくじん",
+		    "meaning": "외국인",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "通る",
+		    "furigana": "とおる",
+		    "meaning": "길",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "犬",
+		    "furigana": "いぬ",
+		    "meaning": "개",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "足",
+		    "furigana": "あし",
+		    "meaning": "다리",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "噛む",
+		    "furigana": "かむ",
+		    "meaning": "물다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "弟",
+		    "furigana": "おとうと",
+		    "meaning": "남동생",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "先週",
+		    "furigana": "せんしゅう",
+		    "meaning": "지난주",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "壊す",
+		    "furigana": "こわす",
+		    "meaning": "망가뜨리다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "大事だ",
+		    "furigana": "だいじだ",
+		    "meaning": "중요하다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "書類",
+		    "furigana": "しょるい",
+		    "meaning": "서류",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "捨てる",
+		    "furigana": "すてる",
+		    "meaning": "버리다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "一晩中",
+		    "furigana": "ひとばんじゅう",
+		    "meaning": "밤새도록",
+		    "pos": "adverb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "飼う",
+		    "furigana": "かう",
+		    "meaning": "기르다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "悲しい",
+		    "furigana": "かなしい",
+		    "meaning": "슬프다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "電車",
+		    "furigana": "でんしゃ",
+		    "meaning": "전철",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "迷惑だ",
+		    "furigana": "めいわくだ",
+		    "meaning": "폐가 되다/성가시다",
+		    "pos": "adjective",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "荷物",
+		    "furigana": "にもつ",
+		    "meaning": "짐",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "バター",
+		    "furigana": "ばたー",
+		    "meaning": "버터",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "牛乳",
+		    "furigana": "ぎゅうにゅう",
+		    "meaning": "우유",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "卒業式",
+		    "furigana": "そつぎょうしき",
+		    "meaning": "졸업식",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "行う",
+		    "furigana": "おこなう",
+		    "meaning": "행하다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "스ニーカー",
+		    "furigana": "すにーかー",
+		    "meaning": "스니커즈",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "売る",
+		    "furigana": "うる",
+		    "meaning": "팔다",
+		    "pos": "verb",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "国",
+		    "furigana": "くに",
+		    "meaning": "나라",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "たこ焼き",
+		    "furigana": "たこやき",
+		    "meaning": "타코야키",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "渋谷",
+		    "furigana": "しぶや",
+		    "meaning": "일본 지명(시부야)",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "駅弁",
+		    "furigana": "えきべん",
+		    "meaning": "역에서 파는 도시락",
+		    "pos": "noun",
+		    "etc": ""
+		},
+		{
+		    "type": "스쿠스쿠34",
+		    "language": "Japanese",
+		    "word": "弁当",
+		    "furigana": "べんとう",
+		    "meaning": "도시락",
+		    "pos": "noun",
+		    "etc": ""
 		}
     ]
 }
