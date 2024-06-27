@@ -7057,6 +7057,164 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "だるい",
+	        "furigana": "だるい",
+	        "meaning": "나른하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "食欲",
+	        "furigana": "しょくよく",
+	        "meaning": "식욕",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "症状",
+	        "furigana": "しょうじょう",
+	        "meaning": "증상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "こういった",
+	        "meaning": "이런",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "例えば",
+	        "furigana": "たとえば",
+	        "meaning": "예를 들어",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "屋外",
+	        "furigana": "おくがい",
+	        "meaning": "실외",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "室内",
+	        "furigana": "しつない",
+	        "meaning": "실내",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "調節",
+	        "furigana": "ちょうせつ",
+	        "meaning": "조절",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "うまく",
+	        "meaning": "잘",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "汗",
+	        "furigana": "あせ",
+	        "meaning": "땀",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "起こる",
+	        "furigana": "おこる",
+	        "meaning": "일어나다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "寝苦しさ",
+	        "furigana": "ねぐるしさ",
+	        "meaning": "잠을 잘 수 없음",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "ことで",
+	        "meaning": "~로 인해",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "そうした",
+	        "meaning": "그러한",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "体調不良",
+	        "furigana": "たいちょうふりょう",
+	        "meaning": "몸 상태 불량",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "原因",
+	        "furigana": "げんいん",
+	        "meaning": "원인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "健康に",
+	        "furigana": "けんこうに",
+	        "meaning": "건강하게",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기5",
+	        "language": "Japanese",
+	        "word": "過ごす",
+	        "furigana": "すごす",
+	        "meaning": "지내다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
 	        "word": "一",
@@ -21406,7 +21564,7 @@
 		    "type": "스쿠스쿠34",
 		    "language": "Japanese",
 		    "word": "方",
-		    "furigana": "ほう",
+		    "furigana": "かた",
 		    "meaning": "분",
 		    "pos": "noun",
 		    "etc": ""
