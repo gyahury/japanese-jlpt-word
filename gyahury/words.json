@@ -7218,6 +7218,465 @@
 	        "pos": "verb",
 	        "etc": ""
 	    },
+		{
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "宇宙",
+	        "furigana": "うちゅう",
+	        "meaning": "우주",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "飛行士",
+	        "furigana": "ひこうし",
+	        "meaning": "비행사",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "重力",
+	        "furigana": "じゅうりょく",
+	        "meaning": "중력",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "感じ",
+	        "furigana": "かんじ",
+	        "meaning": "느낌",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "床",
+	        "furigana": "ゆか",
+	        "meaning": "바닥",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "浮く",
+	        "furigana": "うく",
+	        "meaning": "떠오르다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "背骨",
+	        "furigana": "せぼね",
+	        "meaning": "척추",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "骨",
+	        "furigana": "ほね",
+	        "meaning": "뼈",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "伸びる",
+	        "furigana": "のびる",
+	        "meaning": "늘어나다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "ぜひ",
+	        "furigana": "ぜひ",
+	        "meaning": "꼭",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "丸い",
+	        "furigana": "まるい",
+	        "meaning": "둥글다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "地球",
+	        "furigana": "ちきゅう",
+	        "meaning": "지구",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "引っ張られる",
+	        "furigana": "ひっぱられる",
+	        "meaning": "끌리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "下半身",
+	        "furigana": "かはんしん",
+	        "meaning": "하반신",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "血液",
+	        "furigana": "けつえき",
+	        "meaning": "혈액",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "上半身",
+	        "furigana": "じょうはんしん",
+	        "meaning": "상반신",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "ので / から",
+	        "furigana": "ので / から",
+	        "meaning": "~때문에",
+	        "pos": "conjunction",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "他に",
+	        "furigana": "ほかに",
+	        "meaning": "또한",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "足",
+	        "furigana": "あし",
+	        "meaning": "발",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "裏",
+	        "furigana": "うら",
+	        "meaning": "뒤",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "皮",
+	        "furigana": "かわ",
+	        "meaning": "피부",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "柔らかい",
+	        "furigana": "やわらかい",
+	        "meaning": "부드럽다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "地面",
+	        "furigana": "じめん",
+	        "meaning": "지면",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기6",
+	        "language": "Japanese",
+	        "word": "仕組み",
+	        "furigana": "しくみ",
+	        "meaning": "구조",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+		{
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "お皿",
+	        "furigana": "おさら",
+	        "meaning": "접시",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "ともかく",
+	        "furigana": "ともかく",
+	        "meaning": "어찌됐든",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "完璧",
+	        "furigana": "かんぺき",
+	        "meaning": "완벽",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "わけだ",
+	        "furigana": "わけだ",
+	        "meaning": "~인 셈이다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "企画",
+	        "furigana": "きかく",
+	        "meaning": "기획",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "予算",
+	        "furigana": "よさん",
+	        "meaning": "예산",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "部分",
+	        "furigana": "ぶぶん",
+	        "meaning": "부분",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "ひどく",
+	        "furigana": "ひどく",
+	        "meaning": "심하게",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "反対",
+	        "furigana": "はんたい",
+	        "meaning": "반대",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "諦める",
+	        "furigana": "あきらめる",
+	        "meaning": "포기하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "見直す",
+	        "furigana": "みなおす",
+	        "meaning": "다시 보다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "無駄だ",
+	        "furigana": "むだだ",
+	        "meaning": "쓸모없다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "おっしゃる",
+	        "furigana": "おっしゃる",
+	        "meaning": "말씀하시다",
+	        "pos": "verb",
+	        "etc": "존경어"
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "直す",
+	        "furigana": "なおす",
+	        "meaning": "고치다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "摂る",
+	        "furigana": "とる",
+	        "meaning": "섭취하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "不足",
+	        "furigana": "ふそく",
+	        "meaning": "부족",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "しがち",
+	        "furigana": "しがち",
+	        "meaning": "~하기 쉽다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "十分",
+	        "furigana": "じゅうぶん",
+	        "meaning": "충분히",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "足りていて",
+	        "furigana": "たりていて",
+	        "meaning": "충분해서",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "確かに",
+	        "furigana": "たしかに",
+	        "meaning": "확실히",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "つつある",
+	        "furigana": "つつある",
+	        "meaning": "~하고 있다 (변화)",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "辞める",
+	        "furigana": "やめる",
+	        "meaning": "그만두다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "べきだ",
+	        "furigana": "べきだ",
+	        "meaning": "~해야 한다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "ちょっと",
+	        "furigana": "ちょっと",
+	        "meaning": "조금",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "後悔",
+	        "furigana": "こうかい",
+	        "meaning": "후회",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "もっと",
+	        "furigana": "もっと",
+	        "meaning": "더",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2307듣기7",
+	        "language": "Japanese",
+	        "word": "ってこと？",
+	        "furigana": "ってこと？",
+	        "meaning": "~것인가요",
+	        "pos": "expression",
+	        "etc": ""
+	    },
 	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
