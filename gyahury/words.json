@@ -7956,6 +7956,186 @@
 	        "pos": "adjective",
 	        "etc": ""
 	    },
+		{
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "決める",
+	        "furigana": "きめる",
+	        "meaning": "정하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "第",
+	        "furigana": "だい",
+	        "meaning": "제",
+	        "pos": "prefix",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "課",
+	        "furigana": "か",
+	        "meaning": "과",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "処理",
+	        "furigana": "しょり",
+	        "meaning": "처리",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "現状",
+	        "furigana": "げんじょう",
+	        "meaning": "현상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "対策",
+	        "furigana": "たいさく",
+	        "meaning": "대책",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "前回",
+	        "furigana": "ぜんかい",
+	        "meaning": "지난번",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "通り",
+	        "furigana": "とおり",
+	        "meaning": "~대로",
+	        "pos": "suffix",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "取り上げる",
+	        "furigana": "とりあげる",
+	        "meaning": "다루다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "調べる",
+	        "furigana": "しらべる",
+	        "meaning": "조사하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "話し合ってください",
+	        "furigana": "はなしあってください",
+	        "meaning": "상의해주세요",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "内で",
+	        "furigana": "うちで",
+	        "meaning": "내에서",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "参考",
+	        "furigana": "さんこう",
+	        "meaning": "참고",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "資料",
+	        "furigana": "しりょう",
+	        "meaning": "자료",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "探す",
+	        "furigana": "さがす",
+	        "meaning": "찾다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "それぞれ",
+	        "furigana": "それぞれ",
+	        "meaning": "각각",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "記録係",
+	        "furigana": "きろくがかり",
+	        "meaning": "기록담당자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "役割",
+	        "furigana": "やくわり",
+	        "meaning": "역할",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "分担",
+	        "furigana": "ぶんたん",
+	        "meaning": "분담",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기3",
+	        "language": "Japanese",
+	        "word": "参考",
+	        "furigana": "さんこう",
+	        "meaning": "참고",
+	        "pos": "noun",
+	        "etc": ""
+	    },
 	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
