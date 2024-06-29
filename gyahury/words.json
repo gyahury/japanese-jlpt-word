@@ -22823,6 +22823,438 @@
 		    "meaning": "도시락",
 		    "pos": "noun",
 		    "etc": ""
-		}
+		},
+		{
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "たち",
+	        "furigana": "たち",
+	        "meaning": "~들",
+	        "pos": "suffix",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "習い事で",
+	        "furigana": "ならいごとで",
+	        "meaning": "배우는 것 때문에",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "塾",
+	        "furigana": "じゅく",
+	        "meaning": "보습학원",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "に通う",
+	        "furigana": "にかよう",
+	        "meaning": "~에 다니다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "親",
+	        "furigana": "おや",
+	        "meaning": "부모",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "大人",
+	        "furigana": "おとな",
+	        "meaning": "어른",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "より",
+	        "furigana": "より",
+	        "meaning": "~보다",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "暇",
+	        "furigana": "ひま",
+	        "meaning": "여유",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "かわいそうだ",
+	        "furigana": "かわいそうだ",
+	        "meaning": "불쌍하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "自由に",
+	        "furigana": "じゆうに",
+	        "meaning": "자유롭게",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "無理に",
+	        "furigana": "むりに",
+	        "meaning": "무리하게",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "だけ",
+	        "furigana": "だけ",
+	        "meaning": "~만/~뿐",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "小さい時",
+	        "furigana": "ちいさいとき",
+	        "meaning": "어렸을 때",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "習う",
+	        "furigana": "ならう",
+	        "meaning": "배우다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "就職",
+	        "furigana": "しゅうしょく",
+	        "meaning": "취직",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "必要だ",
+	        "furigana": "ひつようだ",
+	        "meaning": "필요하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "できれば",
+	        "furigana": "できれば",
+	        "meaning": "가능하면",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "思う",
+	        "furigana": "おもう",
+	        "meaning": "생각하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "本当に",
+	        "furigana": "ほんとうに",
+	        "meaning": "정말로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "どうなるか",
+	        "furigana": "どうなるか",
+	        "meaning": "어떻게 될지",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "笑う",
+	        "furigana": "わらう",
+	        "meaning": "웃다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "消す",
+	        "furigana": "けす",
+	        "meaning": "지우다/끄다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "選ぶ",
+	        "furigana": "えらぶ",
+	        "meaning": "선택하다/고르다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "座る",
+	        "furigana": "すわる",
+	        "meaning": "앉다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "別れる",
+	        "furigana": "わかれる",
+	        "meaning": "헤어지다/이별하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "安心する",
+	        "furigana": "あんしんする",
+	        "meaning": "안심하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "課長",
+	        "furigana": "かちょう",
+	        "meaning": "과장",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "野菜",
+	        "furigana": "やさい",
+	        "meaning": "야채",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "もっと",
+	        "furigana": "もっと",
+	        "meaning": "더",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "娘",
+	        "furigana": "むすめ",
+	        "meaning": "딸",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "辞める",
+	        "furigana": "やめる",
+	        "meaning": "그만두다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "熱",
+	        "furigana": "ねつ",
+	        "meaning": "열",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "せきが出る",
+	        "furigana": "せきがでる",
+	        "meaning": "기침이 나오다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "もし",
+	        "furigana": "もし",
+	        "meaning": "만약(에)",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "物",
+	        "furigana": "もの",
+	        "meaning": "것/물건",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "自分",
+	        "furigana": "じぶん",
+	        "meaning": "자신",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "片付ける",
+	        "furigana": "かたづける",
+	        "meaning": "정리하다/정돈하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "太る",
+	        "furigana": "ふとる",
+	        "meaning": "살찌다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "後輩",
+	        "furigana": "こうはい",
+	        "meaning": "후배",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "お腹が空く",
+	        "furigana": "おなかがすく",
+	        "meaning": "배가 고프다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "部下",
+	        "furigana": "ぶか",
+	        "meaning": "부하",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "迎える",
+	        "furigana": "むかえる",
+	        "meaning": "마중하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "どう",
+	        "furigana": "どう",
+	        "meaning": "어떻게",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "使い方",
+	        "furigana": "つかいかた",
+	        "meaning": "사용 방법",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "値段",
+	        "furigana": "ねだん",
+	        "meaning": "가격",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "美人",
+	        "furigana": "びじん",
+	        "meaning": "미인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "店員",
+	        "furigana": "てんいん",
+	        "meaning": "점원",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "스쿠스쿠35",
+	        "language": "Japanese",
+	        "word": "妹",
+	        "furigana": "いもうと",
+	        "meaning": "여동생",
+	        "pos": "noun",
+	        "etc": ""
+	    }
     ]
 }
