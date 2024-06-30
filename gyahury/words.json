@@ -1135,6 +1135,96 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2023 용법",
+	        "language": "Japanese",
+	        "word": "偉大",
+	        "furigana": "いだい",
+	        "meaning": "위대함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 용법",
+	        "language": "Japanese",
+	        "word": "暮れ",
+	        "furigana": "くれ",
+	        "meaning": "저녁때, 한 해의 마지막",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 용법",
+	        "language": "Japanese",
+	        "word": "さまたげる",
+	        "furigana": "さまたげる",
+	        "meaning": "방해하다, 지장을 주다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 용법",
+	        "language": "Japanese",
+	        "word": "残高",
+	        "furigana": "ざんだか",
+	        "meaning": "잔고",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 용법",
+	        "language": "Japanese",
+	        "word": "上達",
+	        "furigana": "じょうたつ",
+	        "meaning": "숙달",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 용법",
+	        "language": "Japanese",
+	        "word": "印",
+	        "furigana": "しるし",
+	        "meaning": "표, 표시",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 용법",
+	        "language": "Japanese",
+	        "word": "早期",
+	        "furigana": "そうき",
+	        "meaning": "조기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 용법",
+	        "language": "Japanese",
+	        "word": "続出",
+	        "furigana": "ぞくしゅつ",
+	        "meaning": "속출",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 용법",
+	        "language": "Japanese",
+	        "word": "廃止",
+	        "furigana": "はいし",
+	        "meaning": "폐지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 용법",
+	        "language": "Japanese",
+	        "word": "腫れる",
+	        "furigana": "はれる",
+	        "meaning": "붓다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
 	        "type": "2307어휘1",
 	        "language": "Japanese",
 	        "word": "払う",
