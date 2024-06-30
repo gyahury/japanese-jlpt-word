@@ -766,6 +766,60 @@
 	        "etc": ""
 		},
 		{
+	        "type": "2023 단어형성",
+	        "language": "Japanese",
+	        "word": "壁際",
+	        "furigana": "かべぎわ",
+	        "meaning": "벽가, 벽 옆",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 단어형성",
+	        "language": "Japanese",
+	        "word": "諸手続き",
+	        "furigana": "しょてつづき",
+	        "meaning": "여러 절차",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 단어형성",
+	        "language": "Japanese",
+	        "word": "抵抗心",
+	        "furigana": "ていこうしん",
+	        "meaning": "저항심",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 단어형성",
+	        "language": "Japanese",
+	        "word": "日本風",
+	        "furigana": "にほんふう",
+	        "meaning": "일본풍",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 단어형성",
+	        "language": "Japanese",
+	        "word": "二人連れ",
+	        "furigana": "ふたりづれ",
+	        "meaning": "동행한 두 사람",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 단어형성",
+	        "language": "Japanese",
+	        "word": "無回答",
+	        "furigana": "むかいとう",
+	        "meaning": "무응답",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+		{
 	        "type": "2307어휘1",
 	        "language": "Japanese",
 	        "word": "運賃",
