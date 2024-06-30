@@ -1837,6 +1837,186 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "案の定",
+	        "furigana": "あんのじょう",
+	        "meaning": "예상대로, 아니나 다를까",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "やっぱり",
+	        "furigana": "やっぱり",
+	        "meaning": "역시",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "依然",
+	        "furigana": "いぜん",
+	        "meaning": "여전히",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "まだ",
+	        "furigana": "まだ",
+	        "meaning": "아직",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "欠かせない",
+	        "furigana": "かかせない",
+	        "meaning": "빠뜨릴 수 없다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "ないと困る",
+	        "furigana": "ないとこまる",
+	        "meaning": "없으면 곤란하다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "くるむ",
+	        "furigana": "くるむ",
+	        "meaning": "감싸다, 둘러싸다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "包む",
+	        "furigana": "つつむ",
+	        "meaning": "싸다, 포장하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "指図",
+	        "furigana": "さしず",
+	        "meaning": "지시, 지휘",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "命令",
+	        "furigana": "めいれい",
+	        "meaning": "명령",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "仕事にとりかかる",
+	        "furigana": "しごとにとりかかる",
+	        "meaning": "일에 착수하다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "仕事をはじめる",
+	        "furigana": "しごとをはじめる",
+	        "meaning": "일을 시작하다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "失望した",
+	        "furigana": "しつぼうした",
+	        "meaning": "실망했다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "がっかりした",
+	        "furigana": "がっかりした",
+	        "meaning": "낙담했다, 실망했다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "人柄",
+	        "furigana": "ひとがら",
+	        "meaning": "인품, 성품",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "性格",
+	        "furigana": "せいかく",
+	        "meaning": "성격",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "最高の",
+	        "furigana": "さいこうの",
+	        "meaning": "극상의",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "一番近い",
+	        "furigana": "いちばんちかい",
+	        "meaning": "가장 가까운",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "レンタルする",
+	        "furigana": "レンタルする",
+	        "meaning": "대여하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 유의표현",
+	        "language": "Japanese",
+	        "word": "借りる",
+	        "furigana": "かりる",
+	        "meaning": "빌리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
 	        "type": "2023 용법",
 	        "language": "Japanese",
 	        "word": "偉大",
