@@ -9829,6 +9829,177 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "植物",
+	        "furigana": "しょくぶつ",
+	        "meaning": "식물",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "育てる",
+	        "furigana": "そだてる",
+	        "meaning": "기르다, 키우다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "ていただきたい",
+	        "furigana": "ていただきたい",
+	        "meaning": "~해 주셨으면 한다 (정중한 부탁 표현)",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "葉っぱ",
+	        "furigana": "はっぱ",
+	        "meaning": "잎",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "掌",
+	        "furigana": "てのひら",
+	        "meaning": "손바닥",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "枝",
+	        "furigana": "えだ",
+	        "meaning": "가지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "弱弱しくなっちゃって",
+	        "furigana": "よわよわしくなっちゃって",
+	        "meaning": "약해져버려서 (약해지다의 현재 진행형 + 완료형 + 정중형)",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "日当たり",
+	        "furigana": "ひあたり",
+	        "meaning": "햇볕",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "横に",
+	        "furigana": "よこに",
+	        "meaning": "옆에",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "日",
+	        "furigana": "ひ",
+	        "meaning": "햇빛, 해",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "当たる",
+	        "furigana": "あたる",
+	        "meaning": "맞다, 닿다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "窓際",
+	        "furigana": "まどぎわ",
+	        "meaning": "창가",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "移す",
+	        "furigana": "うつす",
+	        "meaning": "옮기다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "表面",
+	        "furigana": "ひょうめん",
+	        "meaning": "표면",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "乾く",
+	        "furigana": "かわく",
+	        "meaning": "마르다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "元気",
+	        "furigana": "げんき",
+	        "meaning": "건강, 활기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "鉢",
+	        "furigana": "はち",
+	        "meaning": "화분",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "植え替える",
+	        "furigana": "うえかえる",
+	        "meaning": "옮겨 심다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기5",
+	        "language": "Japanese",
+	        "word": "育つ",
+	        "furigana": "そだつ",
+	        "meaning": "자라다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
 	        "word": "一",
