@@ -1666,6 +1666,96 @@
 	        "etc": ""
 	    },
 		{
+	        "type": "2022 용법",
+	        "language": "Japanese",
+	        "word": "荒れる",
+	        "furigana": "あれる",
+	        "meaning": "거칠어지다, 날뛰다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 용법",
+	        "language": "Japanese",
+	        "word": "打ち合わせ",
+	        "furigana": "うちあわせ",
+	        "meaning": "협의, 미리 상의함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 용법",
+	        "language": "Japanese",
+	        "word": "温厚",
+	        "furigana": "おんこう",
+	        "meaning": "온화하고 다정함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 용법",
+	        "language": "Japanese",
+	        "word": "頑固",
+	        "furigana": "がんこ",
+	        "meaning": "완고함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 용법",
+	        "language": "Japanese",
+	        "word": "生じる",
+	        "furigana": "しょうじる",
+	        "meaning": "생기다, 발생하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 용법",
+	        "language": "Japanese",
+	        "word": "世代",
+	        "furigana": "せだい",
+	        "meaning": "세대",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 용법",
+	        "language": "Japanese",
+	        "word": "中断",
+	        "furigana": "ちゅうだん",
+	        "meaning": "중단",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 용법",
+	        "language": "Japanese",
+	        "word": "濁る",
+	        "furigana": "にごる",
+	        "meaning": "탁해지다, 흐려지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 용법",
+	        "language": "Japanese",
+	        "word": "普及",
+	        "furigana": "ふきゅう",
+	        "meaning": "보급",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 용법",
+	        "language": "Japanese",
+	        "word": "ベテラン",
+	        "furigana": "ベテラン",
+	        "meaning": "베테랑, 노련한 사람",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+		{
 	        "type": "2307어휘1",
 	        "language": "Japanese",
 	        "word": "運賃",
