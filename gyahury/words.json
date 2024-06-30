@@ -9658,6 +9658,168 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "市民文化祭",
+	        "furigana": "しみんぶんかさい",
+	        "meaning": "시민 문화제",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "ステージ演奏",
+	        "furigana": "ステージえんそう",
+	        "meaning": "무대 공연",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "応募しよう",
+	        "furigana": "おうぼしよう",
+	        "meaning": "응모하자",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "やつね",
+	        "furigana": "やつね",
+	        "meaning": "~거지",
+	        "pos": "particle",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "演奏動画",
+	        "furigana": "えんそうどうが",
+	        "meaning": "연주 동영상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "作成",
+	        "furigana": "さくせい",
+	        "meaning": "작성, 제작",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "締め切り",
+	        "furigana": "しめきり",
+	        "meaning": "마감",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "間に合わない",
+	        "furigana": "まにあわない",
+	        "meaning": "맞추지 못하다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "勘違い",
+	        "furigana": "かんちがい",
+	        "meaning": "착각",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "申請書",
+	        "furigana": "しんせいしょ",
+	        "meaning": "신청서",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "提出する",
+	        "furigana": "ていしゅつする",
+	        "meaning": "제출하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "申し込もうよ",
+	        "furigana": "もうしこもうよ",
+	        "meaning": "신청하자",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "残してある",
+	        "furigana": "のこしてある",
+	        "meaning": "남겨져 있다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "任せる",
+	        "furigana": "まかせる",
+	        "meaning": "맡기다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "了解",
+	        "furigana": "りょうかい",
+	        "meaning": "이해, 납득",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "すぐに",
+	        "furigana": "すぐに",
+	        "meaning": "바로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "絶対",
+	        "furigana": "ぜったい",
+	        "meaning": "반드시",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기4",
+	        "language": "Japanese",
+	        "word": "出さないといけない",
+	        "furigana": "ださないといけない",
+	        "meaning": "제출해야 한다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
 	        "word": "一",
