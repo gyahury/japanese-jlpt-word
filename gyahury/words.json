@@ -766,6 +766,96 @@
 	        "etc": ""
 		},
 		{
+	        "type": "2022 한자표기",
+	        "language": "Japanese",
+	        "word": "診断",
+	        "furigana": "しんだん",
+	        "meaning": "진단",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 한자표기",
+	        "language": "Japanese",
+	        "word": "住居",
+	        "furigana": "じゅうきょ",
+	        "meaning": "주거",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 한자표기",
+	        "language": "Japanese",
+	        "word": "垂直に",
+	        "furigana": "すいちょくに",
+	        "meaning": "수직으로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 한자표기",
+	        "language": "Japanese",
+	        "word": "備える",
+	        "furigana": "そなえる",
+	        "meaning": "마련하다, 갖추다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 한자표기",
+	        "language": "Japanese",
+	        "word": "典型的",
+	        "furigana": "てんけいてき",
+	        "meaning": "전형적",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 한자표기",
+	        "language": "Japanese",
+	        "word": "昇る",
+	        "furigana": "のぼる",
+	        "meaning": "떠오르다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 한자표기",
+	        "language": "Japanese",
+	        "word": "俳優",
+	        "furigana": "はいゆう",
+	        "meaning": "배우",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 한자표기",
+	        "language": "Japanese",
+	        "word": "離れる",
+	        "furigana": "はなれる",
+	        "meaning": "떨어지다, 거리가 멀어지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 한자표기",
+	        "language": "Japanese",
+	        "word": "欲",
+	        "furigana": "よく",
+	        "meaning": "욕심",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 한자표기",
+	        "language": "Japanese",
+	        "word": "等しい",
+	        "furigana": "ひとしい",
+	        "meaning": "같다, 동등하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+		{
 	        "type": "2023 단어형성",
 	        "language": "Japanese",
 	        "word": "壁際",
@@ -817,6 +907,60 @@
 	        "furigana": "むかいとう",
 	        "meaning": "무응답",
 	        "pos": "noun",
+	        "etc": ""
+	    },
+		{
+	        "type": "2022 단어형성",
+	        "language": "Japanese",
+	        "word": "異分野",
+	        "furigana": "いぶんや",
+	        "meaning": "이분야, 다른 분야",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 단어형성",
+	        "language": "Japanese",
+	        "word": "貴団体",
+	        "furigana": "きだんたい",
+	        "meaning": "귀 단체",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 단어형성",
+	        "language": "Japanese",
+	        "word": "現制度",
+	        "furigana": "げんせいど",
+	        "meaning": "현 제도",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 단어형성",
+	        "language": "Japanese",
+	        "word": "写真付き",
+	        "furigana": "しゃしんつき",
+	        "meaning": "사진 포함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 단어형성",
+	        "language": "Japanese",
+	        "word": "低価格",
+	        "furigana": "ていかかく",
+	        "meaning": "낮은 가격",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 단어형성",
+	        "language": "Japanese",
+	        "word": "用心深い",
+	        "furigana": "ようじんぶかい",
+	        "meaning": "신중하다",
+	        "pos": "adjective",
 	        "etc": ""
 	    },
 		{
