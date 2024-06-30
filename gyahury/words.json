@@ -1350,6 +1350,132 @@
 	        "pos": "adjective",
 	        "etc": ""
 	    },
+		{
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "思いきって",
+	        "furigana": "おもいきって",
+	        "meaning": "큰맘 먹고",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "開設",
+	        "furigana": "かいせつ",
+	        "meaning": "개설",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "解約",
+	        "furigana": "かいやく",
+	        "meaning": "해약",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "固める",
+	        "furigana": "かためる",
+	        "meaning": "굳히다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "格好",
+	        "furigana": "かっこう",
+	        "meaning": "모습, 형색",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "気軽に",
+	        "furigana": "きがるに",
+	        "meaning": "선뜻, 가벼운 마음으로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "ぎりぎり",
+	        "furigana": "ぎりぎり",
+	        "meaning": "아슬아슬함, 빠듯함",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "限界",
+	        "furigana": "げんかい",
+	        "meaning": "한계",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "上昇",
+	        "furigana": "じょうしょう",
+	        "meaning": "상승",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "じろじろ",
+	        "furigana": "じろじろ",
+	        "meaning": "빤히, 유심히",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "タイミング",
+	        "furigana": "タイミング",
+	        "meaning": "타이밍",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "添付",
+	        "furigana": "てんぷ",
+	        "meaning": "첨부",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "ニーズ",
+	        "furigana": "ニーズ",
+	        "meaning": "요구",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 문맥규정",
+	        "language": "Japanese",
+	        "word": "雇う",
+	        "furigana": "やとう",
+	        "meaning": "고용하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
 	    {
 	        "type": "2023 유의표현",
 	        "language": "Japanese",
