@@ -856,6 +856,87 @@
 	        "etc": ""
 	    },
 		{
+	        "type": "2021 한자표기",
+	        "language": "Japanese",
+	        "word": "永久",
+	        "furigana": "えいきゅう",
+	        "meaning": "영구, 영원",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 한자표기",
+	        "language": "Japanese",
+	        "word": "勧誘",
+	        "furigana": "かんゆう",
+	        "meaning": "권유",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 한자표기",
+	        "language": "Japanese",
+	        "word": "競う",
+	        "furigana": "きそう",
+	        "meaning": "경쟁하다, 겨루다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 한자표기",
+	        "language": "Japanese",
+	        "word": "弱点",
+	        "furigana": "じゃくてん",
+	        "meaning": "약점",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 한자표기",
+	        "language": "Japanese",
+	        "word": "順調",
+	        "furigana": "じゅんちょう",
+	        "meaning": "순조로움",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 한자표기",
+	        "language": "Japanese",
+	        "word": "返答",
+	        "furigana": "へんとう",
+	        "meaning": "반품",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 한자표기",
+	        "language": "Japanese",
+	        "word": "任せる",
+	        "furigana": "まかせる",
+	        "meaning": "맡기다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 한자표기",
+	        "language": "Japanese",
+	        "word": "豊か",
+	        "furigana": "ゆたか",
+	        "meaning": "풍요로움, 풍부함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 한자표기",
+	        "language": "Japanese",
+	        "word": "乱暴",
+	        "furigana": "らんぼう",
+	        "meaning": "난폭함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+		{
 	        "type": "2023 단어형성",
 	        "language": "Japanese",
 	        "word": "壁際",
@@ -961,6 +1042,60 @@
 	        "furigana": "ようじんぶかい",
 	        "meaning": "신중하다",
 	        "pos": "adjective",
+	        "etc": ""
+	    },
+		{
+	        "type": "2021 단어형성",
+	        "language": "Japanese",
+	        "word": "仮登録",
+	        "furigana": "かりとうろく",
+	        "meaning": "임시 등록",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 단어형성",
+	        "language": "Japanese",
+	        "word": "現社長",
+	        "furigana": "げんしゃちょう",
+	        "meaning": "현 사장",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 단어형성",
+	        "language": "Japanese",
+	        "word": "同意見",
+	        "furigana": "どういけん",
+	        "meaning": "같은 의견",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 단어형성",
+	        "language": "Japanese",
+	        "word": "別会場",
+	        "furigana": "べつかいじょう",
+	        "meaning": "다른 회장",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 단어형성",
+	        "language": "Japanese",
+	        "word": "食べ頃",
+	        "furigana": "たべごろ",
+	        "meaning": "먹기에 적당한 때",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 단어형성",
+	        "language": "Japanese",
+	        "word": "ボール状",
+	        "furigana": "ボールじょう",
+	        "meaning": "둥근 형태, 둥근 모양",
+	        "pos": "noun",
 	        "etc": ""
 	    },
 		{
