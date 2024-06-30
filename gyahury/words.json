@@ -1396,6 +1396,186 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "一転した",
+	        "furigana": "いってんした",
+	        "meaning": "완전히 바뀌다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "すっかり変わった",
+	        "furigana": "すっかりかわった",
+	        "meaning": "완전히 바뀌다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "お勘定",
+	        "furigana": "おかんじょう",
+	        "meaning": "계산",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "会計",
+	        "furigana": "かいけい",
+	        "meaning": "회계, 계산",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "くだらない",
+	        "furigana": "くだらない",
+	        "meaning": "하찮다, 가치 없다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "価値がない",
+	        "furigana": "かちがない",
+	        "meaning": "가치가 없다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "再三",
+	        "furigana": "さいさん",
+	        "meaning": "재삼, 여러 번",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "何度も",
+	        "furigana": "なんども",
+	        "meaning": "몇 번이나",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "さわがしい",
+	        "furigana": "さわがしい",
+	        "meaning": "소란스럽다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "うるさい",
+	        "furigana": "うるさい",
+	        "meaning": "시끄럽다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "衝突しそうに",
+	        "furigana": "しょうとつしそうに",
+	        "meaning": "충돌할 것처럼",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "ぶつかりそうに",
+	        "furigana": "ぶつかりそうに",
+	        "meaning": "부딪칠 것처럼",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "書籍",
+	        "furigana": "しょせき",
+	        "meaning": "서적",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "本",
+	        "furigana": "ほん",
+	        "meaning": "책",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "テクニック",
+	        "furigana": "テクニック",
+	        "meaning": "테크닉",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "技術",
+	        "furigana": "ぎじゅつ",
+	        "meaning": "기술",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "でたらめ",
+	        "furigana": "でたらめ",
+	        "meaning": "엉터리임, 되는 대로임",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "うそ",
+	        "furigana": "うそ",
+	        "meaning": "거짓말",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "とがっている",
+	        "furigana": "とがっている",
+	        "meaning": "뾰족하다, 예리하다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 유의표현",
+	        "language": "Japanese",
+	        "word": "細くなっている",
+	        "furigana": "ほそくなっている",
+	        "meaning": "좁다, 가늘다, 예리하다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
 	        "type": "2023 용법",
 	        "language": "Japanese",
 	        "word": "偉大",
