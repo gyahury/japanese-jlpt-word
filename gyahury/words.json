@@ -964,15 +964,6 @@
 	        "etc": ""
 	    },
 		{
-	        "type": "2307어휘1",
-	        "language": "Japanese",
-	        "word": "運賃",
-	        "furigana": "うんちん",
-	        "meaning": "요금",
-	        "pos": "noun",
-	        "etc": ""
-	    },
-		{
 	        "type": "2023 문맥규정",
 	        "language": "Japanese",
 	        "word": "かさかさ",
@@ -1096,6 +1087,132 @@
 	        "furigana": "わだい",
 	        "meaning": "화제",
 	        "pos": "noun",
+	        "etc": ""
+	    },
+		{
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "抱く",
+	        "furigana": "いだく",
+	        "meaning": "품다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "遠反",
+	        "furigana": "いはん",
+	        "meaning": "위반",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "労る",
+	        "furigana": "おとろう",
+	        "meaning": "(능력이) 떨어지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "ぎっしり",
+	        "furigana": "ぎっしり",
+	        "meaning": "가득 찬 모양, 꽉",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "苦情",
+	        "furigana": "くじょう",
+	        "meaning": "불만, 고충",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "クリア",
+	        "furigana": "クリア",
+	        "meaning": "통과하다, 해치우다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "劇的に",
+	        "furigana": "げきてきに",
+	        "meaning": "극적으로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "交渉",
+	        "furigana": "こうしょう",
+	        "meaning": "교섭",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "締め切る",
+	        "furigana": "しめきる",
+	        "meaning": "마감하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "進出",
+	        "furigana": "しんしゅつ",
+	        "meaning": "진출",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "接続",
+	        "furigana": "せつぞく",
+	        "meaning": "접속",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "設備",
+	        "furigana": "せつび",
+	        "meaning": "설비",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "ぞろぞろ",
+	        "furigana": "ぞろぞろ",
+	        "meaning": "줄줄이, 줄줄줄 (많은 사람이 잇달아 움직이는 모양)",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2022 문맥규정",
+	        "language": "Japanese",
+	        "word": "まれだ",
+	        "furigana": "まれだ",
+	        "meaning": "드물다",
+	        "pos": "adjective",
 	        "etc": ""
 	    },
 	    {
@@ -1366,6 +1483,15 @@
 	        "furigana": "はれる",
 	        "meaning": "붓다",
 	        "pos": "verb",
+	        "etc": ""
+	    },
+		{
+	        "type": "2307어휘1",
+	        "language": "Japanese",
+	        "word": "運賃",
+	        "furigana": "うんちん",
+	        "meaning": "요금",
+	        "pos": "noun",
 	        "etc": ""
 	    },
 	    {
