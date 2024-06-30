@@ -2197,6 +2197,96 @@
 	        "etc": ""
 	    },
 		{
+	        "type": "2021 용법",
+	        "language": "Japanese",
+	        "word": "引用",
+	        "furigana": "いんよう",
+	        "meaning": "인용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 용법",
+	        "language": "Japanese",
+	        "word": "かばう",
+	        "furigana": "かばう",
+	        "meaning": "감싸다, 비호하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 용법",
+	        "language": "Japanese",
+	        "word": "急激",
+	        "furigana": "きゅうげき",
+	        "meaning": "급격함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 용법",
+	        "language": "Japanese",
+	        "word": "傾向",
+	        "furigana": "けいこう",
+	        "meaning": "경향",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 용법",
+	        "language": "Japanese",
+	        "word": "栽培",
+	        "furigana": "さいばい",
+	        "meaning": "재배",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 용법",
+	        "language": "Japanese",
+	        "word": "さっさと",
+	        "furigana": "さっさと",
+	        "meaning": "어서, 서둘러",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 용법",
+	        "language": "Japanese",
+	        "word": "妥当",
+	        "furigana": "だとう",
+	        "meaning": "타당함, 적절함",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 용법",
+	        "language": "Japanese",
+	        "word": "展開",
+	        "furigana": "てんかい",
+	        "meaning": "전개",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 용법",
+	        "language": "Japanese",
+	        "word": "ほっと",
+	        "furigana": "ほっと",
+	        "meaning": "안심하는 모양",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2021 용법",
+	        "language": "Japanese",
+	        "word": "漏れる",
+	        "furigana": "もれる",
+	        "meaning": "새다, 빠지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+		{
 	        "type": "2307어휘1",
 	        "language": "Japanese",
 	        "word": "運賃",
