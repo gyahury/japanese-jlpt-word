@@ -955,6 +955,186 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "うつむいて",
+	        "furigana": "うつむいて",
+	        "meaning": "고개를 숙이고",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "下を向いて",
+	        "furigana": "したをむいて",
+	        "meaning": "아래를 향하고, 고개를 숙이고",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "惜しい",
+	        "furigana": "おしい",
+	        "meaning": "아깝다, 아쉽다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "もったいない",
+	        "furigana": "もったいない",
+	        "meaning": "아깝다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "概要",
+	        "furigana": "がいよう",
+	        "meaning": "개요",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "大体の内容",
+	        "furigana": "だいたいのないよう",
+	        "meaning": "대강의 내용",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "各自",
+	        "furigana": "かくじ",
+	        "meaning": "각자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "一人一人",
+	        "furigana": "ひとりひとり",
+	        "meaning": "한 사람 한 사람",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "仕上げる",
+	        "furigana": "しあげる",
+	        "meaning": "일을 끝내다, 완성시키다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "完成させる",
+	        "furigana": "かんせいさせる",
+	        "meaning": "완성시키다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "深刻な",
+	        "furigana": "しんこくな",
+	        "meaning": "심각한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "重大な",
+	        "furigana": "じゅうだいな",
+	        "meaning": "중대한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "たちまち",
+	        "furigana": "たちまち",
+	        "meaning": "금세, 금방",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "すぐに",
+	        "furigana": "すぐに",
+	        "meaning": "곧, 즉시",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "テンポ",
+	        "furigana": "テンポ",
+	        "meaning": "템포, 빠르기, 박자, 속도",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "速さ",
+	        "furigana": "はやさ",
+	        "meaning": "빠르기, 속도",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "同僚",
+	        "furigana": "どうりょう",
+	        "meaning": "동료",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "同じ会社の人",
+	        "furigana": "おなじかいしゃのひと",
+	        "meaning": "같은 회사 사람",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "油断していた",
+	        "furigana": "ゆだんしていた",
+	        "meaning": "방심하고 있었다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 유의표현",
+	        "language": "Japanese",
+	        "word": "気をつけていなかった",
+	        "furigana": "きをつけていなかった",
+	        "meaning": "조심하지 않았다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
 	        "type": "2307어휘1",
 	        "language": "Japanese",
 	        "word": "払う",
