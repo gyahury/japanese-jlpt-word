@@ -828,6 +828,132 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "かさかさ",
+	        "furigana": "かさかさ",
+	        "meaning": "까칠까칠, 바삭바삭",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "求人",
+	        "furigana": "きゅうじん",
+	        "meaning": "구인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "後悔",
+	        "furigana": "こうかい",
+	        "meaning": "후회",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "好調",
+	        "furigana": "こうちょう",
+	        "meaning": "호조, 순조",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "誤解",
+	        "furigana": "ごかい",
+	        "meaning": "오해",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "ここそこ",
+	        "furigana": "ここそこ",
+	        "meaning": "소곤소곤",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "節約",
+	        "furigana": "せつやく",
+	        "meaning": "절약",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "頼もしい",
+	        "furigana": "たのもしい",
+	        "meaning": "믿음직하다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "特徴",
+	        "furigana": "とくちょう",
+	        "meaning": "특징",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "飛びつく",
+	        "furigana": "とびつく",
+	        "meaning": "달려들다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "まねる",
+	        "furigana": "まねる",
+	        "meaning": "흉내 내다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "盛り上がる",
+	        "furigana": "もりあがる",
+	        "meaning": "고조되다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "リハーサル",
+	        "furigana": "リハーサル",
+	        "meaning": "리허설",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2023 문맥규정",
+	        "language": "Japanese",
+	        "word": "話題",
+	        "furigana": "わだい",
+	        "meaning": "화제",
+	        "pos": "noun",
+	        "etc": ""
+	    },
 	    {
 	        "type": "2307어휘1",
 	        "language": "Japanese",
