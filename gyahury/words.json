@@ -10171,6 +10171,186 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "立てる",
+	        "furigana": "たてる",
+	        "meaning": "세우다, 만들다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "幼児",
+	        "furigana": "ようじ",
+	        "meaning": "유아",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "向けの",
+	        "furigana": "むけの",
+	        "meaning": "~용, ~을 위한",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "親子",
+	        "furigana": "おやこ",
+	        "meaning": "부모-자녀",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "企画",
+	        "furigana": "きかく",
+	        "meaning": "기획",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "駐車場",
+	        "furigana": "ちゅうしゃじょう",
+	        "meaning": "주차장",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "数",
+	        "furigana": "かず",
+	        "meaning": "수, 숫자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "増える",
+	        "furigana": "ふえる",
+	        "meaning": "늘어나다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "見積もり",
+	        "furigana": "みつもり",
+	        "meaning": "견적",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "予算",
+	        "furigana": "よさん",
+	        "meaning": "예산",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "超える",
+	        "furigana": "こえる",
+	        "meaning": "초과하다, 넘다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "当日",
+	        "furigana": "とうじつ",
+	        "meaning": "당일",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "雇う",
+	        "furigana": "やとう",
+	        "meaning": "고용하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "にかかる",
+	        "furigana": "にかかる",
+	        "meaning": "~에 드는, ~에 걸리는",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "対象",
+	        "furigana": "たいしょう",
+	        "meaning": "대상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "実施",
+	        "furigana": "じっし",
+	        "meaning": "실시",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "仕方ない",
+	        "furigana": "しかたない",
+	        "meaning": "어쩔 수 없다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "自体",
+	        "furigana": "じたい",
+	        "meaning": "자체",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "指摘",
+	        "furigana": "してき",
+	        "meaning": "지적",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기7",
+	        "language": "Japanese",
+	        "word": "検討",
+	        "furigana": "けんとう",
+	        "meaning": "검토",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
 	        "word": "一",
