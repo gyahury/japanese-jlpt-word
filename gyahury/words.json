@@ -10000,6 +10000,177 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "柔らかい",
+	        "furigana": "やわらかい",
+	        "meaning": "부드러운",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "表情",
+	        "furigana": "ひょうじょう",
+	        "meaning": "표정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "親しみやすい",
+	        "furigana": "したしみやすい",
+	        "meaning": "친근한",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "雰囲気",
+	        "furigana": "ふんいき",
+	        "meaning": "분위기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "落ち着いていて",
+	        "furigana": "おちついていて",
+	        "meaning": "차분하고",
+	        "pos": "expression",
+	        "etc": "차분하다의 현재 진행형"
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "聞き取りやすい",
+	        "furigana": "ききとりやすい",
+	        "meaning": "듣기 쉽다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "って言われてる",
+	        "furigana": "っていわれてる",
+	        "meaning": "~라고 말하고 있다",
+	        "pos": "expression",
+	        "etc": "말하다의 현재 진행형 + 인용 표현"
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "司会する",
+	        "furigana": "しかいする",
+	        "meaning": "진행하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "進行",
+	        "furigana": "しんこう",
+	        "meaning": "진행",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "仕方",
+	        "furigana": "しかた",
+	        "meaning": "방법, 방식",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "感心する",
+	        "furigana": "かんしんする",
+	        "meaning": "감탄하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "この間",
+	        "furigana": "このあいだ",
+	        "meaning": "요전에, 얼마 전에",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "得意不得意",
+	        "furigana": "とくいふとくい",
+	        "meaning": "잘하고 못하는 것",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "放題",
+	        "furigana": "ほうだい",
+	        "meaning": "~대로, 마음껏",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "うまい",
+	        "furigana": "うまい",
+	        "meaning": "능숙한, 맛있는",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "具合",
+	        "furigana": "ぐあい",
+	        "meaning": "상태, 상황",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "対応する",
+	        "furigana": "たいおうする",
+	        "meaning": "대응하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "司会",
+	        "furigana": "しかい",
+	        "meaning": "진행",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기6",
+	        "language": "Japanese",
+	        "word": "参考",
+	        "furigana": "さんこう",
+	        "meaning": "참고",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
 	        "word": "一",
