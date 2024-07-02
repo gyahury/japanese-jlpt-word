@@ -10711,6 +10711,186 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "発売",
+	        "furigana": "はつばい",
+	        "meaning": "발매",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "売れ行き",
+	        "furigana": "うれゆき",
+	        "meaning": "판매량",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "今一つ",
+	        "furigana": "いまひとつ",
+	        "meaning": "좀 부족하다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "購入する",
+	        "furigana": "こうにゅうする",
+	        "meaning": "구입하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "同程度",
+	        "furigana": "どうていど",
+	        "meaning": "같은 정도",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "価格",
+	        "furigana": "かかく",
+	        "meaning": "가격",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "他社製品",
+	        "furigana": "たしゃせいひん",
+	        "meaning": "타사 제품",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "比べて",
+	        "furigana": "くらべて",
+	        "meaning": "비교해서",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "音",
+	        "furigana": "おと",
+	        "meaning": "소리",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "充電",
+	        "furigana": "じゅうでん",
+	        "meaning": "충전",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "評価",
+	        "furigana": "ひょうか",
+	        "meaning": "평가",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "以上",
+	        "furigana": "いじょう",
+	        "meaning": "이상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "段差",
+	        "furigana": "だんさ",
+	        "meaning": "단차",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "自動",
+	        "furigana": "じどう",
+	        "meaning": "자동",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "乗り越える",
+	        "furigana": "のりこえる",
+	        "meaning": "넘어가다, 극복하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "対応",
+	        "furigana": "たいおう",
+	        "meaning": "대응",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "原因",
+	        "furigana": "げんいん",
+	        "meaning": "원인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "伸び悩んでいる",
+	        "furigana": "のびなやんでいる",
+	        "meaning": "부진하다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "伸び悩む",
+	        "furigana": "のびなやむ",
+	        "meaning": "부진하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기11",
+	        "language": "Japanese",
+	        "word": "寄せる",
+	        "furigana": "よせる",
+	        "meaning": "모으다, 접수하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
 	        "word": "一",
