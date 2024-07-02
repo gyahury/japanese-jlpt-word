@@ -10351,6 +10351,141 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "もったいない",
+	        "furigana": "",
+	        "meaning": "아깝다, 아쉽다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "ゆずる",
+	        "furigana": "譲る",
+	        "meaning": "물려주다, 양도하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "限る",
+	        "furigana": "かぎる",
+	        "meaning": "한정하다, 제한하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "作り替える",
+	        "furigana": "つくりかえる",
+	        "meaning": "만들어 바꾸다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "紐状",
+	        "furigana": "ひもじょう",
+	        "meaning": "끈 모양",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "細く",
+	        "furigana": "ほそく",
+	        "meaning": "가늘게",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "花瓶",
+	        "furigana": "かびん",
+	        "meaning": "꽃병",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "敷く",
+	        "furigana": "しく",
+	        "meaning": "깔다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "編む",
+	        "furigana": "あむ",
+	        "meaning": "뜨다, 짜다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "持ち込む",
+	        "furigana": "もちこむ",
+	        "meaning": "가져가다, 반입하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "形",
+	        "furigana": "かたち",
+	        "meaning": "형태",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "換える",
+	        "furigana": "かえる",
+	        "meaning": "바꾸다, 교환하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "残す",
+	        "furigana": "のこす",
+	        "meaning": "남기다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "加えて",
+	        "furigana": "くわえて",
+	        "meaning": "더하다, 첨가하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기8",
+	        "language": "Japanese",
+	        "word": "あみもの",
+	        "furigana": "編み物",
+	        "meaning": "뜨개질, 편물",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
 	        "type": "2312듣기10",
 	        "language": "Japanese",
 	        "word": "話題",
