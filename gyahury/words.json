@@ -10486,6 +10486,96 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2312듣기9",
+	        "language": "Japanese",
+	        "word": "絵",
+	        "furigana": "え",
+	        "meaning": "그림",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기9",
+	        "language": "Japanese",
+	        "word": "描く",
+	        "furigana": "かく",
+	        "meaning": "그리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기9",
+	        "language": "Japanese",
+	        "word": "絵画",
+	        "furigana": "かいが",
+	        "meaning": "회화, 그림",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기9",
+	        "language": "Japanese",
+	        "word": "風景",
+	        "furigana": "ふうけい",
+	        "meaning": "풍경",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기9",
+	        "language": "Japanese",
+	        "word": "初心者",
+	        "furigana": "しょしんしゃ",
+	        "meaning": "초보자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기9",
+	        "language": "Japanese",
+	        "word": "道具",
+	        "furigana": "どうぐ",
+	        "meaning": "도구",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기9",
+	        "language": "Japanese",
+	        "word": "だけで",
+	        "furigana": "",
+	        "meaning": "~만으로",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기9",
+	        "language": "Japanese",
+	        "word": "勧められた",
+	        "furigana": "すすめられた",
+	        "meaning": "추천받았다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기9",
+	        "language": "Japanese",
+	        "word": "表現",
+	        "furigana": "ひょうげん",
+	        "meaning": "표현",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기9",
+	        "language": "Japanese",
+	        "word": "繰り返し",
+	        "furigana": "くりかえし",
+	        "meaning": "반복",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
 	        "type": "2312듣기10",
 	        "language": "Japanese",
 	        "word": "話題",
