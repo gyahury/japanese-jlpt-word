@@ -10351,6 +10351,141 @@
 	        "etc": ""
 	    },
 	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "話題",
+	        "furigana": "わだい",
+	        "meaning": "화제, 주제",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "伺う",
+	        "furigana": "うかがう",
+	        "meaning": "듣다, 묻다 (겸양어)",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "言葉",
+	        "furigana": "ことば",
+	        "meaning": "단어, 말",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "かもしれません",
+	        "furigana": "",
+	        "meaning": "~일지도 모릅니다 (추측)",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "海岸",
+	        "furigana": "かいがん",
+	        "meaning": "해안",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "流れ着く",
+	        "furigana": "ながれつく",
+	        "meaning": "떠내려오다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "観察",
+	        "furigana": "かんさつ",
+	        "meaning": "관찰",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "収集",
+	        "furigana": "しゅうしゅう",
+	        "meaning": "수집",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "流れる",
+	        "furigana": "ながれる",
+	        "meaning": "흐르다, 떠내려가다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "木の枝",
+	        "furigana": "きのえだ",
+	        "meaning": "나뭇가지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "様々な",
+	        "furigana": "さまざまな",
+	        "meaning": "여러 가지의",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "組み合わせる",
+	        "furigana": "くみあわせる",
+	        "meaning": "조합하다, 결합하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "研究者",
+	        "furigana": "けんきゅうしゃ",
+	        "meaning": "연구자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "対象",
+	        "furigana": "たいしょう",
+	        "meaning": "대상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "2312듣기10",
+	        "language": "Japanese",
+	        "word": "実感",
+	        "furigana": "じっかん",
+	        "meaning": "실감",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
 	        "type": "상용한자상1",
 	        "language": "Japanese",
 	        "word": "一",
