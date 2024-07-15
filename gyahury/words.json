@@ -1,7 +1,7 @@
 {
     "words": [
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "機能",
 	        "furigana": "きのう",
@@ -10,7 +10,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "失敗",
 	        "furigana": "しっぱい",
@@ -19,7 +19,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "追加",
 	        "furigana": "ついか",
@@ -28,7 +28,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "設計",
 	        "furigana": "せっけい",
@@ -37,7 +37,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "開発",
 	        "furigana": "かいはつ",
@@ -46,7 +46,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "説明",
 	        "furigana": "せつめい",
@@ -55,7 +55,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "有効",
 	        "furigana": "ゆうこう",
@@ -64,7 +64,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "起動",
 	        "furigana": "きどう",
@@ -73,7 +73,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "処理",
 	        "furigana": "しょり",
@@ -82,7 +82,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "環境",
 	        "furigana": "かんきょう",
@@ -91,7 +91,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "稼動",
 	        "furigana": "かどう",
@@ -100,7 +100,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "作業",
 	        "furigana": "さぎょう",
@@ -109,7 +109,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "選択",
 	        "furigana": "せんたく",
@@ -118,7 +118,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "操作",
 	        "furigana": "そうさ",
@@ -127,7 +127,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "変更",
 	        "furigana": "へんこう",
@@ -136,7 +136,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "動作",
 	        "furigana": "どうさ",
@@ -145,7 +145,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "手順",
 	        "furigana": "てじゅん",
@@ -154,7 +154,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "表示",
 	        "furigana": "ひょうじ",
@@ -163,7 +163,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "導入",
 	        "furigana": "どうにゅう",
@@ -172,7 +172,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "種類",
 	        "furigana": "しゅるい",
@@ -181,7 +181,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "別途",
 	        "furigana": "べっと",
@@ -190,7 +190,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "記述",
 	        "furigana": "きじゅつ",
@@ -199,7 +199,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "設定",
 	        "furigana": "せってい",
@@ -208,7 +208,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "確認",
 	        "furigana": "かくにん",
@@ -217,7 +217,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "接続",
 	        "furigana": "せつぞく",
@@ -226,7 +226,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "区別",
 	        "furigana": "くべつ",
@@ -235,7 +235,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "削除",
 	        "furigana": "さくじょ",
@@ -244,7 +244,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "構成",
 	        "furigana": "こうせい",
@@ -253,7 +253,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "仕組み",
 	        "furigana": "しくみ",
@@ -262,7 +262,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "役割",
 	        "furigana": "やくわり",
@@ -271,7 +271,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "工数",
 	        "furigana": "こうすう",
@@ -280,7 +280,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "検索",
 	        "furigana": "けんさく",
@@ -289,7 +289,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "重要",
 	        "furigana": "じゅうよう",
@@ -298,7 +298,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "実行",
 	        "furigana": "じっこう",
@@ -307,7 +307,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "条件",
 	        "furigana": "じょうけん",
@@ -316,7 +316,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "変数",
 	        "furigana": "へんすう",
@@ -325,7 +325,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "形式",
 	        "furigana": "けいしき",
@@ -334,7 +334,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "複雑",
 	        "furigana": "ふくざつ",
@@ -343,7 +343,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "変換",
 	        "furigana": "へんかん",
@@ -352,7 +352,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "関数",
 	        "furigana": "かんすう",
@@ -361,7 +361,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "演算子",
 	        "furigana": "えんざんし",
@@ -370,7 +370,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "並び順",
 	        "furigana": "ならびじゅん",
@@ -379,7 +379,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "保証",
 	        "furigana": "ほしょう",
@@ -388,7 +388,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "結果",
 	        "furigana": "けっか",
@@ -397,7 +397,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "排除",
 	        "furigana": "はいじょ",
@@ -406,7 +406,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "件数",
 	        "furigana": "けんすう",
@@ -415,7 +415,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "深刻",
 	        "furigana": "しんこく",
@@ -424,7 +424,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "画面",
 	        "furigana": "がめん",
@@ -433,7 +433,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "修正",
 	        "furigana": "しゅうせい",
@@ -442,7 +442,7 @@
 	        "etc": ""
 	    },
 	    {
-	        "type": "仕樣書で使う漢字1",
+	        "type": "仕樣書漢字1",
 	        "language": "Japanese",
 	        "word": "格納",
 	        "furigana": "かくのう",
