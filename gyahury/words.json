@@ -450,6 +450,456 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "登録",
+	        "furigana": "とうろく",
+	        "meaning": "등록",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "正規化",
+	        "furigana": "せいきか",
+	        "meaning": "정규화",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "結合",
+	        "furigana": "けつごう",
+	        "meaning": "결합",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "参照",
+	        "furigana": "さんしょう",
+	        "meaning": "참조",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "定義",
+	        "furigana": "ていぎ",
+	        "meaning": "정의",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "制限",
+	        "furigana": "せいげん",
+	        "meaning": "제한",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "更新",
+	        "furigana": "こうしん",
+	        "meaning": "갱신",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "作成",
+	        "furigana": "さくせい",
+	        "meaning": "작성",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "備考",
+	        "furigana": "びこう",
+	        "meaning": "비고",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "比較",
+	        "furigana": "ひかく",
+	        "meaning": "비교",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "取得",
+	        "furigana": "しゅとく",
+	        "meaning": "취득",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "影響",
+	        "furigana": "えいきょう",
+	        "meaning": "영향",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "評価",
+	        "furigana": "ひょうか",
+	        "meaning": "평가",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "概念",
+	        "furigana": "がいねん",
+	        "meaning": "개념",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "索引",
+	        "furigana": "さくいん",
+	        "meaning": "색인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "順序",
+	        "furigana": "じゅんじょ",
+	        "meaning": "순서",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "構造",
+	        "furigana": "こうぞう",
+	        "meaning": "구조",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "指定",
+	        "furigana": "してい",
+	        "meaning": "지정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "情報",
+	        "furigana": "じょうほう",
+	        "meaning": "정보",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "詳細",
+	        "furigana": "しょうさい",
+	        "meaning": "상세",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "権限",
+	        "furigana": "けんげん",
+	        "meaning": "권한",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "切断",
+	        "furigana": "せつだん",
+	        "meaning": "절단",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "仕様",
+	        "furigana": "しよう",
+	        "meaning": "사양",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "中身",
+	        "furigana": "なかみ",
+	        "meaning": "내용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "理解",
+	        "furigana": "りかい",
+	        "meaning": "이해",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "位置",
+	        "furigana": "いち",
+	        "meaning": "위치",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "文字列",
+	        "furigana": "もじれつ",
+	        "meaning": "문자열",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "空白",
+	        "furigana": "くうはく",
+	        "meaning": "공백",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "転送",
+	        "furigana": "てんそう",
+	        "meaning": "전송",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "通信",
+	        "furigana": "つうしん",
+	        "meaning": "통신",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "判断",
+	        "furigana": "はんだん",
+	        "meaning": "판단",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "原則",
+	        "furigana": "げんそく",
+	        "meaning": "원칙",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "検討",
+	        "furigana": "けんとう",
+	        "meaning": "검토",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "構築",
+	        "furigana": "こうちく",
+	        "meaning": "구축",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "配置",
+	        "furigana": "はいち",
+	        "meaning": "배치",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "状況",
+	        "furigana": "じょうきょう",
+	        "meaning": "상황",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "制御",
+	        "furigana": "せいぎょ",
+	        "meaning": "제어",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "統合",
+	        "furigana": "とうごう",
+	        "meaning": "통합",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "参考",
+	        "furigana": "さんこう",
+	        "meaning": "참고",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "優先",
+	        "furigana": "ゆうせん",
+	        "meaning": "우선",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "配布",
+	        "furigana": "はいふ",
+	        "meaning": "배포",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "複数",
+	        "furigana": "ふくすう",
+	        "meaning": "복수",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "解決",
+	        "furigana": "かいけつ",
+	        "meaning": "해결",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "付加",
+	        "furigana": "ふか",
+	        "meaning": "부가",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "完全",
+	        "furigana": "かんぜん",
+	        "meaning": "완전",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "範囲",
+	        "furigana": "はんい",
+	        "meaning": "범위",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "規則",
+	        "furigana": "きそく",
+	        "meaning": "규칙",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "違反",
+	        "furigana": "いはん",
+	        "meaning": "위반",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "組み合わせ",
+	        "furigana": "くみあわせ",
+	        "meaning": "편성",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字2",
+	        "language": "Japanese",
+	        "word": "所属",
+	        "furigana": "しょぞく",
+	        "meaning": "소속",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
