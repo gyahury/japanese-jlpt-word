@@ -1110,9 +1110,9 @@
 	    {
 	        "type": "仕樣書漢字3",
 	        "language": "Japanese",
-	        "word": "簡潔",
-	        "furigana": "かんけつ",
-	        "meaning": "간결",
+	        "word": "間隔",
+	        "furigana": "かんかく",
+	        "meaning": "간격",
 	        "pos": "noun",
 	        "etc": ""
 	    },
