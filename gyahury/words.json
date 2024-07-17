@@ -900,6 +900,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "離承",
+	        "furigana": "けいしょう",
+	        "meaning": "계승",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "要素",
+	        "furigana": "ようそ",
+	        "meaning": "요소",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "提供",
+	        "furigana": "ていきょう",
+	        "meaning": "제공",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "項目",
+	        "furigana": "こうもく",
+	        "meaning": "항목",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "識別",
+	        "furigana": "しきべつ",
+	        "meaning": "식별",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "固定",
+	        "furigana": "こてい",
+	        "meaning": "고정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "搭載",
+	        "furigana": "とうさい",
+	        "meaning": "탑재",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "防止",
+	        "furigana": "ぼうし",
+	        "meaning": "방지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "事前",
+	        "furigana": "じぜん",
+	        "meaning": "사전",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "論理的",
+	        "furigana": "ろんりてき",
+	        "meaning": "논리적",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "割り当て",
+	        "furigana": "わりあて",
+	        "meaning": "할당",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "拡大",
+	        "furigana": "かくだい",
+	        "meaning": "확대",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "移動",
+	        "furigana": "いどう",
+	        "meaning": "이동",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "履歴",
+	        "furigana": "りれき",
+	        "meaning": "이력",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "反映",
+	        "furigana": "はんえい",
+	        "meaning": "반영",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "前後",
+	        "furigana": "ぜんご",
+	        "meaning": "전후",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "強制的",
+	        "furigana": "きょうせいてき",
+	        "meaning": "강제적",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "発生",
+	        "furigana": "はっせい",
+	        "meaning": "발생",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "一貫性",
+	        "furigana": "いっかんせい",
+	        "meaning": "일관성",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "回復",
+	        "furigana": "かいふく",
+	        "meaning": "회복",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "備える",
+	        "furigana": "そなえる",
+	        "meaning": "구비하다",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "確保",
+	        "furigana": "かくほ",
+	        "meaning": "확보",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "分担",
+	        "furigana": "ぶんたん",
+	        "meaning": "분담",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "簡潔",
+	        "furigana": "かんけつ",
+	        "meaning": "간결",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書漢字3",
+	        "language": "Japanese",
+	        "word": "特徴",
+	        "furigana": "とくちょう",
+	        "meaning": "특징",
+	        "pos": "noun",
+	        "etc": ""
+		},
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
