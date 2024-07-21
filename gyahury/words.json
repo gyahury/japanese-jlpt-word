@@ -29510,6 +29510,195 @@
 	        "meaning": "기대함",
 	        "pos": "noun",
 	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "交通機関",
+	        "furigana": "こうつうきかん",
+	        "meaning": "교통기관",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "通う",
+	        "furigana": "かよう",
+	        "meaning": "다니다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "先",
+	        "furigana": "さき",
+	        "meaning": "다음",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "～ことにする",
+	        "furigana": "~ことにする",
+	        "meaning": "~하기로 하다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "まよう",
+	        "furigana": "まよう",
+	        "meaning": "헤매다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "見つける",
+	        "furigana": "みつける",
+	        "meaning": "찾아내다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "にっこりする",
+	        "furigana": "にっこりする",
+	        "meaning": "생긋",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "便利な",
+	        "furigana": "べんりな",
+	        "meaning": "편리함",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "利用する",
+	        "furigana": "りようする",
+	        "meaning": "이용",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "動く",
+	        "furigana": "うごく",
+	        "meaning": "움직이다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "方向",
+	        "furigana": "ほうこう",
+	        "meaning": "방향",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "見当をつける",
+	        "furigana": "けんとうをつける",
+	        "meaning": "짐작을 하다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "宣伝する",
+	        "furigana": "せんでんする",
+	        "meaning": "선전",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "会釈する",
+	        "furigana": "えしゃくする",
+	        "meaning": "가볍게 인사함",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "おしゃべりな",
+	        "furigana": "おしゃべりな",
+	        "meaning": "수다스러움",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "この間",
+	        "furigana": "このあいだ",
+	        "meaning": "일전, 요전",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "耳に入る",
+	        "furigana": "みみにはいる",
+	        "meaning": "귀에 들리다",
+	        "pos": "expression",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "はっきりする",
+	        "furigana": "はっきりする",
+	        "meaning": "명확히",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "横",
+	        "furigana": "よこ",
+	        "meaning": "옆",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "ときどき",
+	        "furigana": "ときどき",
+	        "meaning": "가끔, 때때로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프2",
+	        "language": "Japanese",
+	        "word": "気が進まない",
+	        "furigana": "きがすすまない",
+	        "meaning": "마음이 내키지 않다",
+	        "pos": "expression",
+	        "etc": ""
 	    }
     ]
 }
