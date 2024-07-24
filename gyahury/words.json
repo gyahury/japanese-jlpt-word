@@ -2250,6 +2250,231 @@
 	        "pos": "noun",
 	        "etc": ""
 		},
+		{
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "静止",
+	        "furigana": "せいし",
+	        "meaning": "정지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "支給",
+	        "furigana": "しきゅう",
+	        "meaning": "지급",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "法人",
+	        "furigana": "ほうじん",
+	        "meaning": "법인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "擬似（品）",
+	        "furigana": "ぎじ（ひん）",
+	        "meaning": "의사(품)",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "半角",
+	        "furigana": "はんかく",
+	        "meaning": "반각",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "全角",
+	        "furigana": "ぜんかく",
+	        "meaning": "전각",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "決裁",
+	        "furigana": "けっさい",
+	        "meaning": "결재",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "序列",
+	        "furigana": "じょれつ",
+	        "meaning": "서열",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "置換",
+	        "furigana": "ちかん",
+	        "meaning": "치환",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "請求",
+	        "furigana": "せいきゅう",
+	        "meaning": "청구",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "階層",
+	        "furigana": "かいそう",
+	        "meaning": "계층",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "支払い（支払）",
+	        "furigana": "しはらい",
+	        "meaning": "지불",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "数式",
+	        "furigana": "すうしき",
+	        "meaning": "수식",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "技能",
+	        "furigana": "ぎのう",
+	        "meaning": "기능",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "確定",
+	        "furigana": "かくてい",
+	        "meaning": "확정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "総務",
+	        "furigana": "そうむ",
+	        "meaning": "총무",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "関連",
+	        "furigana": "かんれん",
+	        "meaning": "관련",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "連動",
+	        "furigana": "れんどう",
+	        "meaning": "연동",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "改正",
+	        "furigana": "かいせい",
+	        "meaning": "개정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "統計",
+	        "furigana": "とうけい",
+	        "meaning": "통계",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "警告",
+	        "furigana": "けいこく",
+	        "meaning": "경고",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "拡張子",
+	        "furigana": "かくちょうし",
+	        "meaning": "확장자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "連続",
+	        "furigana": "れんぞく",
+	        "meaning": "연속",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "行頭",
+	        "furigana": "ぎょうとう",
+	        "meaning": "행의 첫머리",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書251-275",
+	        "language": "Japanese",
+	        "word": "訂正",
+	        "furigana": "ていせい",
+	        "meaning": "정정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
