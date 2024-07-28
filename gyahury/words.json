@@ -30374,6 +30374,204 @@
 	        "meaning": "마음이 내키지 않다",
 	        "pos": "expression",
 	        "etc": ""
-	    }
+	    },
+		{
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "画面",
+	        "furigana": "がめん",
+	        "meaning": "화면",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "すます",
+	        "furigana": "すます",
+	        "meaning": "끝내다, 마치다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "準備する",
+	        "furigana": "じゅんびする",
+	        "meaning": "준비",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "変化する",
+	        "furigana": "へんかする",
+	        "meaning": "변화",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "姿",
+	        "furigana": "すがた",
+	        "meaning": "모습",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "囲む",
+	        "furigana": "かこむ",
+	        "meaning": "둘러싸다, 둘러앉다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "バランス",
+	        "furigana": "バランス",
+	        "meaning": "밸런스",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "なつかしい",
+	        "furigana": "なつかしい",
+	        "meaning": "그립다",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "目をやる",
+	        "furigana": "めをやる",
+	        "meaning": "보다, 눈길을 돌리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "ほっとする",
+	        "furigana": "ほっとする",
+	        "meaning": "한숨 돌리다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "習い事",
+	        "furigana": "ならいごと",
+	        "meaning": "배우는 일, 학원",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "~うち",
+	        "furigana": "~うち",
+	        "meaning": "~사이, ~동안",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "温める",
+	        "furigana": "あたためる",
+	        "meaning": "따뜻하게 하다, 데우다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "変わる",
+	        "furigana": "かわる",
+	        "meaning": "변화하다, 바뀌다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "風景",
+	        "furigana": "ふうけい",
+	        "meaning": "풍경",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "昔",
+	        "furigana": "むかし",
+	        "meaning": "옛날, 예전",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "声を上げる",
+	        "furigana": "こえをあげる",
+	        "meaning": "목소리를 높이다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "(遊び)疲れる",
+	        "furigana": "(あそび)つかれる",
+	        "meaning": "놀다 지치다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "あふれる",
+	        "furigana": "あふれる",
+	        "meaning": "(가득차서) 넘치다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "栄養",
+	        "furigana": "えいよう",
+	        "meaning": "영양",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "商品",
+	        "furigana": "しょうひん",
+	        "meaning": "상품",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "중급점프3",
+	        "language": "Japanese",
+	        "word": "(時間を)かける",
+	        "furigana": "(じかんを)かける",
+	        "meaning": "(시간을) 들이다",
+	        "pos": "verb",
+	        "etc": ""
+	    }    
     ]
 }
