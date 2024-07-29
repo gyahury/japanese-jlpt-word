@@ -2475,6 +2475,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "加算",
+	        "furigana": "かさん",
+	        "meaning": "가산",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "再生",
+	        "furigana": "さいせい",
+	        "meaning": "재생",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "推定",
+	        "furigana": "すいてい",
+	        "meaning": "추정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "補正",
+	        "furigana": "ほせい",
+	        "meaning": "보정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "場合",
+	        "furigana": "ばあい",
+	        "meaning": "경우",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "乗算",
+	        "furigana": "じょうざん",
+	        "meaning": "승산(곱셈)",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "整数",
+	        "furigana": "せいすう",
+	        "meaning": "정수",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "精度",
+	        "furigana": "せいど",
+	        "meaning": "정도",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "着目",
+	        "furigana": "ちゃくもく",
+	        "meaning": "착목(주목)",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "単純",
+	        "furigana": "たんじゅん",
+	        "meaning": "단순",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "補助",
+	        "furigana": "ほじょ",
+	        "meaning": "보조",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "領域",
+	        "furigana": "りょういき",
+	        "meaning": "영역",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "収録",
+	        "furigana": "しゅうろく",
+	        "meaning": "수록",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "合計",
+	        "furigana": "ごうけい",
+	        "meaning": "합계",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "解説",
+	        "furigana": "かいせつ",
+	        "meaning": "해설",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "専用",
+	        "furigana": "せんよう",
+	        "meaning": "전용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "獲得",
+	        "furigana": "かくとく",
+	        "meaning": "획득",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "特殊",
+	        "furigana": "とくしゅ",
+	        "meaning": "특수",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "区切り",
+	        "furigana": "くぎり",
+	        "meaning": "매듭",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "緩和",
+	        "furigana": "かんわ",
+	        "meaning": "완화",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "物理",
+	        "furigana": "ぶつり",
+	        "meaning": "물리",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "最新",
+	        "furigana": "さいしん",
+	        "meaning": "최신",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "未満",
+	        "furigana": "みまん",
+	        "meaning": "미만",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "無効",
+	        "furigana": "むこう",
+	        "meaning": "무효",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書276-300",
+	        "language": "Japanese",
+	        "word": "境界",
+	        "furigana": "きょうかい",
+	        "meaning": "경계",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
