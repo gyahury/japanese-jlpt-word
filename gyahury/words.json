@@ -2700,6 +2700,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "背景",
+	        "furigana": "はいけい",
+	        "meaning": "배경",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "中断",
+	        "furigana": "ちゅうだん",
+	        "meaning": "중단",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "実際",
+	        "furigana": "じっさい",
+	        "meaning": "실제",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "付録",
+	        "furigana": "ふろく",
+	        "meaning": "부록",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "回転",
+	        "furigana": "かいてん",
+	        "meaning": "회전",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "補足",
+	        "furigana": "ほそく",
+	        "meaning": "보충",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "帰依",
+	        "furigana": "きえ",
+	        "meaning": "귀한",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "性別",
+	        "furigana": "せいべつ",
+	        "meaning": "성별",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "拡散",
+	        "furigana": "かくさん",
+	        "meaning": "확산",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "具現",
+	        "furigana": "ぐげん",
+	        "meaning": "구현",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "直通",
+	        "furigana": "ちょくつう",
+	        "meaning": "직통",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "呼出し (呼出)",
+	        "furigana": "よびだし",
+	        "meaning": "호출",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "略称",
+	        "furigana": "りゃくしょう",
+	        "meaning": "약칭",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "事由",
+	        "furigana": "じゆう",
+	        "meaning": "사유",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "想定",
+	        "furigana": "そうてい",
+	        "meaning": "상정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "同様",
+	        "furigana": "どうよう",
+	        "meaning": "같음",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "基準",
+	        "furigana": "きじゅん",
+	        "meaning": "기준",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "以外",
+	        "furigana": "いがい",
+	        "meaning": "이외",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "順位",
+	        "furigana": "じゅんい",
+	        "meaning": "순위",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "上下",
+	        "furigana": "じょうげ",
+	        "meaning": "상하",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "制約",
+	        "furigana": "せいやく",
+	        "meaning": "제약",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "契約",
+	        "furigana": "けいやく",
+	        "meaning": "계약",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "配属",
+	        "furigana": "はいぞく",
+	        "meaning": "배속",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "保留",
+	        "furigana": "ほりゅう",
+	        "meaning": "보류",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書301-325",
+	        "language": "Japanese",
+	        "word": "承認",
+	        "furigana": "しょうにん",
+	        "meaning": "승인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
