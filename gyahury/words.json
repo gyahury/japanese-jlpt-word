@@ -2925,6 +2925,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "廃止",
+	        "furigana": "はいし",
+	        "meaning": "폐지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "部門",
+	        "furigana": "ぶもん",
+	        "meaning": "부문",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "案件",
+	        "furigana": "あんけん",
+	        "meaning": "안건",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "終了",
+	        "furigana": "しゅうりょう",
+	        "meaning": "종료",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "摘要",
+	        "furigana": "てきよう",
+	        "meaning": "적요",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "運用",
+	        "furigana": "うんよう",
+	        "meaning": "운용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "喪失",
+	        "furigana": "そうしつ",
+	        "meaning": "상실",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "所持",
+	        "furigana": "しょじ",
+	        "meaning": "소지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "応募",
+	        "furigana": "おうぼ",
+	        "meaning": "응모",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "方法",
+	        "furigana": "ほうほう",
+	        "meaning": "방법",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "使用",
+	        "furigana": "しよう",
+	        "meaning": "사용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "排出",
+	        "furigana": "はいしゅつ",
+	        "meaning": "배출",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "手当て(手当)",
+	        "furigana": "てあて",
+	        "meaning": "수당",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "経路",
+	        "furigana": "けいろ",
+	        "meaning": "경로",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "滞留",
+	        "furigana": "たいりゅう",
+	        "meaning": "체류",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "査定",
+	        "furigana": "さてい",
+	        "meaning": "사정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "目的",
+	        "furigana": "もくてき",
+	        "meaning": "목적",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "得点",
+	        "furigana": "とくてん",
+	        "meaning": "득점",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "最終",
+	        "furigana": "さいしゅう",
+	        "meaning": "최종",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "印象",
+	        "furigana": "いんしょう",
+	        "meaning": "인상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "形態",
+	        "furigana": "けいたい",
+	        "meaning": "형태",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "動機",
+	        "furigana": "どうき",
+	        "meaning": "동기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "志望",
+	        "furigana": "しぼう",
+	        "meaning": "지망",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "閉塞",
+	        "furigana": "へいそく",
+	        "meaning": "폐색",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書326-350",
+	        "language": "Japanese",
+	        "word": "日程",
+	        "furigana": "にってい",
+	        "meaning": "일정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
