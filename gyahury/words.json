@@ -3150,6 +3150,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "携帯",
+	        "furigana": "けいたい",
+	        "meaning": "휴대",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "経歴",
+	        "furigana": "けいれき",
+	        "meaning": "경력",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "置換(置換え)",
+	        "furigana": "ちかん(ちかんえ)",
+	        "meaning": "전환",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "記号",
+	        "furigana": "きごう",
+	        "meaning": "기호",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "導出",
+	        "furigana": "どうしゅつ",
+	        "meaning": "도출",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "特定",
+	        "furigana": "とくてい",
+	        "meaning": "특정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "絶対",
+	        "furigana": "ぜったい",
+	        "meaning": "절대",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "生成",
+	        "furigana": "せいせい",
+	        "meaning": "생성",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "終端",
+	        "furigana": "しゅうたん",
+	        "meaning": "종단",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "核心",
+	        "furigana": "かくしん",
+	        "meaning": "핵심",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "検査",
+	        "furigana": "けんさ",
+	        "meaning": "검사",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "現状",
+	        "furigana": "げんじょう",
+	        "meaning": "현상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "末尾",
+	        "furigana": "まつび",
+	        "meaning": "말미",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "複製",
+	        "furigana": "ふくせい",
+	        "meaning": "복제",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "資源",
+	        "furigana": "しげん",
+	        "meaning": "자원",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "実効",
+	        "furigana": "じっこう",
+	        "meaning": "실효",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "動機",
+	        "furigana": "どうき",
+	        "meaning": "동기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "休止",
+	        "furigana": "きゅうし",
+	        "meaning": "휴지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "存在",
+	        "furigana": "そんざい",
+	        "meaning": "존재",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "適切",
+	        "furigana": "てきせつ",
+	        "meaning": "적절",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "種別",
+	        "furigana": "しゅべつ",
+	        "meaning": "종별",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "記憶",
+	        "furigana": "きおく",
+	        "meaning": "기억",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "電力",
+	        "furigana": "でんりょく",
+	        "meaning": "전력",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "成功",
+	        "furigana": "せいこう",
+	        "meaning": "성공",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書351-375",
+	        "language": "Japanese",
+	        "word": "許容値",
+	        "furigana": "きょようち",
+	        "meaning": "허용치",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
