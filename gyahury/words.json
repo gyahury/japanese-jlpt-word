@@ -3405,9 +3405,9 @@
 	    {
 	        "type": "仕樣書376-400",
 	        "language": "Japanese",
-	        "word": "役割",
-	        "furigana": "やくわり",
-	        "meaning": "역할",
+	        "word": "復帰",
+	        "furigana": "ふっき",
+	        "meaning": "복귀",
 	        "pos": "noun",
 	        "etc": ""
 	    },
@@ -3423,15 +3423,6 @@
 	    {
 	        "type": "仕樣書376-400",
 	        "language": "Japanese",
-	        "word": "装置",
-	        "furigana": "そうち",
-	        "meaning": "장치",
-	        "pos": "noun",
-	        "etc": ""
-	    },
-	    {
-	        "type": "仕樣書376-400",
-	        "language": "Japanese",
 	        "word": "装記",
 	        "furigana": "そうき",
 	        "meaning": "표기",
@@ -3441,9 +3432,9 @@
 	    {
 	        "type": "仕樣書376-400",
 	        "language": "Japanese",
-	        "word": "箱詰",
-	        "furigana": "はこづめ",
-	        "meaning": "상자에 담음",
+	        "word": "相当",
+	        "furigana": "そうとう",
+	        "meaning": "상당",
 	        "pos": "noun",
 	        "etc": ""
 	    },
@@ -3597,6 +3588,15 @@
 	        "word": "遠隔",
 	        "furigana": "えんかく",
 	        "meaning": "원격",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "事項",
+	        "furigana": "じこう",
+	        "meaning": "사항",
 	        "pos": "noun",
 	        "etc": ""
 	    },
