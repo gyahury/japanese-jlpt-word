@@ -3375,6 +3375,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "機種",
+	        "furigana": "きしゅ",
+	        "meaning": "기종",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "分解",
+	        "furigana": "ぶんかい",
+	        "meaning": "분해",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "数値",
+	        "furigana": "すうち",
+	        "meaning": "수치",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "役割",
+	        "furigana": "やくわり",
+	        "meaning": "역할",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "修飾",
+	        "furigana": "しゅうしょく",
+	        "meaning": "수식",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "装置",
+	        "furigana": "そうち",
+	        "meaning": "장치",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "装記",
+	        "furigana": "そうき",
+	        "meaning": "표기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "箱詰",
+	        "furigana": "はこづめ",
+	        "meaning": "상자에 담음",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "言語",
+	        "furigana": "げんご",
+	        "meaning": "언어",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "符号",
+	        "furigana": "ふごう",
+	        "meaning": "부호",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "分割",
+	        "furigana": "ぶんかつ",
+	        "meaning": "분할",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "初期化",
+	        "furigana": "しょきか",
+	        "meaning": "초기화",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "依存",
+	        "furigana": "いぞん",
+	        "meaning": "의존",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "解放",
+	        "furigana": "かいほう",
+	        "meaning": "해방",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "源泉",
+	        "furigana": "げんせん",
+	        "meaning": "원천",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "回収",
+	        "furigana": "かいしゅう",
+	        "meaning": "회수",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "在庫",
+	        "furigana": "ざいこ",
+	        "meaning": "재고",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "効率",
+	        "furigana": "こうりつ",
+	        "meaning": "효율",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "見積書",
+	        "furigana": "みつもりしょ",
+	        "meaning": "견적서",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "消耗",
+	        "furigana": "しょうもう",
+	        "meaning": "소모",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "納品",
+	        "furigana": "のうひん",
+	        "meaning": "납품",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "点検",
+	        "furigana": "てんけん",
+	        "meaning": "점검",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "診断",
+	        "furigana": "しんだん",
+	        "meaning": "진단",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "整列",
+	        "furigana": "せいれつ",
+	        "meaning": "정렬",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書376-400",
+	        "language": "Japanese",
+	        "word": "遠隔",
+	        "furigana": "えんかく",
+	        "meaning": "원격",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
