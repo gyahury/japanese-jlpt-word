@@ -3600,6 +3600,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "練習",
+	        "furigana": "れんしゅう",
+	        "meaning": "연습",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "利用",
+	        "furigana": "りよう",
+	        "meaning": "이용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "案項",
+	        "furigana": "あんこう",
+	        "meaning": "조항",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "同意",
+	        "furigana": "どうい",
+	        "meaning": "동의",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "本書",
+	        "furigana": "ほんしょ",
+	        "meaning": "본서",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "内容",
+	        "furigana": "ないよう",
+	        "meaning": "내용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "総合",
+	        "furigana": "そうごう",
+	        "meaning": "총합",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "消費",
+	        "furigana": "しょうひ",
+	        "meaning": "소비",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "登場",
+	        "furigana": "とうじょう",
+	        "meaning": "등장",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "以来",
+	        "furigana": "いらい",
+	        "meaning": "이후",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "急激",
+	        "furigana": "きゅうげき",
+	        "meaning": "급격",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "動的",
+	        "furigana": "どうてき",
+	        "meaning": "동적",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "製品",
+	        "furigana": "せいひん",
+	        "meaning": "제품",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "注目",
+	        "furigana": "ちゅうもく",
+	        "meaning": "주목",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "明確",
+	        "furigana": "めいかく",
+	        "meaning": "명확",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "徹底",
+	        "furigana": "てってい",
+	        "meaning": "철저",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "指向",
+	        "furigana": "しこう",
+	        "meaning": "지향",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "自動",
+	        "furigana": "じどう",
+	        "meaning": "자동",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "材料",
+	        "furigana": "ざいりょう",
+	        "meaning": "재료",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "速度",
+	        "furigana": "そくど",
+	        "meaning": "속도",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "仮想",
+	        "furigana": "かそう",
+	        "meaning": "가상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "保存",
+	        "furigana": "ほぞん",
+	        "meaning": "보존",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "証拠",
+	        "furigana": "しょうこ",
+	        "meaning": "증거",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "既存",
+	        "furigana": "きそん",
+	        "meaning": "기존",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書401-425",
+	        "language": "Japanese",
+	        "word": "頻繁",
+	        "furigana": "ひんぱん",
+	        "meaning": "빈번",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
