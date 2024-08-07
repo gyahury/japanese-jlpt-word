@@ -3825,6 +3825,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "命令",
+	        "furigana": "めいれい",
+	        "meaning": "명령",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "定数",
+	        "furigana": "ていすう",
+	        "meaning": "정수",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "先頭",
+	        "furigana": "せんとう",
+	        "meaning": "선두",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "見通し",
+	        "furigana": "みとおし",
+	        "meaning": "전망",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "代入",
+	        "furigana": "だいにゅう",
+	        "meaning": "대입",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "注釈",
+	        "furigana": "ちゅうしゃく",
+	        "meaning": "주석",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "進展",
+	        "furigana": "しんてん",
+	        "meaning": "진전",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "避ける",
+	        "furigana": "さける",
+	        "meaning": "피하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "個人",
+	        "furigana": "こじん",
+	        "meaning": "개인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "知識",
+	        "furigana": "ちしき",
+	        "meaning": "지식",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "主眼",
+	        "furigana": "しゅがん",
+	        "meaning": "주안",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "言及",
+	        "furigana": "げんきゅう",
+	        "meaning": "언급",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "判別",
+	        "furigana": "はんべつ",
+	        "meaning": "판별",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "適用",
+	        "furigana": "てきよう",
+	        "meaning": "적용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "独自",
+	        "furigana": "どくじ",
+	        "meaning": "독자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "経過",
+	        "furigana": "けいか",
+	        "meaning": "경과",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "実用",
+	        "furigana": "じつよう",
+	        "meaning": "실용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "取り出す",
+	        "furigana": "とりだす",
+	        "meaning": "꺼내다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "組み込む",
+	        "furigana": "くみこむ",
+	        "meaning": "짜넣다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "語句",
+	        "furigana": "ごく",
+	        "meaning": "어구",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "文章",
+	        "furigana": "ぶんしょう",
+	        "meaning": "문장",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "受け渡し",
+	        "furigana": "うけわたし",
+	        "meaning": "주고받음",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "応用",
+	        "furigana": "おうよう",
+	        "meaning": "응용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "片隅",
+	        "furigana": "かたすみ",
+	        "meaning": "한쪽",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書426-450",
+	        "language": "Japanese",
+	        "word": "改造",
+	        "furigana": "かいぞう",
+	        "meaning": "개조",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
