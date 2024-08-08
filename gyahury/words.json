@@ -4050,6 +4050,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "程度",
+	        "furigana": "ていど",
+	        "meaning": "정도",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "習慣",
+	        "furigana": "しゅうかん",
+	        "meaning": "습관",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "書抜",
+	        "furigana": "しょばつ",
+	        "meaning": "기발",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "順番",
+	        "furigana": "じゅんばん",
+	        "meaning": "순서",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "偏差",
+	        "furigana": "へんさ",
+	        "meaning": "편차",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "平均",
+	        "furigana": "へいきん",
+	        "meaning": "평균",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "方向",
+	        "furigana": "ほうこう",
+	        "meaning": "방향",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "求める",
+	        "furigana": "もとめる",
+	        "meaning": "구하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "促す",
+	        "furigana": "うながす",
+	        "meaning": "촉진하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "売り上げ",
+	        "furigana": "うりあげ",
+	        "meaning": "매상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "移行",
+	        "furigana": "いこう",
+	        "meaning": "이행",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "個別",
+	        "furigana": "こべつ",
+	        "meaning": "개별",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "計算",
+	        "furigana": "けいさん",
+	        "meaning": "계산",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "設ける",
+	        "furigana": "もうける",
+	        "meaning": "설치하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "最後",
+	        "furigana": "さいご",
+	        "meaning": "최후",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "簡略",
+	        "furigana": "かんりゃく",
+	        "meaning": "간략",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "学習",
+	        "furigana": "がくしゅう",
+	        "meaning": "학습",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "全体",
+	        "furigana": "ぜんたい",
+	        "meaning": "전체",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "目次",
+	        "furigana": "もくじ",
+	        "meaning": "목차",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "空欄",
+	        "furigana": "くうらん",
+	        "meaning": "공란",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "手段",
+	        "furigana": "しゅだん",
+	        "meaning": "수단",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "強力",
+	        "furigana": "きょうりょく",
+	        "meaning": "강력",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "最先端",
+	        "furigana": "さいせんたん",
+	        "meaning": "최첨단",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "揃える",
+	        "furigana": "そろえる",
+	        "meaning": "맞추다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書451-475",
+	        "language": "Japanese",
+	        "word": "技法",
+	        "furigana": "ぎほう",
+	        "meaning": "기법",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
