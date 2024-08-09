@@ -4275,6 +4275,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "扱う",
+	        "furigana": "あつかう",
+	        "meaning": "취급하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "対応",
+	        "furigana": "たいおう",
+	        "meaning": "대응",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "直前",
+	        "furigana": "ちょくぜん",
+	        "meaning": "직전",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "該当",
+	        "furigana": "がいとう",
+	        "meaning": "해당",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "完成",
+	        "furigana": "かんせい",
+	        "meaning": "완성",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "垂直",
+	        "furigana": "すいちょく",
+	        "meaning": "수직",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "上書き",
+	        "furigana": "うわがき",
+	        "meaning": "덮어쓰기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "行目",
+	        "furigana": "ぎょうめ",
+	        "meaning": "~째 줄",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "移る",
+	        "furigana": "うつる",
+	        "meaning": "옮기다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "最初",
+	        "furigana": "さいしょ",
+	        "meaning": "최초",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "提出",
+	        "furigana": "ていしゅつ",
+	        "meaning": "제출",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "悪用",
+	        "furigana": "あくよう",
+	        "meaning": "악용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "書式",
+	        "furigana": "しょしき",
+	        "meaning": "서식",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "妥当",
+	        "furigana": "だとう",
+	        "meaning": "타당",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "集積回路",
+	        "furigana": "しゅうせきかいろ",
+	        "meaning": "집적회로",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "数字",
+	        "furigana": "すうじ",
+	        "meaning": "숫자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "分離",
+	        "furigana": "ぶんり",
+	        "meaning": "분리",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "血液型",
+	        "furigana": "けつえきがた",
+	        "meaning": "혈액형",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "現実",
+	        "furigana": "げんじつ",
+	        "meaning": "현실",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "細分化",
+	        "furigana": "さいぶんか",
+	        "meaning": "세분화",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "要件",
+	        "furigana": "ようけん",
+	        "meaning": "용건",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "業務",
+	        "furigana": "ぎょうむ",
+	        "meaning": "업무",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "簡単",
+	        "furigana": "かんたん",
+	        "meaning": "간단",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "出勤",
+	        "furigana": "しゅっきん",
+	        "meaning": "출근",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書476-500",
+	        "language": "Japanese",
+	        "word": "退社",
+	        "furigana": "たいしゃ",
+	        "meaning": "퇴근",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
