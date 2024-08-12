@@ -4500,6 +4500,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "効果",
+	        "furigana": "こうか",
+	        "meaning": "효과",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "画素",
+	        "furigana": "がそ",
+	        "meaning": "화소",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "接触",
+	        "furigana": "せっしょく",
+	        "meaning": "접촉",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "要点",
+	        "furigana": "ようてん",
+	        "meaning": "요점",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "確立",
+	        "furigana": "かくりつ",
+	        "meaning": "확립",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "送信",
+	        "furigana": "そうしん",
+	        "meaning": "송신",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "勤務",
+	        "furigana": "きんむ",
+	        "meaning": "근무",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "解答",
+	        "furigana": "かいとう",
+	        "meaning": "해답",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "独習",
+	        "furigana": "どくしゅう",
+	        "meaning": "독습",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "重大",
+	        "furigana": "じゅうだい",
+	        "meaning": "중대",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "消費者",
+	        "furigana": "しょうひしゃ",
+	        "meaning": "소비자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "基盤",
+	        "furigana": "きばん",
+	        "meaning": "기반",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "保護",
+	        "furigana": "ほご",
+	        "meaning": "보호",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "機密",
+	        "furigana": "きみつ",
+	        "meaning": "기밀",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "同期化",
+	        "furigana": "どうきか",
+	        "meaning": "동기화",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "促進",
+	        "furigana": "そくしん",
+	        "meaning": "촉진",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "形成",
+	        "furigana": "けいせい",
+	        "meaning": "형성",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "間接",
+	        "furigana": "かんせつ",
+	        "meaning": "간접",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "各種",
+	        "furigana": "かくしゅ",
+	        "meaning": "각종",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "面積",
+	        "furigana": "めんせき",
+	        "meaning": "면적",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "販売",
+	        "furigana": "はんばい",
+	        "meaning": "판매",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "無料",
+	        "furigana": "むりょう",
+	        "meaning": "무료",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "認識",
+	        "furigana": "にんしき",
+	        "meaning": "인식",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "採用",
+	        "furigana": "さいよう",
+	        "meaning": "채용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書501-525",
+	        "language": "Japanese",
+	        "word": "縮小",
+	        "furigana": "しゅくしょう",
+	        "meaning": "축소",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
