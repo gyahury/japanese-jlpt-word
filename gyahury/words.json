@@ -4725,6 +4725,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "直角",
+	        "furigana": "ちょっかく",
+	        "meaning": "직각",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "紹介",
+	        "furigana": "しょうかい",
+	        "meaning": "소개",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "現在",
+	        "furigana": "げんざい",
+	        "meaning": "현재",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "重力",
+	        "furigana": "じゅうりょく",
+	        "meaning": "중력",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "角度",
+	        "furigana": "かくど",
+	        "meaning": "각도",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "端子",
+	        "furigana": "たんし",
+	        "meaning": "단자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "仮定",
+	        "furigana": "かてい",
+	        "meaning": "가정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "厳密",
+	        "furigana": "げんみつ",
+	        "meaning": "엄밀",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "再開",
+	        "furigana": "さいかい",
+	        "meaning": "재개",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "検出",
+	        "furigana": "けんしゅつ",
+	        "meaning": "검출",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "報告",
+	        "furigana": "ほうこく",
+	        "meaning": "보고",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "総額",
+	        "furigana": "そうがく",
+	        "meaning": "총액",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "具体的",
+	        "furigana": "ぐたいてき",
+	        "meaning": "구체적",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "左右",
+	        "furigana": "さゆう",
+	        "meaning": "좌우",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "収入",
+	        "furigana": "しゅうにゅう",
+	        "meaning": "수입",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "座標",
+	        "furigana": "ざひょう",
+	        "meaning": "좌표",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "記録",
+	        "furigana": "きろく",
+	        "meaning": "기록",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "重複",
+	        "furigana": "ちょうふく",
+	        "meaning": "중복",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "作用",
+	        "furigana": "さよう",
+	        "meaning": "작용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "達成",
+	        "furigana": "たっせい",
+	        "meaning": "달성",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "抽象的",
+	        "furigana": "ちゅうしょうてき",
+	        "meaning": "추상적",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "材質",
+	        "furigana": "ざいしつ",
+	        "meaning": "재질",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "加工",
+	        "furigana": "かこう",
+	        "meaning": "가공",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "防水",
+	        "furigana": "ぼうすい",
+	        "meaning": "방수",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書526-550",
+	        "language": "Japanese",
+	        "word": "有形",
+	        "furigana": "ゆうけい",
+	        "meaning": "유형",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
