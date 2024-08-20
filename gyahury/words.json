@@ -5175,6 +5175,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "無作為",
+	        "furigana": "むさくい",
+	        "meaning": "무작위",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "方針",
+	        "furigana": "ほうしん",
+	        "meaning": "방침",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "指針",
+	        "furigana": "ししん",
+	        "meaning": "지침",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "集中",
+	        "furigana": "しゅうちゅう",
+	        "meaning": "집중",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "無名",
+	        "furigana": "むめい",
+	        "meaning": "무명",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "変化",
+	        "furigana": "へんか",
+	        "meaning": "변화",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "魅力",
+	        "furigana": "みりょく",
+	        "meaning": "매력",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "原点",
+	        "furigana": "げんてん",
+	        "meaning": "원점",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "外観",
+	        "furigana": "がいかん",
+	        "meaning": "외관",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "投資",
+	        "furigana": "とうし",
+	        "meaning": "투자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "戦略",
+	        "furigana": "せんりゃく",
+	        "meaning": "전략",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "解條",
+	        "furigana": "かいじょう",
+	        "meaning": "해제",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "従う",
+	        "furigana": "したがう",
+	        "meaning": "따르다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "低下",
+	        "furigana": "ていか",
+	        "meaning": "저하",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "感覚",
+	        "furigana": "かんかく",
+	        "meaning": "감각",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "置き換える",
+	        "furigana": "おきかえる",
+	        "meaning": "치환하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "有償",
+	        "furigana": "ゆうしょう",
+	        "meaning": "유상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "保管",
+	        "furigana": "ほかん",
+	        "meaning": "보관",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "機構",
+	        "furigana": "きこう",
+	        "meaning": "기구",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "分散",
+	        "furigana": "ぶんさん",
+	        "meaning": "분산",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "利益",
+	        "furigana": "りえき",
+	        "meaning": "이익",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "洗練",
+	        "furigana": "せんれん",
+	        "meaning": "세련",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "図解",
+	        "furigana": "ずかい",
+	        "meaning": "도해",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "一時的",
+	        "furigana": "いちじてき",
+	        "meaning": "일시적",
+	        "pos": "adj-na",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書576-600",
+	        "language": "Japanese",
+	        "word": "結ぶ",
+	        "furigana": "むすぶ",
+	        "meaning": "연결하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
