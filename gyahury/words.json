@@ -5400,6 +5400,231 @@
 	        "pos": "verb",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "周波数",
+	        "furigana": "しゅうはすう",
+	        "meaning": "주파수",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "連携",
+	        "furigana": "れんけい",
+	        "meaning": "연휴, 연계, 연동",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "用いる",
+	        "furigana": "もちいる",
+	        "meaning": "사용하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "表す",
+	        "furigana": "あらわす",
+	        "meaning": "표시하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "種別化",
+	        "furigana": "しゅべつか",
+	        "meaning": "종별화",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "選択肢",
+	        "furigana": "せんたくし",
+	        "meaning": "선택지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "圧迫",
+	        "furigana": "あっぱく",
+	        "meaning": "압박",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "否定",
+	        "furigana": "ひてい",
+	        "meaning": "부정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "需要",
+	        "furigana": "じゅよう",
+	        "meaning": "수요",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "画像",
+	        "furigana": "がぞう",
+	        "meaning": "화상",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "示す",
+	        "furigana": "しめす",
+	        "meaning": "표시하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "多言語",
+	        "furigana": "たげんご",
+	        "meaning": "다언어",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "有無",
+	        "furigana": "うむ",
+	        "meaning": "유무",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "仕方",
+	        "furigana": "しかた",
+	        "meaning": "방법",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "含む",
+	        "furigana": "ふくむ",
+	        "meaning": "포함하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "付与",
+	        "furigana": "ふよ",
+	        "meaning": "부여",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "不整合",
+	        "furigana": "ふせいごう",
+	        "meaning": "부정합",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "反応",
+	        "furigana": "はんのう",
+	        "meaning": "반응",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "引継ぎ",
+	        "furigana": "ひきつぎ",
+	        "meaning": "인수인계",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "散らばる",
+	        "furigana": "ちらばる",
+	        "meaning": "흩어지다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "段階",
+	        "furigana": "だんかい",
+	        "meaning": "단계",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "典型的",
+	        "furigana": "てんけいてき",
+	        "meaning": "전형적",
+	        "pos": "adj-na",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "箇所",
+	        "furigana": "かしょ",
+	        "meaning": "～곳",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "異なる",
+	        "furigana": "ことなる",
+	        "meaning": "다르다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書601-625",
+	        "language": "Japanese",
+	        "word": "派生",
+	        "furigana": "はせい",
+	        "meaning": "파생",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
