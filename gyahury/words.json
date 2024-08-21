@@ -5388,7 +5388,7 @@
 	        "word": "一時的",
 	        "furigana": "いちじてき",
 	        "meaning": "일시적",
-	        "pos": "adj-na",
+	        "pos": "adjective",
 	        "etc": ""
 	    },
 	    {
@@ -5595,7 +5595,7 @@
 	        "word": "典型的",
 	        "furigana": "てんけいてき",
 	        "meaning": "전형적",
-	        "pos": "adj-na",
+	        "pos": "adjective",
 	        "etc": ""
 	    },
 	    {
@@ -5623,6 +5623,231 @@
 	        "furigana": "はせい",
 	        "meaning": "파생",
 	        "pos": "noun",
+	        "etc": ""
+	    },
+		{
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "保守性",
+	        "furigana": "ほしゅせい",
+	        "meaning": "보수성",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "考慮",
+	        "furigana": "こうりょ",
+	        "meaning": "고려",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "適正",
+	        "furigana": "てきせい",
+	        "meaning": "적정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "特性",
+	        "furigana": "とくせい",
+	        "meaning": "특성",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "挙動",
+	        "furigana": "きょどう",
+	        "meaning": "거동",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "重視",
+	        "furigana": "じゅうし",
+	        "meaning": "중시",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "矢印",
+	        "furigana": "やじるし",
+	        "meaning": "화살표",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "課題",
+	        "furigana": "かだい",
+	        "meaning": "과제",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "応じる",
+	        "furigana": "おうじる",
+	        "meaning": "응하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "簡易的",
+	        "furigana": "かんいてき",
+	        "meaning": "간이적",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "観点",
+	        "furigana": "かんてん",
+	        "meaning": "관점",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "加える",
+	        "furigana": "くわえる",
+	        "meaning": "더하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "判定",
+	        "furigana": "はんてい",
+	        "meaning": "판정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "遮断",
+	        "furigana": "しゃだん",
+	        "meaning": "차단",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "効果的",
+	        "furigana": "こうかてき",
+	        "meaning": "효과적",
+	        "pos": "adjective",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "燃料",
+	        "furigana": "ねんりょう",
+	        "meaning": "연료",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "貼り付け",
+	        "furigana": "はりつけ",
+	        "meaning": "붙여넣기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "類似",
+	        "furigana": "るいじ",
+	        "meaning": "유사",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "担う",
+	        "furigana": "になう",
+	        "meaning": "떠맡다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "戻り値",
+	        "furigana": "もどりち",
+	        "meaning": "리턴값",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "文字化け",
+	        "furigana": "もじばけ",
+	        "meaning": "글자깨짐",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "決定",
+	        "furigana": "けってい",
+	        "meaning": "결정",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "増強",
+	        "furigana": "ぞうきょう",
+	        "meaning": "증강",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "提示",
+	        "furigana": "ていじ",
+	        "meaning": "제시",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書626-650",
+	        "language": "Japanese",
+	        "word": "効率的",
+	        "furigana": "こうりつてき",
+	        "meaning": "효율적",
+	        "pos": "adjective",
 	        "etc": ""
 	    },
         {
