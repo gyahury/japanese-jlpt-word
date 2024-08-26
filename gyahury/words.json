@@ -6075,6 +6075,231 @@
 	        "pos": "noun",
 	        "etc": ""
 	    },
+		{
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "識別子",
+	        "furigana": "しきべつし",
+	        "meaning": "식별자",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "移行",
+	        "furigana": "いこう",
+	        "meaning": "이행",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "字句",
+	        "furigana": "じく",
+	        "meaning": "자구",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "外部",
+	        "furigana": "がいぶ",
+	        "meaning": "외부",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "侵入",
+	        "furigana": "しんにゅう",
+	        "meaning": "침입",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "掲載",
+	        "furigana": "けいさい",
+	        "meaning": "게재",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "割引",
+	        "furigana": "わりびき",
+	        "meaning": "할인",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "焦点",
+	        "furigana": "しょうてん",
+	        "meaning": "초점",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "仲介",
+	        "furigana": "ちゅうかい",
+	        "meaning": "중개",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "果たす",
+	        "furigana": "はたす",
+	        "meaning": "달성하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "後述",
+	        "furigana": "こうじゅつ",
+	        "meaning": "후술",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "双方向",
+	        "furigana": "そうほうこう",
+	        "meaning": "쌍방",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "維持",
+	        "furigana": "いじ",
+	        "meaning": "유지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "把握",
+	        "furigana": "はあく",
+	        "meaning": "파악",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "隠蔽",
+	        "furigana": "いんぺい",
+	        "meaning": "은폐",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "不可視",
+	        "furigana": "ふかし",
+	        "meaning": "불가시",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "副作用",
+	        "furigana": "ふくさよう",
+	        "meaning": "부작용",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "責任",
+	        "furigana": "せきにん",
+	        "meaning": "책임",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "禁止",
+	        "furigana": "きんし",
+	        "meaning": "금지",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "行う",
+	        "furigana": "おこなう",
+	        "meaning": "하다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "小型",
+	        "furigana": "こがた",
+	        "meaning": "소형",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "互いに",
+	        "furigana": "たがいに",
+	        "meaning": "서로",
+	        "pos": "adverb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "機器",
+	        "furigana": "きき",
+	        "meaning": "기기",
+	        "pos": "noun",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "伴う",
+	        "furigana": "ともなう",
+	        "meaning": "따라가다",
+	        "pos": "verb",
+	        "etc": ""
+	    },
+	    {
+	        "type": "仕樣書676-700",
+	        "language": "Japanese",
+	        "word": "内包",
+	        "furigana": "ないほう",
+	        "meaning": "내포",
+	        "pos": "noun",
+	        "etc": ""
+	    },
         {
             "type": "2023 한자읽기",
             "language": "Japanese",
